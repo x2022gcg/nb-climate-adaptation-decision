@@ -10,3 +10,5 @@ The main choice this project looks at is whether public funding should go toward
 Investments in coastal infrastructure can offer those in danger quick and visible protection, but they are expensive and may have negative ecological effects. Even if they take longer to provide verifiable protection, forest-based strategies have longer-term advantages like reducing emissions, increasing ecosystem health, and lowering the risk of disasters in both rural and inland areas.
 
 The two choices of unbalanced distribution of costs and benefits across stakeholder groups and geographical areas, as well as the unpredictable nature of climate change, make this decision extremely difficult but critical. Selecting one strategy over another could limit the future flexibility and influence New Brunswick's adaptation to climate change strategy for years. Making an effective and effective policy decision consequently demands an understanding of the feedback they receive, delays, and unintended consequences related to each choice.
+## CLD Diagram 
+![alt text](394C95ED-70CA-4CC3-9D69-0DB0B7BA0295.heic)
