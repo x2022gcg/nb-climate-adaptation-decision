@@ -1,9 +1,9 @@
 # nb-climate-adaptation-decision 
 Policy backgrounder analyzing a climate adaptation funding decision in New Brunswick, examining trade-offs between coastal flood-protection infrastructure and long-term forest-based resilience strategies.
 
-# Decision Statement 
+## Decision Statement 
 Should the New Brunswick Minister of Natural Resources and Energy Development prioritize public funding for coastal flood-protection infrastructure (such as dikes and seawalls) or invest in forest-based carbon sequestration and wildfire-resilience programs to address climate risks?
-# Executive Summary 
+## Executive Summary 
 Rising sea levels, storm surges, flooding along the coast, and increasing stress on forest ecosystems are just a few of the climate-related threats that New Brunswick is dealing with. Public safety, housing, infrastructure, and important economic sectors including tourism, forestry, and fisheries are all at risk. Provincial decision-makers have to decide how to split limited preservation resources in ways that reduce long-term vulnerability while managing current concerns as the effects of climate change rise.
 
 The main choice this project looks at is whether public funding should go toward forest-based resilience strategies like carbon storage, better forest management, and wildfire risk reduction or engineered coastal flood-protection measures like dikes, seawalls, and other protective infrastructure.
