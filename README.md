@@ -16,3 +16,4 @@ The two choices of unbalanced distribution of costs and benefits across stakehol
 ## Initial CLD Diagram Description
 The CLD diagram shows us how climate change has the ability to increase coastal flood risk and infrastructure damage, driving investmentin flood-protection infrastructure that could encourage further coastal development and support long-term risk (R1). The balamcing loop has thr ability to capture how rising adaptation  spending creates fiscal pressure that constrains additional investment (B1). The second balancing loop illustrates how investment in forest-based resilience strengths long-term climate resilience, reducing future climate impacts and stabilizing the system over time 
 
+https://github.com/x2022gcg/nb-climate-adaptation-decision.git

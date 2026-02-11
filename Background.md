@@ -16,11 +16,21 @@ Government of New Brunswick, Canada. (n.d.-c). New Brunswick’s action on clima
 Working Group II – Impacts, Adaptation and Vulnerability. (n.d.). SIXTH ASSESSMENT REPORT. https://www.ipcc.ch/report/ar6/wg2/downloads/outreach/IPCC_AR6_WGII_FactSheet_SLR.pdf
 ## Datasets
 Natural Resource Canada for Sea Level Rise- https://natural-resources.canada.ca/environment/sea-level-rise
+> [!WARNING]
+> **Dead link** This link doesn't go anywhere
 
 Goverment of New Brunswick for flood risk info- https://www.gnb.ca/en/topic/laws-safety/emergency-preparedness-alerts/flooding.html
+> [!IMPORTANT]
+> **Not exportable** This link doesn't allow you to export the data
 
 Climate Projections- https://climatedata.ca
+> [!TIP]
+> **Download** Download here, it looks very manual: https://climatedata.ca/download/
+
 
 Natrual Resource Canada for forest inventory- https://natural-resources.canada.ca/our-natural-resources/forests/national-forest-inventory
+
+> [!WARNING]
+> **Dead link** This link doesn't exist
 
 CWFIS- https://cwfis.cfs.nrcan.gc.ca
