@@ -18,11 +18,11 @@ The CLD diagram shows us how climate change has the ability to increase coastal 
 
 ## Visualization 1
 ![NetClaims](img/Net_claims.png)
-The graph shows a clear upward trend in flood-related costs across auto insurance claims, property and casualty (P&C) claims, and P&C insurance premiums from 1999 to 2022. While claim levels fluctuate in the early 2000s, both auto and P&C net claims increase significantly after the mid-2010s, with particularly sharp growth between 2018 and 2021. Net premiums for property and casualty insurance also rise steadily over time, suggesting insurers are adjusting pricing in response to growing flood-related losses. Overall, the data indicates that flood damage costs have escalated substantially in recent years, increasing financial pressure on insurers and policyholders alike.
+This visualization shows that flood-related costs have increased across multiple insurance measures since 1999, with noticeably higher net claims in the later years and rising property and casualty premiums over time. The pattern suggests that flooding is creating growing and persistent financial losses rather than isolated one-off events. This matters for the Minister’s decision because it supports the case that coastal flooding is an escalating and costly risk, strengthening the rationale for investing in flood-protection infrastructure to reduce recurring damage. At the same time, the upward pressure on premiums signals that the costs are being passed to households and businesses, raising affordability and equity concerns that make risk reduction more urgent.
 
 ## Visulaization 2
 ![CostFires](img/cost_fires.png)
-
+This visualization reveals that wildfire-related housing damage is highly volatile, with most years showing relatively lower losses but a few extreme spike years (notably the mid-1990s, late 1990s, and especially 2016–2017) driving major total costs. This indicates wildfire damage is shaped by episodic, high-impact events rather than a smooth upward trend, meaning a single severe season can create outsized losses. This matters for the Minister’s decision because it supports investing in wildfire-resilience and forest management to reduce the likelihood and severity of catastrophic events that cause sudden housing loss and major recovery spending. It also highlights that waiting to react after a severe fire year can be far more expensive than preventative investments that lower exposure and improve resilience.
 ## Visualization 3
 ![DamageofFloods](img/damage_by_floods.png)
 
