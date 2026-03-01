@@ -1,0 +1,2006 @@
+EvacID,Year,Province,Location,Lat,Long,Population,PopulationNotes,FN_Reserve,EvacSize,IssueDate,EndDate,EvacReason,Region,Group,FireSource,RepDOY,FireIgnit,FireSize
+1,1980,MB,Clear Lake,50.678605,-99.911954,NA,NA,no,Very Small (1 to 100),5/23/1980,5/27/1980,Threat,SC,SC3,NFDB.poly,142,Human,22914.74086
+2,1980,MB,Mafeking,52.683611,-101.11,500,estimate (newspaper),no,"Small (101 to 1,000)",5/22/1980,5/28/1980,Threat,SC,SC2,NFDB.poly,139,Lightning,79934.29348
+3,1980,MB,Norway House 17,53.963588,-97.82486,2269,1986 census,yes,Very Small (1 to 100),5/22/1980,5/23/1980,Threat,SC,SC3,NA,NA,NA,NA
+4,1980,MB,Snow Lake,54.879448,-100.018089,1853,1981 census,no,"Medium (1,001 to 5,000)",5/20/1980,5/26/1980,Threat,SC,SC3,NFDB.poly,139,Lightning,9197.224782
+5,1980,MB,Wallace Lake,51.00237,-95.358078,NA,No census information available,no,Very Small (1 to 100),5/28/1980, ,Threat,SC,SC3,NFDB.poly,139,Human,43181.04901
+6,1980,ON,Camp Robinson,50.129052,-93.222249,90,estimate (wikipedia),no,Very Small (1 to 100),5/7/1980, ,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+7,1980,ON,Camp Robinson,50.129052,-93.222249,90,estimate (wikipedia),no,"Small (101 to 1,000)",5/22/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+8,1980,ON,Cristal Lake,52.115482,-90.081852,NA,NA,no,Very Small (1 to 100),5/23/1980, ,Threat,SC,SC3,NFDB.poly,143,Lightning,18705.14827
+9,1980,ON,Dogtooth Lake,49.692143,-94.227534,NA,NA,no,"Small (101 to 1,000)",5/22/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+10,1980,ON,Grassy Narrows First Nation,50.149518,-94.003808,468,1996 census,yes,"Small (101 to 1,000)",5/25/1980,6/3/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+11,1980,ON,Fort Hope 64,51.557717,-87.906958,894,1981 census,yes,"Small (101 to 1,000)",5/22/1980,6/1/1980,Threat,SC,SC4,NFDB.poly,141,Human,23424.66705
+12,1980,ON,Gull River 55,49.804781,-89.106094,275,1981 census,yes,"Small (101 to 1,000)",6/25/1980,7/6/1980,Threat,SC,SC2,NFDB.poly,168,Human,120338.5433
+13,1980,ON,Jones,49.970373,-94.086812,NA,No census information available,no,Very Small (1 to 100),5/22/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+14,1980,ON,McIntosh,49.979164,-93.610688,NA,No census information available,no,"Small (101 to 1,000)",5/21/1980,5/27/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+15,1980,ON,Perrault Falls,50.343394,-93.147643,NA,No census information available,no,Very Small (1 to 100),5/26/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+16,1980,ON,Quibell,49.956305,-93.425428,173,estimate (newspaper),no,"Small (101 to 1,000)",5/22/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+17,1980,ON,Red Lake,51.018577,-93.826179,2120,1981 census,no,"Medium (1,001 to 5,000)",5/22/1980,6/1/1980,Threat,SC,SC2,NFDB.poly,141,Human,50095.35048
+18,1980,ON,Red Lake Road,49.969173,-93.359908,238,Estimate,no,"Small (101 to 1,000)",5/22/1980,5/29/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+20,1980,ON,Redditt,49.974593,-94.393127,250,estimate (newspaper),no,"Small (101 to 1,000)",5/26/1980,5/30/1980,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+21,1980,ON,Rushing River Provincial Park,49.686945,-94.228889,NA,NA,no,Very Small (1 to 100),5/25/1980, ,Threat,SC,SC2,NFDB.poly,125,Lightning,106205.5902
+22,1980,SK,Hudson Bay,52.842817,-102.375686,2361,1981 census,no,"Small (101 to 1,000)",5/20/1980, ,Threat,SC,SC2,NA,NA,NA,NA
+23,1980,SK,Pelican Narrows 184B,55.171802,-102.934851,2000,estimate,yes,"Small (101 to 1,000)",7/10/1980,7/13/1980,Threat,SC,SC4,NFDB.poly,190,Lightning,2905.435281
+24,1980,SK,Uranium City,59.571056,-108.614356,5000,estimate,no,"Small (101 to 1,000)",8/11/1980,8/12/1980,Threat,N,NO2,NFDB.poly,222,Human,8528.147706
+26,1981,AB,Swan Hills,54.716667,-115.401667,2497,1981 census,no,"Medium (1,001 to 5,000)",8/10/1981,8/15/1981,Threat,SC,SC2,NFDB.poly,220,Lightning,14387.39044
+27,1981,AB,Tall Cree 173,57.911944,-115.356111,365,1996 census,yes,"Small (101 to 1,000)",9/11/1981, ,Threat,SC,SC3,NFDB.poly,231,Lightning,101045.0577
+28,1981,NT,Enterprise,60.5547,-116.1472,46,1981 census,no,Very Small (1 to 100),8/22/1981,8/24/1981,Threat,N,NO2,NFDB.poly,193,Lightning,519198.812
+29,1981,NT,Nahanni National Park Reserve of Canada,61.234615,-124.097649,0,NA,no,Very Small (1 to 100),8/9/1981, ,Threat,N,NO2,NFDB.poly,210,Lightning,96755.79843
+30,1981,ON,Collins,50.295157,-89.445996,89,1985 estimate,no,Very Small (1 to 100),7/8/1981, ,Threat,SC,SC2,NFDB.poly,189,Lightning,3912.714115
+31,1981,ON,Summer Beaver,52.74593,-88.51401,280,1986 census,yes,"Small (101 to 1,000)",7/24/1981,8/5/1981,Access,SC,SC4,NFDB.poly,191,Lightning,22894.45645
+32,1981,SK,Michel Village,56.013615,-109.112965,130,1981 census,no,Very Small (1 to 100),8/10/1981,8/17/1981,Threat,SC,SC4,NFDB.poly,215,Lightning,31192.58263
+33,1982,BC,Fireside,59.673897,-127.150796,30,estimate (newspaper),no,Very Small (1 to 100),7/29/1982,8/3/1982,Threat,N,NO2,NFDB.poly,170,Lightning,157556.0078
+34,1982,YT,Contact Creek,60,-127.725833,NA, ,no,Very Small (1 to 100),6/30/1982, ,Threat,N,NO2,NFDB.poly,170,Lightning,157556.0078
+1176,1982,BC,Coal River,59.657922,-126.952395,6,estimate (wikipedia),no,Very Small (1 to 100),7/29/1982,8/3/1982,Threat,N,NO2,NFDB.poly,170,Lightning,157556.0078
+35,1983,AB,Amoco Canada Petroleum Co. Ltd.,54.679492,-115.384594,NA,NA,no,Very Small (1 to 100),6/2/1983, ,Threat,SC,SC2,NFDB.poly,151,Human,801.2326277
+37,1983,MB,Nopiming Provincial Park,50.633889,-95.327222,NA,NA,no,"Small (101 to 1,000)",9/3/1983, ,Threat,SC,SC2,NFDB.poly,244,Human,15506.41608
+38,1983,ON,Grassy Narrows First Nation,50.149518,-94.003808,468,1996 census,yes,"Small (101 to 1,000)",9/4/1983,9/11/1983,Smoke or Health,SC,SC2,NFDB.poly,229,Lightning,81459.35465
+39,1983,ON,Grassy Narrows,50.147727,-94.001408,NA,NA,no,Very Small (1 to 100),9/4/1983, ,Threat,SC,SC2,NFDB.poly,229,Lightning,81459.35465
+40,1983,QC,Brisay,54.444444,-70.511667,0,NA,no,"Small (101 to 1,000)",6/21/1983,6/22/1983,Threat,N,NO1,NFDB.poly,168,Lightning,3276.464713
+41,1983,QC,Némaska,51.685238,-76.255976,275,estimate,yes,"Small (101 to 1,000)",6/17/83,6/25/83,Threat,SE,SE6,NFDB.poly,164,Lightning,36660.80972
+42,1983,QC,Poste de la Nemiscau,51.709444,-76.055556,0,NA,no,"Small (101 to 1,000)",6/21/83,6/25/83,Threat,SE,SE6,NFDB.poly,164,Lightning,36660.80972
+43,1984,MB,Ste. Rita,49.88,-96.295556,140,estimate,no,Very Small (1 to 100),5/17/1984,5/18/1984,Threat,SC,SC2,NFDB.poly,136,Human,2334.369773
+44,1985,BC,Campbell River,49.948299,-125.199615,26000,unknown,no,Very Small (1 to 100),7/10/1985,7/10/1985,Threat,SW,SW2,NFDB.pt,191,Human,0.5
+45,1985,BC,Canal Flats,50.156099,-115.815587,1400,estimate (newspaper),no,"Medium (1,001 to 5,000)",7/7/1985,7/16/1985,Threat,SW,SW5,NFDB.poly,185,Human,15407.20229
+46,1985,BC,Douglas 8,49.75616,-122.200326,10,1996 census,yes,Very Small (1 to 100),7/22/1985,7/24/1985,Threat,SW,SW5,NFDB.poly,197,Lightning,866.349531
+47,1985,BC,Nicholson Creek,49.104855,-118.922515,45,estimate (newspaper),no,Very Small (1 to 100),7/21/1985,7/24/1985,Threat,SW,SW5,NFDB.poly,197,Lightning,3212.532143
+48,1985,BC,North Bend,49.883333,-121.45,300,estimate (newspaper),no,"Small (101 to 1,000)",7/20/1985,8/1/1985,Threat,SW,SW3,NFDB.poly,197,Lightning,3492.825026
+49,1985,BC,Dutch Creek,50.306524,-115.900654,0,NA,no,Very Small (1 to 100),7/10/1985,7/16/1985,Threat,SW,SW5,NFDB.poly,180,Human,1629.244927
+50,1985,BC,Rock Creek,49.05,-119,86,2011 census,no,Very Small (1 to 100),7/24/1985, ,Threat,SW,SW5,NFDB.poly,197,Lightning,3212.532143
+1201,1985,BC,Spruce Grove,50.322578,-115.865236,0,NA,no,"Small (101 to 1,000)",7/10/1985,7/16/1985,Threat,SW,SW5,NFDB.poly,180,Human,1629.244927
+1222,1985,NL,North West River,53.53545,-60.144006,526,1986 census,no,"Small (101 to 1,000)",6/29/85,7/1/85,Threat,SE,SE6,NFDB.poly,179,Human,35783.05997
+1223,1985,NL,Sheshatshiu 3,53.515293,-60.142474,1018,1996 census,yes,"Small (101 to 1,000)",6/29/85,7/1/85,Threat,SE,SE6,NFDB.poly,179,Human,35783.05997
+1224,1985,NL,Happy Valley - Goose Bay,53.31952,-60.390652,7248,1986 census,no,"Small (101 to 1,000)",6/29/85,7/1/85,Threat,SE,SE6,NFDB.poly,179,Human,35783.05997
+51,1986,NB,Beaver Brook Station,47.128407,-65.608815,0,No census information available,no,Very Small (1 to 100),5/17/86, ,Threat,SE,SE2,NBAC,135,Human,4226.11582
+52,1986,NB,Burton,45.868064,-66.364817,3754,1986 census,no,"Small (101 to 1,000)",5/15/86,5/17/86,Threat,SE,SE2,NBAC,135,Human,8827.609355
+53,1986,NB,Douglastown,47.028818,-65.493899,1133,1986 census,no,"Small (101 to 1,000)",5/15/86, ,Threat,SE,SE2,NBAC,135,Human,4226.11582
+54,1986,NB,Patterson Siding,47.083386,-65.593664,0,No census information available,no,Very Small (1 to 100),5/17/86, ,Threat,SE,SE2,NBAC,135,Human,4226.11582
+55,1986,NL,Grand Falls-Windsor,48.94815,-55.656971,14666,1986 census,no,"Medium (1,001 to 5,000)",5/16/86,5/17/86,Threat,SE,SE5,NBAC,134,Human,20205.03503
+56,1986,NL,Catamaran Park,49.053527,-56.083736,0,No census information available,no,"Small (101 to 1,000)",5/17/86, ,Threat,SE,SE5,NBAC,137,Human,1365.420241
+57,1986,NL,Brown's Arm-Porterville,49.255357,-55.176577,1163,1986 census,no,"Small (101 to 1,000)",5/17/86,5/19/86,Threat,SE,SE5,NBAC,136,Human,1571.055696
+58,1986,ON,Red Lake,51.018577,-93.826179,2166,1986 census,no,Very Small (1 to 100),5/29/1986, ,Threat,SC,SC2,NBAC,141,Unknown,54014.19321
+59,1986,ON,Terrace Bay,48.781944,-87.101389,2692,1986 census,no,"Small (101 to 1,000)",5/21/1986,5/21/1986,Threat,SC,SC2,NBAC,141,Human,194.9780112
+60,1986,PE,Anglo Tignish,46.975782,-63.995718, , ,no,Very Small (1 to 100),5/15/86,5/16/86,Threat,SE,SE4,NA,NA,NA,NA
+61,1986,QC,Waswanipi,49.696199,-75.961501,1085,1996 census,yes,"Small (101 to 1,000)",5/29/86,6/1/86,Threat,SE,SE6,NBAC,147,Lightning,91406.92958
+63,1987,BC,Saanich,48.490848,-123.431899,78710,1986 census,no,"Small (101 to 1,000)",10/3/1987,10/3/1987,Threat,SW,SW1,NBAC,276,Human,36.35235359
+64,1987,MB,Fisher Bay,51.477778,-97.2975,50,estimate (newspaper),yes,Very Small (1 to 100),5/13/1987, ,Threat,SC,SC3,NBAC,127,Human,938.2215671
+65,1987,MB,Wallace Lake,51.00237,-95.358078,NA,No census information available,no,Very Small (1 to 100),5/8/1987, ,Threat,SC,SC3,NBAC,126,Lightning,11802.50836
+66,1987,ON,Kitchenuhmaykoosib Aaki 84,53.828693,-89.896291,299,1986 census,yes,Very Small (1 to 100),6/18/1987,6/22/1987,Smoke or Health,SC,SC4,NBAC,168,Lightning,4740.927098
+67,1987,ON,Val Rita-Harty,49.44507,-82.542191,1317,1986 census,no,"Small (101 to 1,000)",5/13/87,5/13/87,Threat,SE,SE4,NBAC,133,Human,342.1790313
+68,1987,ON,Webequie,52.983357,-87.360638,550,1987 ISC,yes,Very Small (1 to 100),6/20/1987, ,Smoke or Health,SC,SC4,NBAC,167,Lightning,1160.960808
+70,1988,AB,O'Chiese 203,52.705621,-115.277001,471,1996 census,yes,"Small (101 to 1,000)",5/25/1988,5/30/1988,Threat,SC,SC2,NBAC,146,Human,6997.386916
+71,1988,AB,Sunchild 202,52.699391,-115.335975,415,1996 census,yes,"Small (101 to 1,000)",5/25/1988,5/30/1988,Threat,SC,SC2,NBAC,146,Human,6997.386916
+72,1988,MB,Gull Lake,50.406116,-96.519468,1164,1986 census,no,"Small (101 to 1,000)",4/30/1988,5/3/1988,Threat,SC,SC2,NBAC,123,Human,1718.145123
+73,1988,MB,Rennie,49.852778,-95.552778,120,estimate (regional municipality),no,"Small (101 to 1,000)",4/30/1988,5/3/1988,Threat,SC,SC2,NFDB.pt,122,Human,440.8
+74,1988,ON,Bigwood Lake,46.841959,-81.076332,0,NA,no,Very Small (1 to 100),6/21/88, ,Threat,SE,SE3,NBAC,171,Lightning,3979.54029
+75,1988,ON,Malachi,49.931696,-94.983417,NA,No census information available,no,Very Small (1 to 100),5/1/1988,5/8/1988,Threat,SC,SC2,NBAC,121,Human,19257.59335
+76,1988,ON,Wabaseemoong,50.130234,-94.937267,694,1996 census,yes,"Small (101 to 1,000)",5/2/1988,5/8/1988,Threat,SC,SC2,NBAC,121,Human,19257.59335
+77,1988,SK,Prince Albert,53.221241,-105.728582,33686,1986 census,no,Very Small (1 to 100),5/23/1988,5/23/1988,Threat,SC,SC2,NA,NA,NA,NA
+78,1989,BC,Carmi,49.5,-119.11667,51,estimate (newspaper),no,Very Small (1 to 100),8/1/1989, ,Threat,SW,SW3,NBAC,212,Human,533.5859856
+79,1989,MB,Black River 9,50.829167,-96.316111,251,1986 census,yes,"Small (101 to 1,000)",5/12/1989,5/19/1989,Threat,SC,SC2,NBAC,132,Human,28861.10618
+80,1989,MB,Briggs Spur,52.078889,-100.65306,25,estimate,no,Very Small (1 to 100),5/14/1989,5/19/1989,Threat,SC,SC2,NBAC,133,Human,48537.77291
+81,1989,MB,Cowan,52.035,-100.64778,120,estimate,no,"Small (101 to 1,000)",5/14/1989,5/19/1989,Threat,SC,SC2,NBAC,133,Human,48537.77291
+82,1989,MB,Cross Lake 19,54.624519,-97.777972,3157,1996 census,yes,"Medium (1,001 to 5,000)",7/19/1989,7/27/1989,Threat,SC,SC3,NBAC,198,Lightning,272378.9229
+83,1989,MB,Dauphin River 48A,51.963834,-98.064206,70,1981 census,yes,Very Small (1 to 100),5/12/1989,5/19/1989,Threat,SC,SC3,NBAC,131,Human,322628.4568
+84,1989,MB,English Lake,51.194167,-96.078611,NA,No census information available,no,Very Small (1 to 100),5/12/1989, ,Threat,SC,SC3,NBAC,132,Human,28861.10618
+85,1989,MB,Fisher River 44,51.43935,-97.380849,763,1986 census,yes,Very Small (1 to 100),5/11/1989,5/14/1989,Threat,SC,SC3,NBAC,131,Human,322628.4568
+87,1989,MB,Garden Hill First Nation,53.871389,-94.640833,1898,2006 census,yes,"Medium (1,001 to 5,000)",7/25/1989, ,Threat,SC,SC4,NBAC,201,Lightning,10520.33973
+88,1989,MB,Gillam,56.347222,-94.707778,1909,1986 census,no,"Small (101 to 1,000)",7/23/1989,7/30/1989,Threat,SC,SC4,NBAC,188,Lightning,15978.59297
+89,1989,MB,God's Lake 23,54.552584,-94.458961,867,1986 census,yes,"Small (101 to 1,000)",7/26/1989, ,Smoke or Health,SC,SC4,NA,NA,NA,NA
+90,1989,MB,God's River 86A,54.8375,-94.054722,300,1986 census,yes,"Small (101 to 1,000)",7/25/1989, ,Threat,SC,SC4,NFDB.pt,203,Lightning,34.7
+91,1989,MB,Grand Rapids,53.178333,-99.264722,1000,estimate (newspaper),no,"Small (101 to 1,000)",7/23/1989,7/28/1989,Unknown,SC,SC3,NBAC,204,Lightning,9484.16601
+92,1989,MB,Hole or Hollow Water 10,51.168056,-96.283056,452,1986 census,yes,"Small (101 to 1,000)",5/12/1989,5/19/1989,Threat,SC,SC3,NBAC,132,Human,28861.10618
+93,1989,MB,Ilford,56.064722,-95.606944,156,1986 census,yes,"Small (101 to 1,000)",7/21/1989,7/23/1989,Unknown,SC,SC4,NBAC,195,Lightning,10195.25588
+94,1989,MB,Jackhead 43,51.913331,-97.308885,183,1981 census,yes,"Small (101 to 1,000)",5/11/1989,5/19/1989,Threat,SC,SC3,NBAC,121,Human,322628.4568
+95,1989,MB,Leaf Rapids,56.463661,-100.008575,1950,1986 census,no,"Medium (1,001 to 5,000)",7/22/1989,7/30/1989,Threat,SC,SC4,NBAC,198,Lightning,13655.82592
+96,1989,MB,Manigotagan,51.108889,-96.304722,197,estimate,no,"Small (101 to 1,000)",5/12/1989,5/20/1989,Threat,SC,SC3,NBAC,132,Human,28861.10618
+97,1989,MB,Nelson House 170,55.798425,-98.875821,2500,estimate (newspaper),yes,"Medium (1,001 to 5,000)",7/23/1989,8/5/1989,Threat,SC,SC3,NBAC,202,Lightning,16448.09451
+98,1989,MB,Norway House 17,53.963588,-97.82486,4000,estimate (newspaper),yes,"Medium (1,001 to 5,000)",7/23/1989,7/29/1989,Threat,SC,SC3,NBAC,204,Human,854.2167645
+99,1989,MB,Oxford House 24,54.931438,-95.288332,1268,1986 census,yes,"Small (101 to 1,000)",7/22/1989,7/31/1989,Threat,SC,SC4,NA,NA,NA,NA
+100,1989,MB,Pikwitonei,55.587778,-97.155556,163,estimate,no,"Small (101 to 1,000)",7/20/1989, ,Threat,SC,SC4,NBAC,204,Lightning,77537.90146
+101,1989,MB,Poplar River 16,52.993958,-97.266702,583,1986 census,yes,Very Small (1 to 100),7/26/1989, ,Smoke or Health,SC,SC4,NBAC,202,Lightning,12816.51467
+102,1989,MB,Pukatawagan 198,55.7444,-101.3163,1600,estimate (newspaper),yes,"Medium (1,001 to 5,000)",7/23/1989, ,Smoke or Health,SC,SC4,NBAC,201,Lightning,46525.89634
+103,1989,MB,Red Deer Lake,52.893611,-101.45972,60,estimate (newspaper),no,Very Small (1 to 100),5/11/1989,5/12/1989,Threat,SC,SC2,NBAC,131,Human,760.4153123
+104,1989,MB,Red Sucker Lake 1976,54.160833,-93.569444,437,1986 census,yes,Very Small (1 to 100),7/1/1989,7/5/1989,Smoke or Health,SC,SC4,NBAC,183,Human,14873.07765
+105,1989,MB,Renwer,52.0975,-100.81306,15,1989 estimate,no,Very Small (1 to 100),5/14/1989,5/19/1989,Threat,SC,SC2,NBAC,133,Human,48537.77291
+106,1989,MB,Seymourville,51.186389,-96.326944,72,1996 SEDAC,no,Very Small (1 to 100),5/12/1989,5/19/1989,Threat,SC,SC3,NBAC,132,Human,28861.10618
+107,1989,MB,Shamattawa 1,55.859876,-92.0896,564,1986 census,yes,"Small (101 to 1,000)",7/25/1989, ,Smoke or Health,N,NO1,NBAC,205,Lightning,71909.15273
+108,1989,MB,Sherridon,55.123889,-101.08667,100,estimate (newspaper),no,Very Small (1 to 100),7/21/1989, ,Threat,SC,SC4,NBAC,200,Lightning,86186.43755
+110,1989,MB,Snow Lake,54.879448,-100.018089,1837,1986 census,no,"Medium (1,001 to 5,000)",7/22/1989,7/30/1989,Threat,SC,SC3,NBAC,195,Lightning,109017.6584
+111,1989,MB,South Indian Lake,56.780278,-98.930278,743,1986 census,yes,"Small (101 to 1,000)",7/23/1989, ,Smoke or Health,SC,SC4,NBAC,205,Lightning,21592.13767
+112,1989,MB,Split Lake 171,56.252402,-96.122043,976,1986 census,yes,"Medium (1,001 to 5,000)",7/21/1989,7/22/1989,Unknown,SC,SC4,NA,NA,NA,NA
+113,1989,MB,St. Theresa Point,53.827287,-94.853494,1878,1996 census,yes,"Small (101 to 1,000)",7/25/1989, ,Smoke or Health,SC,SC4,NA,NA,NA,NA
+114,1989,MB,Thicket Portage,55.318056,-97.686944,192,estimate,no,"Small (101 to 1,000)",7/21/1989, ,Unknown,SC,SC3,NBAC,198,Lightning,272378.9229
+115,1989,MB,York Landing,56.086705,-96.095222,238,1986 census,yes,"Small (101 to 1,000)",7/21/1989, ,Threat,SC,SC4,NBAC,195,Lightning,10195.25588
+116,1989,ON,Bearskin Lake,53.924887,-90.969734,345,1991 census,yes,"Small (101 to 1,000)",7/18/1989,7/28/1989,Threat,SC,SC4,NBAC,197,Lightning,6951.755028
+117,1989,ON,Deer Lake,52.632253,-94.061594,610,1991 census,yes,Very Small (1 to 100),7/25/1989,7/27/1989,Smoke or Health,SC,SC4,NBAC,184,Lightning,21692.04404
+118,1989,ON,Fort Hope 64,51.557717,-87.906958,455,1991 census,yes,"Small (101 to 1,000)",6/21/1989,6/25/1989,Smoke or Health,SC,SC4,NBAC,172,Lightning,343.768489
+119,1989,ON,Kasabonika Lake,53.531212,-88.609963,535,1991 census,yes,Very Small (1 to 100),7/25/1989,7/29/1989,Threat,SC,SC4,NBAC,202,Lightning,9431.25711
+120,1989,ON,Neskantaga,52.203037,-88.020412,293,1996 census,yes,"Small (101 to 1,000)",6/21/1989,6/24/1989,Threat,SC,SC4,NBAC,171,Lightning,590.2615525
+121,1989,ON,Summer Beaver,52.74593,-88.51401,305,1991 census,yes,Very Small (1 to 100),7/25/1989,7/29/1989,Smoke or Health,SC,SC4,NA,NA,NA,NA
+123,1989,ON,Webequie,52.983357,-87.360638,569,1990 ISC,yes,"Small (101 to 1,000)",6/21/1989,6/24/1989,Threat,SC,SC4,NBAC,171,Human,13.32318323
+124,1989,QC,Centrale La Grande-4,53.886667,-73.465278,0,NA,no,Very Small (1 to 100),6/24/1989,6/26/1989,Threat,N,NO2,NBAC,170,Lightning,31917.06863
+125,1989,QC,Centrale La Grande-4,53.886667,-73.465278,0,NA,no,Very Small (1 to 100),7/1/1989,7/4/1989,Smoke or Health,N,NO2,NBAC,170,Lightning,31917.06863
+126,1989,QC,Radisson,53.791667,-77.616667,500,estimate,no,"Small (101 to 1,000)",7/25/1989,8/3/1989,Threat,N,NO2,NBAC,175,Lightning,424192.8602
+127,1989,SK,Lily Plain,53.166711,-106.083861,776,2006 census,no,"Small (101 to 1,000)",5/11/1989,5/13/1989,Threat,SC,SC2,NBAC,130,Human,10680.13673
+128,1989,SK,Sandy Bay,55.526823,-102.313782,1200,estimate (newspaper),no,"Small (101 to 1,000)",7/22/1989,7/27/1989,Threat,SC,SC4,NBAC,200,Lightning,18895.8882
+1179,1989,MB,Wabowden,54.908889,-98.629722,563,1996 census,no,"Small (101 to 1,000)",7/20/1989,7/28/1989,Smoke or Health,SC,SC3,NA,NA,NA,NA
+1265,1989,MB,Lake St. Martin,51.749725,-98.417081,638,1996 census,yes,"Small (101 to 1,000)",5/15/1989, ,Unknown,SC,SC3,NBAC,121,Human,322628.4568
+129,1990,BC,Garibaldi Park,49.95,-122.783333,0,NA,no,Very Small (1 to 100),8/11/1990, ,Threat,SW,SW5,NFDB.pt,222,Lightning,1.7
+130,1990,BC,Prince George,53.913056,-122.745278,69650,1991 census,no,"Small (101 to 1,000)",5/5/1990,5/5/1990,Threat,SW,SW4,NFDB.pt,125,Human,1
+131,1990,ON,Summer Beaver,52.74593,-88.51401,305,1991 census,yes,"Small (101 to 1,000)",7/27/1990,8/10/1990,Threat,SC,SC4,NBAC,196,Lightning,7661.08561
+133,1990,ON,Summer Beaver,52.74593,-88.51401,305,1991 census,yes,Very Small (1 to 100),8/24/1990, ,Smoke or Health,SC,SC4,NBAC,209,Lightning,7661.08561
+135,1990,ON,Webequie,52.983357,-87.360638,569,1990 ISC,yes,"Small (101 to 1,000)",8/24/1990,8/27/1990,Threat,SC,SC4,NBAC,209,Lightning,40850.4833
+136,1990,ON,Webequie,52.983357,-87.360638,569,1990 ISC,yes,"Small (101 to 1,000)",7/28/1990,8/10/1990,Smoke or Health,SC,SC4,NBAC,198,Lightning,40850.4833
+138,1990,SK,Canoe Narrows,55.161822,-108.161133,470,1991 census,yes,"Small (101 to 1,000)",8/6/1990,8/9/1990,Threat,SC,SC3,NFDB.pt,218,Human,44
+139,1990,SK,Descharme Lake,57.108411,-109.218529,70,estimate (newspaper),no,Very Small (1 to 100),8/8/1990, ,Threat,SC,SC4,NBAC,219,Lightning,1624.907443
+140,1990,SK,Jans Bay,55.143634,-108.121515,195,1991 census,no,"Small (101 to 1,000)",8/6/1990,8/9/1990,Threat,SC,SC3,NFDB.pt,218,Human,44
+141,1990,SK,St. George's Hill,55.880359,-108.953445,125,1991 census,no,"Small (101 to 1,000)",8/6/1990,8/9/1990,Threat,SC,SC4,NBAC,218,Lightning,1366.547071
+142,1990,YT,Old Crow,67.568611,-139.835278,278,1996 census,yes,"Small (101 to 1,000)",7/20/1990,8/1/1990,Smoke or Health,N,NO2,NBAC,196,Lightning,42248.87101
+143,1991,AB,Kikino Metis Settlement,54.443957,-112.093962,959,2011 census,no,Very Small (1 to 100),10/9/1991,10/10/1991,Threat,SC,SC3,NFDB.pt,280,Human,115
+144,1991,MB,Red Sucker Lake 1976,54.160833,-93.569444,565,1996 census,yes,"Small (101 to 1,000)",8/13/1991,8/14/1991,Threat,SC,SC4,NBAC,225,Human,239.001175
+145,1991,NS,Bridgewater,44.377498,-64.518605,7351,1996 census,no,Very Small (1 to 100),7/10/91, ,Threat,SE,SE4,NBAC,191,Human,30.114322
+146,1991,ON,Summer Beaver,52.74593,-88.51401,305,1991 census,yes,Very Small (1 to 100),6/6/1991,6/19/1991,Threat,SC,SC4,NBAC,149,Lightning,12664.43261
+148,1991,ON,Webequie,52.983357,-87.360638,569,1991 ISC,yes,"Small (101 to 1,000)",8/13/1991,8/26/1991,Smoke or Health,SC,SC4,NBAC,196,Lightning,35007.8665
+149,1991,QC,Betsiamites,48.943548,-68.645195,1845,1991 census,yes,"Medium (1,001 to 5,000)",6/29/91,7/7/91,Threat,SE,SE5,NBAC,164,Human,221919.8397
+150,1991,QC,Colombier,48.866667,-68.85,975,1991 census,no,Very Small (1 to 100),7/4/91,7/8/91,Smoke or Health,SE,SE5,NBAC,164,Human,221919.8397
+151,1991,QC,Ragueneau,49.067403,-68.541626,1725,1991 census,no,"Medium (1,001 to 5,000)",6/29/91,7/8/91,Threat,SE,SE5,NBAC,164,Human,221919.8397
+153,1991,YT,Whitehorse,60.778655,-135.161238,19157,1996 census,no,"Small (101 to 1,000)",6/21/1991,6/23/1991,Threat,N,NO3,NBAC,171,Human,697.0844263
+154,1992,BC,Lytton,50.231111,-121.581389,335,1991 census,no,Very Small (1 to 100),8/3/1992,8/4/1992,Threat,SW,SW3,NBAC,215,Human,348.2723193
+155,1992,BC,Westbank,49.837614,-119.575151,18966,1996 census,no,"Small (101 to 1,000)",5/7/1992,5/8/1992,Threat,SW,SW3,NBAC,128,Human,63.99161698
+156,1992,ON,Summer Beaver,52.74593,-88.51401,305,1991 census,yes,"Small (101 to 1,000)",6/13/1992,6/20/1992,Threat,SC,SC4,NBAC,163,Lightning,30056.02611
+158,1992,QC,Matagami,49.759561,-77.631071,2465,1991 census,no,"Small (101 to 1,000)",6/2/92,6/2/92,Threat,SE,SE6,NBAC,154,Human,1670.693268
+159,1993,MB,Lynn Lake,56.851499,-101.046737,1038,1996 census,no,"Small (101 to 1,000)",6/30/1993,7/7/1993,Threat,SC,SC4,NBAC,168,Lightning,18782.4086
+160,1993,MB,Wabowden,54.908889,-98.629722,563,1996 census,no,"Small (101 to 1,000)",6/22/1993,6/23/1993,Smoke or Health,SC,SC3,NBAC,173,Lightning,509.08452
+161,1993,SK,Southend 200,56.326999,-103.240946,415,1991 census,yes,"Small (101 to 1,000)",6/22/1993,6/25/1993,Smoke or Health,SC,SC4,NBAC,168,Lightning,51600.37557
+162,1994,BC,North Thompson 1,51.260849,-120.150323,220,1996 census,yes,Very Small (1 to 100),7/30/1994,8/1/1994,Threat,SW,SW3,NBAC,210,Human,417.5300855
+163,1994,BC,Invermere,50.547478,-116.095285,2687,1996 census,no,Very Small (1 to 100),7/27/1994, ,Threat,SW,SW5,NBAC,207,Lightning,688.7144244
+164,1994,BC,Kilpoola Lake,49.031849,-119.569094,0,NA,no,Very Small (1 to 100),8/4/1994,8/7/1994,Threat,SW,SW3,NBAC,201,Human,2701.343632
+165,1994,BC,Moyie Lake,49.378197,-115.838873,450,2006 provincial record,no,"Small (101 to 1,000)",8/16/1994,8/17/1994,Threat,SW,SW3,NBAC,226,Lightning,574.8779752
+166,1994,BC,Penticton,49.482935,-119.550173,30987,1996 census,no,"Medium (1,001 to 5,000)",7/25/1994,7/28/1994,Threat,SW,SW3,NBAC,201,Human,4901.085446
+167,1994,BC,Wilmer,50.540129,-116.064049,264,2001 census,no,Very Small (1 to 100),7/25/1994, ,Threat,SW,SW5,NBAC,207,Lightning,688.7144244
+168,1994,MB,Churchill 1,58.71596,-98.486405,319,1996 census,yes,"Small (101 to 1,000)",7/14/1994,7/23/1994,Smoke or Health,N,NO1,NBAC,172,Lightning,248098.442
+169,1994,MB,Churchill 1,58.71596,-98.486405,319,1996 census,yes,Very Small (1 to 100),7/25/1994,8/4/1994,Smoke or Health,N,NO1,NBAC,172,Lightning,248098.442
+170,1994,MB,Leaf Rapids,56.463662,-100.008563,1504,1996 census,no,"Medium (1,001 to 5,000)",9/18/1994,9/20/1994,Threat,SC,SC4,NBAC,257,Lightning,739.1043469
+171,1994,MB,South Indian Lake,56.780278,-98.930278,887,1996 census,yes,Very Small (1 to 100),6/30/1994,7/3/1994,Smoke or Health,SC,SC4,NBAC,158,Lightning,112919.3322
+172,1994,ON,Neskantaga,52.203037,-88.020412,293,1996 census,yes,Very Small (1 to 100),6/12/1994, ,Smoke or Health,SC,SC4,NBAC,154,Lightning,15939.67342
+173,1995,AB,Algar Lake Tower,56.115922,-111.775296,NA,NA,no,Very Small (1 to 100),5/29/1995, ,Threat,SC,SC3,NBAC,148,Lightning,130071.8495
+174,1995,AB,Conklin,55.631111,-111.078889,157,1996 census,no,"Small (101 to 1,000)",5/30/1995,6/3/1995,Smoke or Health,SC,SC3,NBAC,148,Lightning,130071.8495
+175,1995,AB,Janvier 194,55.90486,-110.749178,254,1996 census,yes,"Small (101 to 1,000)",5/30/1995,6/3/1995,Smoke or Health,SC,SC3,NBAC,148,Unknown,130071.8495
+176,1995,BC,Fort Ware 1,57.424598,-125.632471,222,1996 census,yes,"Small (101 to 1,000)",5/30/1995,6/3/1995,Threat,N,NO3,NBAC,147,Human,11879.31528
+177,1995,MB,God's Lake 23,54.552584,-94.458961,1143,1996 census,yes,"Small (101 to 1,000)",6/19/1995,6/25/1995,Threat,SC,SC4,NBAC,163,Lightning,7756.559873
+178,1995,MB,Granville Lake,56.231111,-100.56861,77,1996 census,yes,Very Small (1 to 100),6/21/1995,7/1/1995,Threat,SC,SC4,NBAC,169,Lightning,12870.26252
+179,1995,MB,Leaf Rapids,56.463662,-100.008563,1504,1996 census,no,"Medium (1,001 to 5,000)",6/20/1995,6/23/1995,Threat,SC,SC4,NBAC,169,Lightning,26973.92798
+180,1995,MB,Leaf Rapids,56.463662,-100.008563,1504,1996 census,no,"Medium (1,001 to 5,000)",6/25/1995,7/1/1995,Threat,SC,SC4,NBAC,169,Lightning,26973.92798
+181,1995,MB,South Indian Lake,56.780278,-98.930278,887,1996 census,yes,"Small (101 to 1,000)",6/19/1995,6/30/1995,Threat,SC,SC4,NBAC,169,Lightning,27724.0363
+182,1995,NB,Riviere-du-Portage,47.420701,-64.93559,389,1996 census,no,"Small (101 to 1,000)",6/21/95,6/22/95,Threat,SE,SE4,NBAC,169,Human,5.105765
+183,1995,NL,Topsail,47.539552,-52.920975,2470,2011 census,no,"Small (101 to 1,000)",7/7/95, ,Threat,SE,SE5,NFDB.pt,188,Human,11.2
+184,1995,NT,Norman Wells,65.2811,-126.8316,798,1996 census,no,"Small (101 to 1,000)",6/9/1995,6/15/1995,Threat,N,NO2,NBAC,158,Human,47350.06027
+185,1995,NT,Tulita,64.9006,-125.5763,450,1996 census,no,"Small (101 to 1,000)",6/8/1995, ,Threat,N,NO2,NBAC,157,Human,47350.06027
+186,1995,ON,Bearskin Lake,53.924887,-90.969734,363,2001 census,yes,"Small (101 to 1,000)",6/15/1995,6/22/1995,Threat,SC,SC4,NBAC,165,Lightning,3082.331956
+188,1995,ON,Couchiching 16A,48.636783,-93.36513,533,1996 census,yes,Very Small (1 to 100),6/19/1995, ,Smoke or Health,SC,SC2,NA,NA,NA,NA
+189,1995,ON,Deer Lake,52.632253,-94.061594,628,1996 census,yes,"Small (101 to 1,000)",6/21/1995,6/26/1995,Smoke or Health,SC,SC4,NBAC,168,Lightning,28481.33548
+190,1995,ON,Dubreuilville,48.348418,-84.549965,990,1996 census,no,"Small (101 to 1,000)",8/21/95,8/28/95,Threat,SE,SE3,NBAC,232,Human,3912.037863
+192,1995,ON,Kasabonika Lake,53.531212,-88.609963,719,1996 census,yes,"Small (101 to 1,000)",6/20/1995,6/27/1995,Threat,SC,SC4,NBAC,166,Lightning,15688.58666
+193,1995,ON,Keewaywin,53.005,-92.7971,265,2001 census,yes,"Small (101 to 1,000)",6/19/1995, ,Smoke or Health,SC,SC4,NBAC,166,Lightning,2648.717245
+194,1995,ON,Missinaibi Provincial Park,48.406361,-83.525673,0,NA,no,Very Small (1 to 100),8/24/95, ,Threat,SE,SE3,NBAC,232,Human,4258.033158
+195,1995,ON,Muskrat Dam Lake,53.404433,-91.781032,217,1996 census,yes,"Small (101 to 1,000)",6/19/1995, ,Threat,SC,SC4,NBAC,169,Lightning,2637.513855
+196,1995,ON,Northern Light Lake,48.215482,-90.755257,NA,NA,no,Very Small (1 to 100),8/14/1995, ,Threat,SC,SC2,NBAC,222,Human,3906.227923
+197,1995,ON,Oba,49.05908,-84.10378,10,2011 census,no,Very Small (1 to 100),8/20/95, ,Threat,SE,SE4,NBAC,222,Human,15653.33235
+198,1995,ON,Pamela Lake,49.786948,-86.320071,NA,NA,no,Very Small (1 to 100),8/20/1995,8/22/1995,Threat,SC,SC2,NBAC,232,Human,2288.672495
+199,1995,ON,Sachigo Lake 1,53.872879,-92.175803,305,1996 census,yes,Very Small (1 to 100),6/22/1995,6/26/1995,Smoke or Health,SC,SC4,NBAC,169,Lightning,5084.530339
+200,1995,ON,Woodland Caribou Provincial Park,50.932505,-94.775708,NA,NA,no,Very Small (1 to 100),6/18/1995, ,Threat,SC,SC2,NBAC,168,Lightning,596.5409086
+201,1995,ON,Wunnumin 1,52.929811,-89.297875,375,1996 census,yes,"Small (101 to 1,000)",6/18/1995,6/23/1995,Threat,SC,SC4,NBAC,166,Lightning,6522.614552
+202,1995,QC,Oskélanéo,48.112222,-75.196111,48,1996 census,no,"Small (101 to 1,000)",8/20/95,8/26/95,Threat,SE,SE6,NBAC,224,Lightning,55921.50005
+203,1995,QC,Parent,47.920556,-74.616944,387,1996 census,no,"Small (101 to 1,000)",8/21/95,8/27/95,Threat,SE,SE6,NBAC,224,Lightning,55921.50005
+204,1995,SK,Brabant Lake,56.116261,-103.751426,86,1996 census,no,Very Small (1 to 100),6/21/1995,7/5/1995,Smoke or Health,SC,SC4,NBAC,169,Unknown,67768.80792
+205,1995,SK,Dore Lake,54.627908,-107.408142,40,1996 census,no,Very Small (1 to 100),6/13/1995, ,Threat,SC,SC3,NBAC,149,Lightning,36414.90999
+206,1995,SK,Kinoosao-Thomas Clark 204,57.079912,-102.018769,60,2001 census,yes,Very Small (1 to 100),6/12/1995, ,Smoke or Health,SC,SC4,NBAC,161,Lightning,5191.019426
+207,1995,SK,Lac La Hache 220,58.110335,-103.157326,843,1996 census,yes,Very Small (1 to 100),6/13/1995, ,Smoke or Health,SC,SC4,NBAC,168,Lightning,2302.045792
+208,1995,SK,Hall Lake,55.111113,-105.917848,336,1996 census,yes,"Small (101 to 1,000)",5/30/1995, ,Threat,SC,SC3,NBAC,148,Lightning,69823.34591
+209,1995,SK,Pinehouse,55.520742,-106.578003,922,1996 census,no,"Small (101 to 1,000)",6/3/1995,6/11/1995,Smoke or Health,SC,SC3,NBAC,148,Lightning,69823.34591
+210,1995,SK,Sandy Bay,55.526823,-102.313782,959,1996 census,no,"Small (101 to 1,000)",6/21/1995,7/4/1995,Threat,SC,SC4,NBAC,169,Lightning,17360.03117
+211,1995,SK,Stanley 157,55.409497,-104.57289,992,1996 census,yes,"Medium (1,001 to 5,000)",6/9/1995,6/11/1995,Smoke or Health,SC,SC4,NBAC,151,Lightning,45463.90886
+212,1995,SK,Stanley 157,55.409497,-104.57289,992,1996 census,yes,Very Small (1 to 100),6/13/1995, ,Smoke or Health,SC,SC4,NBAC,151,Unknown,45463.90886
+213,1995,SK,Timber Bay,54.168404,-105.675386,101,1996 census,no,Very Small (1 to 100),6/13/1995, ,Threat,SC,SC3,NBAC,163,Lightning,13547.71828
+214,1995,SK,Wapachewunak 192D,55.914478,-107.722722,436,1996 census,yes,"Small (101 to 1,000)",5/31/1995, ,Threat,SC,SC4,NBAC,149,Lightning,82348.50954
+215,1995,SK,Waterhen 130,54.515745,-108.405766,650,1996 census,yes,"Small (101 to 1,000)",5/30/1995,6/1/1995,Threat,SC,SC3,NBAC,148,Lightning,24568.44675
+216,1995,YT,Minto,62.583472,-136.851066,0,NA,no,Very Small (1 to 100),6/23/1995, ,Threat,N,NO2,NBAC,164,Lightning,107585.9205
+1187,1995,SK,Whelan Bay,54.025822,-105.121139,NA,NA,no,Very Small (1 to 100),6/15/1995, ,Unknown,SC,SC3,NBAC,163,Lightning,13547.71828
+217,1996,BC,Delta,49.14574,-122.989119,95411,1996 census,no,Very Small (1 to 100),7/16/1996, ,Threat,SW,SW1,NBAC,197,Human,78.2513835
+218,1996,ON,Fort Hope 64,51.557717,-87.906958,801,1996 census,yes,"Small (101 to 1,000)",6/14/1996,6/24/1996,Smoke or Health,SC,SC4,NBAC,164,Lightning,4011.417006
+220,1996,QC,Chute-des-Passes,49.839722,-71.165278,192,1996 census,no,Very Small (1 to 100),6/20/96, ,Unknown,SE,SE4,NBAC,171,Lightning,3586.251764
+222,1996,QC,Mistissini,50.418436,-73.866514,2334,1996 census,yes,"Small (101 to 1,000)",6/13/96,6/15/96,Unknown,SE,SE6,NBAC,164,Lightning,867.1453352
+223,1996,QC,Rouyn-Noranda,48.106179,-78.666136,42638,1996 census,no,"Small (101 to 1,000)",6/2/96,6/3/96,Threat,SE,SE4,NBAC,153,Human,4160.287194
+226,1997,AB,Yellowhead County,53.377186,-117.716425,10092,1996 census,no,Very Small (1 to 100),12/14/1997, ,Threat,SC,SC2,NBAC,348,Human,393.7293834
+227,1997,NS,Preston,44.715695,-63.434226,2400,1996,no,Very Small (1 to 100),7/20/97, ,Unknown,SE,SE4,NFDB.pt,213,Human,4
+228,1997,ON,Abitibi 70,48.54766,-79.978007,92,1996 census,yes,Very Small (1 to 100),6/12/97,6/12/97,Threat,SE,SE3,NFDB.pt,158,Lightning,5
+229,1997,ON,Aroland 83,50.232057,-86.960019,271,1996 census,yes,"Small (101 to 1,000)",7/2/1997,7/2/1997,Unknown,SC,SC2,NFDB.pt,183,Human,5.5
+230,1997,ON,Baker Lake,48.434324,-81.440488, ,No census information available,no,Very Small (1 to 100),5/29/97, ,Threat,SE,SE4,NBAC,149,Human,205.6030889
+231,1997,ON,Gibson Lake,48.45074,-80.809639,0,NA,no,Very Small (1 to 100),6/8/97,6/10/97,Threat,SE,SE4,NBAC,158,Lightning,7462.244382
+232,1997,ON,Sewell Lake,48.230271,-81.975489,0,NA,no,Very Small (1 to 100),6/10/97,6/19/97,Threat,SE,SE1,NBAC,161,Lightning,2915.169201
+233,1997,ON,Timmins,48.444444,-81.443091,47499,1996 census,no,"Small (101 to 1,000)",5/29/97, ,Threat,SE,SE4,NBAC,149,Human,205.6030889
+234,1997,ON,Watabeag Lake,48.261129,-80.554677,0,NA,no,Very Small (1 to 100),6/10/97,6/17/97,Threat,SE,SE3,NBAC,158,Lightning,7462.244382
+235,1997,ON,Sewell Township,48.249434,-81.946398,0,NA,no,"Small (101 to 1,000)",6/10/97,6/19/97,Threat,SE,SE1,NBAC,161,Lightning,2915.169201
+236,1997,QC,Selbaie Mine,49.802825,-78.959813,0,NA,no,"Small (101 to 1,000)",6/10/97,6/11/97,Threat,SE,SE4,NBAC,157,Lightning,14771.70758
+239,1997,QC,Val-Paradis,49.154323,-79.289985,300,estimate (newspaper),no,"Small (101 to 1,000)",6/10/97,6/12/97,Threat,SE,SE4,NBAC,156,Lightning,8753.076705
+240,1997,QC,Wemotaci,47.9025,-73.783889,1042,2001 census,yes,"Medium (1,001 to 5,000)",6/10/97,6/13/97,Threat,SE,SE6,NBAC,160,Lightning,5136.029943
+241,1998,AB,Belly River Campground,49.025552,-113.686495,0,NA,no,Very Small (1 to 100),9/2/1998, ,Threat,SW,SW1,NBAC,241,Lightning,796.943654
+242,1998,AB,Chip Lake,53.548722,-115.378006,NA,No census information available,no,Very Small (1 to 100),5/5/1998,5/5/1998,Threat,SC,SC2,NBAC,123,Human,10721.58548
+243,1998,AB,High Prairie,55.431638,-116.455565,2907,1996 census,no,Very Small (1 to 100),5/5/1998,5/5/1998,Threat,SC,SC2,NBAC,124,Human,941.4399155
+244,1998,AB,Swan Hills,54.716667,-115.401667,2348,1996 census,no,"Medium (1,001 to 5,000)",5/5/1998,5/7/1998,Threat,SC,SC2,NBAC,122,Lightning,143431.8637
+245,1998,AB,Swan Hills,54.716667,-115.401667,2348,1996 census,no,"Medium (1,001 to 5,000)",5/13/1998,5/15/1998,Threat,SC,SC2,NBAC,122,Lightning,143431.8637
+246,1998,AB,Winefred Lake Lodge,55.43171,-110.515522,NA,NA,no,Very Small (1 to 100),5/28/1998,5/31/1998,Threat,SC,SC4,NBAC,144,Lightning,8785.534904
+247,1998,BC,Cherry Creek,50.661851,-120.554419,120,estimate,no,"Small (101 to 1,000)",8/5/1998,8/7/1998,Threat,SW,SW3,NBAC,210,Lightning,3483.392797
+249,1998,BC,Fintry,50.133333,-119.5,150,estimate,no,"Small (101 to 1,000)",8/5/1998,8/6/1998,Threat,SW,SW3,NBAC,217,Lightning,81.58549408
+250,1998,BC,Lytton,50.231111,-121.581389,322,1996 census,no,Very Small (1 to 100),7/11/1998, ,Threat,SW,SW3,NBAC,192,Human,230.1879179
+251,1998,BC,Nahatlatch Lake,49.969179,-121.513626,0,NA,no,Very Small (1 to 100),8/5/1998, ,Threat,SW,SW3,NBAC,217,Human,1235.91976
+252,1998,BC,Salmon Arm,50.701389,-119.278056,14664,1996 census,no,"Large (5,001 to 20,000)",8/10/1998,8/11/1998,Threat,SW,SW4,NBAC,210,Lightning,6251.662208
+253,1998,BC,Silver Creek,50.580014,-119.359966,1062,2001 census,no,"Small (101 to 1,000)",8/5/1998,8/6/1998,Threat,SW,SW4,NBAC,210,Lightning,6251.662208
+254,1998,BC,Silver Creek,50.580014,-119.359966,1062,2001 census,no,"Small (101 to 1,000)",8/10/1998,8/15/1998,Threat,SW,SW4,NBAC,210,Lightning,6251.662208
+255,1998,BC,Telegraph Creek 6,57.90484,-131.170805,96,1996 census,yes,Very Small (1 to 100),7/11/1998, ,Smoke or Health,N,NO3,NBAC,185,Lightning,11715.24997
+256,1998,BC,Tulameen,49.551463,-120.790342,2053,1996 census,no,Very Small (1 to 100),9/6/1998,9/7/1998,Threat,SW,SW3,NBAC,245,Lightning,6016.350901
+257,1998,MB,Leaf Rapids,56.463662,-100.008563,1504,1996 census,no,Very Small (1 to 100),8/8/1998,8/15/1998,Smoke or Health,SC,SC4,NBAC,218,Unknown,15743.26049
+258,1998,NL,Musgravetown,48.407631,-53.886261,687,1996 census,no,"Small (101 to 1,000)",5/14/98,5/14/98,Threat,SE,SE5,NBAC,134,Human,558.1156987
+260,1998,NS,Newtonville,45.040978,-64.38829, , ,no,Very Small (1 to 100),8/17/98, ,Unknown,SE,SE4,NBAC,219,Unknown,2.890825
+262,1998,ON,Bearskin Lake,53.924887,-90.969734,428,1996 census,yes,"Small (101 to 1,000)",7/8/1998,7/16/1998,Threat,SC,SC4,NBAC,188,Unknown,2400
+263,1998,ON,Caramat,49.61816,-86.12786,125,2006 local estimate,no,Very Small (1 to 100),5/26/98,5/27/98,Smoke or Health,SE,SE6,NBAC,123,Human,544.1448388
+264,1998,ON,Geraldton,49.719722,-86.950556,2627,1996 census,no,Very Small (1 to 100),5/11/1998,5/11/1998,Threat,SC,SC2,NFDB.pt,131,Human,2
+265,1998,ON,Ginoogaming First Nation,49.756696,-86.543799,222,1996 census,yes,Very Small (1 to 100),5/22/1998,5/29/1998,Unknown,SC,SC2,NBAC,138,Lightning,9821.776176
+266,1998,ON,Gull River 55,49.804781,-89.106094,99,1996 census,yes,Very Small (1 to 100),5/4/1998,5/4/1998,Smoke or Health,SC,SC2,NBAC,120,Unknown,27014.7445
+267,1998,ON,Kasabonika Lake,53.531212,-88.609963,719,1996 census,yes,"Small (101 to 1,000)",7/10/1998,7/21/1998,Threat,SC,SC4,NBAC,189,Lightning,4571.760903
+268,1998,ON,Kenogamissi Lake,48.224039,-81.554496,0,NA,no,Very Small (1 to 100),5/26/98,5/30/98,Threat,SE,SE4,NBAC,138,Lightning,157.629272
+269,1998,ON,Kenogamissi Lake,48.262814,-81.5624,0,NA,no,Very Small (1 to 100),5/26/98,5/30/98,Unknown,SE,SE4,NBAC,138,Lightning,157.629272
+270,1998,ON,Long Lake 58,49.787155,-86.573134,345,1996 census,yes,"Small (101 to 1,000)",5/26/1998,5/28/1998,Unknown,SC,SC2,NBAC,139,Lightning,9821.776176
+272,1998,ON,Mississagi River 8,46.209444,-83.001389,328,1996 census,yes,Very Small (1 to 100),5/17/98,5/17/98,Threat,SE,SE3,NFDB.pt,137,Human,9
+273,1998,ON,Neskantaga,52.203037,-88.020412,293,1996 census,yes,"Small (101 to 1,000)",7/14/1998,7/24/1998,Smoke or Health,SC,SC4,NBAC,189,Lightning,8111.173634
+274,1998,ON,Weenusk,55.011064,-85.422723,239,1996 census,yes,"Small (101 to 1,000)",8/12/1998,8/15/1998,Threat,N,NO1,NBAC,217,Unknown,1316.822846
+275,1998,QC,Eastmain,52.24069,-78.504294,527,1996 census,yes,Very Small (1 to 100),7/15/1998, ,Unknown,N,NO2,NBAC,180,Lightning,10175.51149
+276,1998,SK,Bear Creek,56.298819,-108.940817,47,2015 provincial record,no,Very Small (1 to 100),8/12/1998,8/14/1998,Smoke or Health,SC,SC4,NBAC,215,Lightning,89444.77613
+277,1998,SK,Black Lake,59.129797,-105.604208,997,1996 census,yes,Very Small (1 to 100),8/10/1998, ,Smoke or Health,SC,SC4,NA,NA,NA,NA
+278,1998,SK,Black Point,56.366695,-109.445892,47,2015 provincial record,no,Very Small (1 to 100),8/6/1998,8/14/1998,Threat,SC,SC4,NBAC,215,Lightning,89444.77613
+279,1998,SK,Brabant Lake,56.116261,-103.751426,86,1996 census,no,Very Small (1 to 100),8/8/1998,8/15/1998,Smoke or Health,SC,SC4,NA,NA,NA,NA
+280,1998,SK,Descharme Lake,57.108411,-109.218529,23,estimate (newspaper),no,Very Small (1 to 100),6/8/1998,6/12/1998,Smoke or Health,SC,SC4,NBAC,148,Lightning,28209.76926
+281,1998,SK,Garson Lake,56.310697,-109.958614,34,2015 provincial record,no,Very Small (1 to 100),5/29/1998, ,Threat,SC,SC4,NBAC,145,Lightning,2954.93302
+282,1998,SK,Ile-à-la-Crosse,55.452648,-107.90311,1403,1996 census,no,Very Small (1 to 100),6/13/1998, ,Smoke or Health,SC,SC3,NBAC,142,Lightning,26738.20345
+283,1998,SK,Lac La Hache 220,58.110335,-103.157326,843,1996 census,yes,Very Small (1 to 100),8/10/1998, ,Smoke or Health,SC,SC4,NFDB.pt,220,Lightning,40
+284,1998,SK,Michel Village,56.013615,-109.112965,75,1996 census,no,"Small (101 to 1,000)",8/10/1998,8/14/1998,Threat,SC,SC4,NBAC,215,Lightning,89444.77613
+285,1998,SK,Sandy Bay,55.526823,-102.313782,959,1996 census,no,"Small (101 to 1,000)",8/12/1998, ,Smoke or Health,SC,SC4,NBAC,215,Lightning,24696.16211
+286,1998,SK,Southend 200,56.326999,-103.240946,647,1996 census,yes,"Small (101 to 1,000)",8/7/1998,8/15/1998,Smoke or Health,SC,SC4,NBAC,215,Lightning,24696.16211
+287,1998,YT,Moosehide,64.095556,-139.438056,0,1996 census,yes,Very Small (1 to 100),7/22/1998, ,Threat,N,NO2,NA,NA,NA,NA
+288,1998,YT,Stewart Crossing,63.374444,-136.677222,42,1996 census,no,Very Small (1 to 100),7/22/1998,7/24/1998,Threat,N,NO2,NBAC,184,Lightning,70069.09012
+1202,1998,BC,Valley of the Sun,50.119497,-119.510701,350,estimate,no,"Small (101 to 1,000)",8/5/1998,8/6/1998,Threat,SW,SW3,NBAC,217,Lightning,81.58549408
+289,1999,AB,Blueberry Mountain,55.927061,-119.200902,NA,No census information available,no,Very Small (1 to 100),10/19/1999,10/20/1999,Threat,SC,SC1,NBAC,286,Human,317.1733576
+290,1999,AB,Carson-Pegasus Provincial Park,54.29137,-115.650774,NA,NA,no,Very Small (1 to 100),10/19/1999, ,Threat,SC,SC2,NBAC,292,Human,31.23231742
+292,1999,AB,Janvier 194,55.90486,-110.749178,252,2001 census,yes,Very Small (1 to 100),5/29/1999, ,Smoke or Health,SC,SC3,NBAC,146,Lightning,2370.744127
+293,1999,AB,Moonshine Lake Provincial Park,55.890694,-119.231119,NA, ,no,Very Small (1 to 100),10/20/1999, ,Threat,SC,SC1,NBAC,286,Human,317.1733576
+294,1999,MB,Cross Lake 19,54.624519,-97.777972,3157,1996 census,yes,"Medium (1,001 to 5,000)",5/27/1999,5/31/1999,Threat,SC,SC3,NBAC,147,Human,276.378667
+295,1999,MB,Manigotagan,51.108889,-96.304722,191,2006 census,no,"Small (101 to 1,000)",5/2/1999,5/5/1999,Threat,SC,SC3,NBAC,121,Unknown,26820.77573
+296,1999,MB,St. Theresa Point,53.827287,-94.853494,2184,2001 census,yes,Very Small (1 to 100),5/4/1999, ,Threat,SC,SC4,NBAC,122,Unknown,115.608048
+297,1999,NL,Badger,48.978881,-56.041692,906,2001 census,no,"Small (101 to 1,000)",6/28/99,7/1/99,Threat,SE,SE5,NBAC,177,Lightning,3151.703106
+298,1999,NS,Barrington,43.49405,-65.718023,7883,1996 census,no,"Medium (1,001 to 5,000)",4/28/99, ,Threat,SE,SE3,NBAC,118,Human,604.7611204
+299,1999,NS,Berwick,45.045743,-64.736095,2195,1996 census,no,Very Small (1 to 100),8/4/99, ,Unknown,SE,SE4,NFDB.pt,188,Unknown,30.02
+300,1999,NS,Caribou Marsh,46.044104,-60.20264,258,2007 Regional Municipality Estimate,no,Very Small (1 to 100),6/11/99, ,Threat,SE,SE3,NBAC,162,Human,60.50143722
+301,1999,NS,Cockscomb Lake,44.927749,-63.840133, , ,no,Very Small (1 to 100),8/4/99, ,Unknown,SE,SE2,NA,NA,NA,NA
+302,1999,NS,Dutch Brook,46.065821,-60.201497,214,2007 Regional Municipality Estimate,no,"Small (101 to 1,000)",6/11/99, ,Threat,SE,SE3,NBAC,162,Human,60.50143722
+303,1999,NS,Ingonish Beach,46.638225,-60.409125, , ,no,"Small (101 to 1,000)",8/4/99, ,Unknown,SE,SE4,NA,NA,NA,NA
+304,1999,NS,North Kingston,45.015202,-64.9569, , ,no,Very Small (1 to 100),8/4/99, ,Unknown,SE,SE4,NFDB.pt,175,Human,2.2
+305,1999,NS,Shelburne,43.835354,-65.377844,3790,1996 census,no,"Small (101 to 1,000)",4/28/99, ,Threat,SE,SE3,NBAC,118,Human,65.93775772
+307,1999,ON,Beardmore,49.600833,-87.956111,418,1996 census,no,"Small (101 to 1,000)",5/4/1999,5/8/1999,Threat,SC,SC2,NBAC,122,Human,27367.89602
+308,1999,ON,Bearskin Lake,53.924887,-90.969734,363,2001 census,yes,"Small (101 to 1,000)",5/4/1999,5/10/1999,Threat,SC,SC4,NBAC,122,Human,61000.20387
+309,1999,ON,Chapleau,47.84385,-83.4004,2832,2001 census,no,"Small (101 to 1,000)",5/6/99,5/11/99,Threat,SE,SE3,NBAC,115,Human,19610.74294
+311,1999,ON,Duck Lake 76B,47.835278,-83.3325,100,1996 census,yes,Very Small (1 to 100),5/6/99,5/8/99,Threat,SE,SE3,NBAC,115,Human,19610.74294
+312,1999,ON,Pic Mobert,48.695754,-85.613306,167,2001 census,yes,"Small (101 to 1,000)",5/5/99,5/10/99,Threat,SE,SE3,NBAC,123,Human,21151.66927
+314,1999,ON,Rose Lake,46.372197,-83.648093,0,NA,no,Very Small (1 to 100),4/25/99,4/25/99,Threat,SE,SE3,NBAC,113,Human,32.72352666
+316,1999,QC,Parc national des Grands-Jardins,47.683333,-70.85,0,NA,no,Very Small (1 to 100),5/29/99,6/4/99,Threat,SE,SE4,NBAC,150,Lightning,5912.6073
+317,1999,QC,Saint-David-de-Falardeau,48.616667,-71.116667,2347,2001 census,no,"Small (101 to 1,000)",5/17/99,5/17/99,Threat,SE,SE4,NBAC,137,Human,534.3835292
+318,1999,SK,Garson Lake,56.310697,-109.958614,34,2015 provincial record,no,Very Small (1 to 100),6/16/1999,6/23/1999,Threat,SC,SC4,NBAC,167,Lightning,8807.455905
+319,1999,SK,La Ronge,55.117886,-105.290525,2727,2001 census,no,"Medium (1,001 to 5,000)",5/27/1999,6/1/1999,Threat,SC,SC3,NBAC,147,Lightning,756.7791178
+320,1999,YT,Burwash Landing,61.356111,-138.99,80, ,no,Very Small (1 to 100),6/12/1999,6/19/1999,Threat,N,NO3,NBAC,147,Human,2253.30508
+1178,1999,NT,Edzo,62.774118,-116.047275,1552,2001 census,no,"Small (101 to 1,000)",8/17/1999,8/18/1999,Threat,N,NO2,NBAC,229,Lightning,944.0387394
+321,2000,AB,Lynx Creek Campground,49.453182,-114.410362,0,NA,no,Very Small (1 to 100),8/26/2000, ,Threat,SW,SW3,NBAC,238,Lightning,1576.856346
+322,2000,AB,Lynx Creek Campground,49.45319,-114.410366,0,NA,no,"Small (101 to 1,000)",7/24/2000, ,Threat,SW,SW3,NBAC,204,Unknown,1576.856346
+323,2000,AB,Clyde,54.14857,-113.635417,491,2001 census,no,Very Small (1 to 100),4/28/2000, ,Threat,SC,SC1,NBAC,135,Unknown,357.349929
+324,2000,AB,Jasper National Park of Canada,52.773944,-118.02782,0,NA,no,Very Small (1 to 100),7/15/2000, ,Smoke or Health,SW,SW3,NBAC,196,Lightning,917.694718
+325,2000,MB,God's River 86A,54.8375,-94.054722,471,2001 census,yes,Very Small (1 to 100),8/4/2000,8/7/2000,Smoke or Health,SC,SC4,NA,NA,NA,NA
+326,2000,MB,St. Theresa Point,53.827287,-94.853494,2184,2001 census,yes,"Small (101 to 1,000)",8/4/2000,8/10/2000,Smoke or Health,SC,SC4,NBAC,212,Unknown,777.493949
+327,2000,MB,Wasagamack,53.895666,-94.934602,1122,2001 census,yes,"Small (101 to 1,000)",8/3/2000,8/10/2000,Smoke or Health,SC,SC4,NBAC,212,Unknown,777.493949
+328,2000,NL,Terra Nova,48.5025,-54.214445,30,2001 census,no,Very Small (1 to 100),11/10/00,11/11/00,Threat,SE,SE5,NA,NA,NA,NA
+329,2000,NS,Kingswood,44.7131,-63.7467,359183,2001 census,no,"Small (101 to 1,000)",6/21/00,6/22/00,Threat,SE,SE4,NFDB.pt,173,Human,197
+330,2000,NS,Marion Bridge,45.980878,-60.212325,1711,2001 census,no,Very Small (1 to 100),11/10/00,11/10/00,Threat,SE,SE3,NA,NA,NA,NA
+331,2000,QC,Centrale La Grande-4,53.886667,-73.465278,0,NA,no,Very Small (1 to 100),7/16/2000,7/17/2000,Threat,N,NO2,NBAC,189,Lightning,12627.63324
+332,2000,QC,Kuujjuarapik,55.283333,-77.75,555,2001 census,no,"Small (101 to 1,000)",7/30/2000,7/31/2000,Threat,N,NO1,NBAC,212,Human,253.1363657
+333,2000,QC,Moisie,50.266884,-66.044266,930,2001 census,no,"Small (101 to 1,000)",6/11/00,6/11/00,Threat,SE,SE5,NBAC,163,Human,15.192503
+334,2000,QC,Sainte-Agnès,47.663044,-70.268229, ,No census information available,no,Very Small (1 to 100),6/19/00, ,Threat,SE,SE4,NBAC,171,Human,33.64340931
+336,2001,AB,Blue Hill,51.705,-115.224722,NA,NA,no,Very Small (1 to 100),10/16/2001, ,Threat,SC,SC2,NBAC,268,Unknown,9653.166997
+338,2001,AB,Buffalo Lake Metis Settlement,54.507215,-112.493255,1236,2017 community website,no,"Small (101 to 1,000)",5/28/2001,5/30/2001,Threat,SC,SC2,NBAC,148,Unknown,8053.440824
+339,2001,AB,Carnwood,53.19,-114.635,NA,No census information available,no,Very Small (1 to 100),5/18/2001, ,Threat,SC,SC1,NA,NA,NA,NA
+340,2001,AB,Chisholm,54.909445,-114.168889,20,2001 census,no,Very Small (1 to 100),5/26/2001,5/26/2001,Threat,SC,SC3,NBAC,144,Human,105638.9759
+341,2001,AB,Chisholm,54.909445,-114.168889,20,2001 census,no,Very Small (1 to 100),5/27/2001,5/29/2001,Threat,SC,SC3,NBAC,144,Human,105638.9759
+342,2001,AB,Bighorn Creek,51.75349,-115.581808,0,NA,no,Very Small (1 to 100),10/16/2001, ,Threat,SW,SW5,NBAC,268,Unknown,9653.166997
+343,2001,AB,Colinton,54.620556,-113.252778,215,2011 census,no,"Small (101 to 1,000)",5/28/2001,5/30/2001,Threat,SC,SC1,NA,NA,NA,NA
+344,2001,AB,Duffield,53.526241,-114.344722,71,2011 census,no,"Small (101 to 1,000)",4/24/2001,4/24/2001,Threat,SC,SC1,NA,NA,NA,NA
+345,2001,AB,Duffield,53.526241,-114.344722,71,2011 census,no,"Small (101 to 1,000)",4/25/2001,4/25/2001,Threat,SC,SC1,NA,NA,NA,NA
+346,2001,AB,Flatbush,54.689167,-114.156389,30,2001 census,no,Very Small (1 to 100),5/25/2001,5/26/2001,Threat,SC,SC2,NBAC,143,Human,105638.9759
+347,2001,AB,Mewatha Beach,54.613131,-112.744195,101,2001 census,no,"Small (101 to 1,000)",5/28/2001,5/30/2001,Threat,SC,SC3,NBAC,148,Unknown,8053.440824
+348,2001,AB,Mitsue,55.269331,-114.595084,NA,No census information available,no,"Small (101 to 1,000)",5/28/2001,5/29/2001,Threat,SC,SC3,NBAC,143,Human,105638.9759
+349,2001,AB,Poplar Estates,55.247508,-114.697156,NA,No census information available,no,Very Small (1 to 100),5/28/2001,5/29/2001,Threat,SC,SC3,NBAC,143,Human,105638.9759
+350,2001,AB,Nestow,54.237934,-113.59251,50,estimate (newspaper),no,Very Small (1 to 100),5/28/2001,5/30/2001,Threat,SC,SC1,NA,NA,NA,NA
+352,2001,AB,Smith,55.162778,-114.036944,218,2011 census,no,"Small (101 to 1,000)",5/28/2001,5/29/2001,Threat,SC,SC3,NBAC,143,Human,105638.9759
+355,2001,BC,Kootenay National Park of Canada,51.025313,-115.98009,0,NA,no,Very Small (1 to 100),8/17/2001, ,Threat,SW,SW5,NBAC,223,Lightning,3319.149429
+356,2001,NB,Bayside,45.136493,-67.113723,296,2001 census,no,Very Small (1 to 100),8/8/01,8/8/01,Threat,SE,SE4,NFDB.pt,220,Unknown,68
+357,2001,NB,Coal Branch Lake,46.330515,-65.230731,0,NA,no,Very Small (1 to 100),8/12/01, ,Threat,SE,SE2,NFDB.pt,223,Unknown,34.5
+358,2001,NB,Leech,47.453241,-64.981838,527,2001 census,no,"Small (101 to 1,000)",5/9/01,5/10/01,Threat,SE,SE4,NFDB.pt,129,Human,68
+359,2001,NL,York Harbour,49.056133,-58.382936,388,2001 census,no,Very Small (1 to 100),7/20/01,7/21/01,Threat,SE,SE5,NFDB.pt,201,Human,56
+360,2001,NS,Afton,45.59730403,-61.72519344, ,No census information available,no,"Medium (1,001 to 5,000)",8/10/01,8/11/01,Threat,SE,SE4,NFDB.pt,222,Human,35.2
+361,2001,NS,Scotsburn,45.651347,-62.853673,3177,2001 census,no,Very Small (1 to 100),10/6/01,10/7/01,Threat,SE,SE2,NFDB.pt,279,Human,42.13
+363,2001,ON,Ruth Lake,46.019349,-79.51665,0,NA,no,"Small (101 to 1,000)",7/24/01,7/27/01,Threat,SE,SE3,NFDB.pt,199,Lightning,21.4
+365,2001,QC,Némaska,51.685238,-76.255976,566,2001 census,yes,"Small (101 to 1,000)",5/26/01,5/28/01,Threat,SE,SE6,NBAC,144,Human,4101.918758
+366,2001,QC,Tadoussac,48.193855,-69.718917,870,2001 census,no,Very Small (1 to 100),5/7/01,5/7/01,Threat,SE,SE5,NFDB.pt,127,Human,0.4
+1191,2001,AB,Bondiss,54.59829,-112.693383,104,2001 census,no,"Small (101 to 1,000)",5/28/2001,5/30/2001,Threat,SC,SC3,NBAC,148,Unknown,8053.440824
+1192,2001,AB,Baywin,54.605273,-112.65602,95,estimate,no,Very Small (1 to 100),5/28/2001,5/30/2001,Threat,SC,SC3,NBAC,148,Unknown,8053.440824
+367,2002,AB,Conklin,55.631111,-111.078889,166,2001 census,no,"Small (101 to 1,000)",5/27/2002,6/7/2002,Threat,SC,SC3,NBAC,137,Unknown,228166.7039
+368,2002,AB,Conklin,55.657971,-111.154293,NA,NA,no,"Small (101 to 1,000)",5/27/2002,6/6/2002,Threat,SC,SC3,NBAC,137,Unknown,228166.7039
+369,2002,AB,Firebag River,57.221727,-110.878151,NA,NA,no,"Small (101 to 1,000)",6/26/2002,7/1/2002,Access,SC,SC3,NBAC,176,Lightning,6645.138238
+370,2002,AB,Fox Lake 162,58.466853,-114.533673,1254,2001 census,yes,"Small (101 to 1,000)",6/12/2002,6/15/2002,Threat,SC,SC3,NBAC,161,Unknown,4683.965062
+371,2002,AB,Janvier 194,55.90486,-110.749178,252,2001 census,yes,Very Small (1 to 100),6/4/2002,6/6/2002,Smoke or Health,SC,SC3,NBAC,138,Unknown,228166.7039
+372,2002,AB,Keg River,57.744287,-117.630044,NA,No census information available,no,Very Small (1 to 100),6/26/2002,6/27/2002,Threat,SC,SC3,NBAC,175,Lightning,4603.498116
+373,2002,AB,Peerless Lake,56.679574,-114.580628,402,2001 census,no,"Small (101 to 1,000)",6/26/2002,6/30/2002,Access,SC,SC3,NBAC,176,Lightning,3935.358279
+374,2002,AB,Sandy Lake,55.814444,-113.416111,135,2001 census,no,"Small (101 to 1,000)",6/25/2002,6/26/2002,Threat,SC,SC3,NBAC,176,Lightning,36.83385587
+375,2002,AB,Smoky Lake County,54.103497,-112.152075,4417,2001 census,no,"Small (101 to 1,000)",5/18/2002,5/19/2002,Threat,SC,SC1,NA,NA,NA,NA
+377,2002,AB,Steepbank Lake,55.491041,-111.514328,NA,NA,no,Very Small (1 to 100),5/26/2002, ,Threat,SC,SC3,NBAC,137,Unknown,228166.7039
+379,2002,AB,Sunchild 202,52.699391,-115.335975,598,2001 census,yes,"Small (101 to 1,000)",6/6/2002,6/12/2002,Threat,SC,SC2,NBAC,157,Lightning,1251.550782
+380,2002,MB,Barrows,52.829444,-101.44111,93,2001 SEDAC,no,Very Small (1 to 100),5/28/2002,5/30/2002,Threat,SC,SC2,NBAC,148,Unknown,2504.60457
+381,2002,MB,Powell,52.828333,-101.39667,20,2006 census,no,Very Small (1 to 100),5/28/2002,5/30/2002,Threat,SC,SC2,NBAC,148,Unknown,2504.60457
+382,2002,NL,North West River,53.53545,-60.144006,1088,2001 SEDAC,no,"Small (101 to 1,000)",7/3/02,7/5/02,Threat,SE,SE6,NA,NA,NA,NA
+383,2002,NL,Sheshatshiu 3,53.515278,-60.1425,1134,2001 census,yes,"Small (101 to 1,000)",7/3/02,7/5/02,Threat,SE,SE6,NA,NA,NA,NA
+384,2002,ON,Couchiching 16A,48.636783,-93.36513,595,2001 census,yes,Very Small (1 to 100),7/19/2002,7/25/2002,Smoke or Health,SC,SC2,NA,NA,NA,NA
+385,2002,ON,Deer Lake,52.632253,-94.061594,756,2001 census,yes,"Small (101 to 1,000)",7/17/2002,7/27/2002,Smoke or Health,SC,SC4,NA,NA,NA,NA
+387,2002,ON,Ignace,49.41217,-91.65512,1709,2001 census,no,Very Small (1 to 100),5/31/2002,5/31/2002,Threat,SC,SC2,NFDB.pt,151,Human,13.5
+388,2002,ON,Keewaywin,53.005,-92.7971,265,2001 census,yes,"Small (101 to 1,000)",7/16/2002,7/25/2002,Smoke or Health,SC,SC4,NA,NA,NA,NA
+389,2002,ON,Marten Falls 65,51.633448,-85.926811,190,2001 census,yes,Very Small (1 to 100),7/12/2002,7/17/2002,Smoke or Health,N,NO1,NBAC,192,Lightning,318.9964056
+390,2002,ON,North Spirit Lake,52.506486,-93.024679,238,2001 census,yes,Very Small (1 to 100),7/19/2002,7/25/2002,Smoke or Health,SC,SC4,NBAC,194,Lightning,2703.723392
+391,2002,ON,Pays Plat 51,48.886111,-87.556667,65,2001 census,yes,Very Small (1 to 100),7/17/2002,7/21/2002,Smoke or Health,SC,SC2,NBAC,193,Lightning,7792.312718
+392,2002,ON,Sandy Lake 88,53.063683,-93.327387,1704,2001 census,yes,"Small (101 to 1,000)",7/18/2002,7/24/2002,Smoke or Health,SC,SC4,NA,NA,NA,NA
+393,2002,ON,Schreiber,48.80929,-87.26611,1448,2001 census,no,Very Small (1 to 100),7/17/2002,7/21/2002,Smoke or Health,SC,SC2,NBAC,193,Lightning,7792.312718
+394,2002,ON,Terrace Bay,48.781944,-87.101389,1950,2001 census,no,"Small (101 to 1,000)",7/17/2002,7/21/2002,Smoke or Health,SC,SC2,NBAC,193,Lightning,7792.312718
+395,2002,ON,Timmins,48.4549,-81.3304,43686,2001 census,no,Very Small (1 to 100),5/28/02,5/28/02,Threat,SE,SE4,NFDB.pt,148,Human,21.5
+397,2002,QC,Chisasibi,53.783199,-78.896256,3467,2001 census,yes,"Small (101 to 1,000)",7/6/2002,7/9/2002,Smoke or Health,N,NO2,NBAC,181,Lightning,5233.974128
+399,2002,QC,Némaska,51.685238,-76.255976,566,2001 census,yes,"Small (101 to 1,000)",7/5/02,7/11/02,Threat,SE,SE6,NBAC,183,Lightning,123441.3049
+400,2002,QC,Poste de la Nemiscau,51.709444,-76.055556,0,NA,no,"Small (101 to 1,000)",7/4/02,7/10/02,Smoke or Health,SE,SE6,NBAC,183,Lightning,123441.3049
+401,2002,SK,Crutwell,53.218727,-106.068325,37,2006 census,no,Very Small (1 to 100),6/28/2002,7/3/2002,Threat,SC,SC2,NBAC,179,Lightning,8514.097095
+402,2002,SK,Holbein,53.232142,-106.189486,92,2001 census,no,Very Small (1 to 100),6/28/2002,7/1/2002,Threat,SC,SC2,NBAC,179,Lightning,8514.097095
+403,2002,SK,Horseshoe Bay,53.61676,-108.640567,62,2006 census,no,Very Small (1 to 100),5/30/2002,6/8/2002,Threat,SC,SC3,NBAC,150,Human,287.8474105
+404,2002,SK,Makwa Lake 129,54.040387,-109.194954,763,2001 census,yes,"Small (101 to 1,000)",6/4/2002,6/6/2002,Threat,SC,SC2,NBAC,146,Lightning,23525.89784
+405,2002,SK,McArthur River,57.762942,-105.05204,NA,NA,no,"Small (101 to 1,000)",6/27/2002, ,Threat,SC,SC4,NBAC,173,Lightning,34053.68608
+406,2002,SK,Montreal Lake 106,54.052766,-105.78744,861,2001 census,yes,"Small (101 to 1,000)",5/20/2002,5/22/2002,Threat,SC,SC3,NBAC,140,Human,275.5123033
+407,2002,SK,Nipawin,53.357192,-104.019123,4275,2001 census,no,Very Small (1 to 100),5/14/2002,5/15/2002,Threat,SC,SC1,NFDB.pt,134,Human,15
+408,2002,SK,Pelican Narrows 184B,55.171802,-102.934851,1153,2001 census,yes,"Small (101 to 1,000)",6/27/2002,7/1/2002,Smoke or Health,SC,SC4,NBAC,173,Lightning,58618.01502
+409,2002,SK,Pine Cove,54.095049,-109.218894,NA,NA,no,"Small (101 to 1,000)",6/4/2002,6/6/2002,Threat,SC,SC2,NBAC,146,Lightning,23525.89784
+410,2002,SK,Prince Albert,53.217274,-105.776607,42367,2001 census,no,"Small (101 to 1,000)",6/29/2002,6/30/2002,Threat,SC,SC2,NBAC,179,Lightning,8514.097095
+411,2002,SK,Thunderchild First Nation 115B,53.478711,-108.885962,752,2001 census,yes,Very Small (1 to 100),6/27/2002,6/28/2002,Threat,SC,SC1,NFDB.pt,178,Human,20
+412,2002,SK,Turnor Lake 193B,56.473668,-108.688263,338,2001 census,yes,"Small (101 to 1,000)",6/24/2002,6/29/2002,Threat,SC,SC4,NBAC,174,Lightning,53672.00488
+413,2002,SK,Wahpeton 94A,53.27365,-105.900141,260,2001 census,yes,"Small (101 to 1,000)",6/28/2002,7/1/2002,Threat,SC,SC2,NBAC,179,Lightning,8514.097095
+1185,2002,SK,Kivimaa-Moonlight Bay,53.610907,-108.674836,42,2001 census,no,Very Small (1 to 100),5/30/2002,6/8/2002,Threat,SC,SC3,NBAC,150,Human,287.8474105
+1186,2002,SK,Thunderchild First Nation 115C,53.616671,-108.700053,44,2001 census,yes,Very Small (1 to 100),5/30/2002,6/8/2002,Threat,SC,SC3,NBAC,150,Human,287.8474105
+1193,2002,AB,Trout Lake,56.495799,-114.556771,315,2001 census,no,"Small (101 to 1,000)",6/26/2002,6/30/2002,Access,SC,SC3,NBAC,174,Lightning,125.496699
+414,2003,AB,Blairmore,49.608056,-114.442778,1521,2011 census,no,"Medium (1,001 to 5,000)",8/3/2003,8/8/2003,Threat,SW,SW3,NBAC,204,Unknown,18001.11464
+415,2003,AB,Blairmore,49.608056,-114.442778,1521,2011 census,no,"Medium (1,001 to 5,000)",8/11/2003,8/17/2003,Threat,SW,SW3,NBAC,204,Unknown,18001.11464
+417,2003,AB,Fort MacKay,57.338473,-111.756037,NA, ,no,Very Small (1 to 100),6/18/2003,6/20/2003,Threat,SC,SC3,NBAC,169,Unknown,452.9175764
+418,2003,AB,Fort McKay 174,57.184147,-111.642151,437,2001 census,yes,"Small (101 to 1,000)",6/18/2003,6/20/2003,Threat,SC,SC3,NBAC,169,Unknown,452.917576
+419,2003,AB,Hillcrest Mines,49.568611,-114.376944,564,2006 census,no,"Small (101 to 1,000)",7/27/2003,8/6/2003,Threat,SW,SW3,NBAC,204,Unknown,18001.11464
+420,2003,AB,Jasper National Park of Canada,52.729419,-117.645674,0,NA,no,"Small (101 to 1,000)",8/4/2003, ,Threat,SW,SW3,NFDB.pt,215,Human,13.991
+421,2003,AB,Burnt Timber Campground,51.5883,-115.171128,NA,NA,no,"Small (101 to 1,000)",8/4/2003, ,Threat,SC,SC1,NBAC,213,Lightning,232.3981911
+422,2003,AB,Municipal District of Pincher Creek No. 9,49.548265,-114.260539,3309,2006 census,no,Very Small (1 to 100),7/27/2003, ,Threat,SW,SW1,NBAC,204,Unknown,18001.11464
+423,2003,BC,Anarchist Mountain,49.037614,-119.389783,0,No census information available,no,Very Small (1 to 100),7/16/2003,7/17/2003,Threat,SW,SW3,NBAC,198,Unknown,828.351169
+424,2003,BC,Barriere,51.184504,-120.129009,3257,2001 census,no,"Medium (1,001 to 5,000)",8/1/2003,8/9/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+425,2003,BC,Barriere,51.173453,-120.12496,3257,2001 census,no,"Small (101 to 1,000)",8/19/2003,8/27/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+426,2003,BC,Baynes Lake,49.212487,-115.432101,160,estimate (wikipedia),no,Very Small (1 to 100),8/14/2003,8/29/2003,Threat,SW,SW5,NBAC,225,Lightning,3260.155239
+427,2003,BC,Bonaparte Lake,51.239258,-120.522726, ,No census information available,no,"Small (101 to 1,000)",8/16/2003,8/20/2003,Threat,SW,SW3,NBAC,218,Lightning,1095.212505
+428,2003,BC,Bonaparte Plateau,51.135069,-120.38552, ,No census information available,no,"Small (101 to 1,000)",8/1/2003,8/10/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+429,2003,BC,Chase,50.819167,-119.686111,2460,2001 census,no,"Small (101 to 1,000)",8/17/2003,8/29/2003,Threat,SW,SW5,NBAC,227,Lightning,10737.09927
+430,2003,BC,Chilko Lake,51.622269,-124.031479, ,No census information available,no,Very Small (1 to 100),7/27/2003,8/9/2003,Threat,SW,SW3,NBAC,203,Human,23896.73805
+431,2003,BC,Falkland,50.501389,-119.558333,747,2001 census,no,"Small (101 to 1,000)",8/2/2003,8/7/2003,Threat,SW,SW3,NBAC,213,Human,1209.894585
+432,2003,BC,Heffley Creek,50.857222,-120.274722,701,2005 Industry Canada,no,"Small (101 to 1,000)",8/1/2003,8/4/2003,Threat,SW,SW3,NBAC,213,Human,6147.09565
+433,2003,BC,Heffley Creek,50.857222,-120.274722,701,2005 Industry Canada,no,Very Small (1 to 100),8/16/2003,8/20/2003,Threat,SW,SW3,NBAC,213,Human,6147.09565
+434,2003,BC,Kelowna,49.888056,-119.495556,147739,2001 census,no,"Very Large (>20,001)",8/18/2003,8/31/2003,Threat,SW,SW3,NBAC,228,Lightning,25490.69364
+435,2003,BC,Kelowna,49.888056,-119.495556,147739,2001 census,no,"Medium (1,001 to 5,000)",9/3/2003,9/8/2003,Threat,SW,SW3,NBAC,228,Lightning,25490.69364
+437,2003,BC,Louis Creek,51.133333,-120.11667,22,2001 census,no,Very Small (1 to 100),8/1/2003,8/8/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+439,2003,BC,McLure,51.055242,-120.219918,285,estimate (newspaper),no,"Small (101 to 1,000)",7/31/2003,8/9/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+440,2003,BC,Moyie Lake,49.425535,-115.872752, ,No census information available,no,"Small (101 to 1,000)",8/25/2003,9/9/2003,Threat,SW,SW3,NBAC,219,Lightning,8649.115146
+441,2003,BC,Naramata,49.654225,-119.623108,1791,2001 census,no,Very Small (1 to 100),8/18/2003,8/28/2003,Threat,SW,SW3,NBAC,228,Lightning,25490.69364
+442,2003,BC,Naramata,49.6,-119.58333,"1,791",2001 census,no,"Small (101 to 1,000)",8/21/2003,8/28/2003,Threat,SW,SW3,NBAC,228,Lightning,25490.69364
+444,2003,BC,Okanagan Falls,49.342965,-119.573657,1858,2001 SEDAC,no,"Small (101 to 1,000)",8/22/2003,8/24/2003,Threat,SW,SW3,NBAC,234,Human,3166.294666
+445,2003,BC,Pritchard,50.688582,-119.830788,850,estimate (newspaper),no,"Small (101 to 1,000)",8/20/2003,8/26/2003,Threat,SW,SW3,NBAC,227,Lightning,10737.09927
+446,2003,BC,Rayleigh,50.80009,-120.317875,2222,1996 census,no,"Medium (1,001 to 5,000)",8/1/2003,8/4/2003,Threat,SW,SW3,NBAC,213,Human,6147.09565
+447,2003,BC,Sun Peaks,50.884444,-119.879444,616,estimate (wikipedia),no,"Small (101 to 1,000)",9/6/2003,9/11/2003,Threat,SW,SW3,NBAC,227,Lightning,10737.09927
+449,2003,BC,Vaseux Lake Park,49.293425,-119.527414,0,NA,no,Very Small (1 to 100),8/17/2003, ,Threat,SW,SW3,NBAC,234,Human,3166.294666
+450,2003,BC,Venables Valley,50.583292,-121.360874, ,No census information available,no,"Small (101 to 1,000)",8/17/2003,8/24/2003,Threat,SW,SW3,NBAC,227,Human,5156.642129
+451,2003,MB,God's River 86A,54.8375,-94.054722,471,2001 census,yes,Very Small (1 to 100),6/23/2003, ,Smoke or Health,SC,SC4,NA,NA,NA,NA
+452,2003,MB,Red Sucker Lake 1976,54.160833,-93.569444,629,2001 census,yes,"Small (101 to 1,000)",6/23/2003, ,Smoke or Health,SC,SC4,NBAC,172,Unknown,23025.45042
+453,2003,MB,Shamattawa 1,55.859876,-92.0896,897,2001 census,yes,"Small (101 to 1,000)",8/18/2003, ,Smoke or Health,N,NO1,NA,NA,NA,NA
+454,2003,MB,Split Lake 171,56.252402,-96.122043,1581,2001 census,yes,"Small (101 to 1,000)",8/19/2003, ,Smoke or Health,SC,SC4,NBAC,220,Unknown,33128.87223
+455,2003,NS,Eastern Passage,44.615433,-63.479389,11738,2011 census,no,"Small (101 to 1,000)",5/18/03,5/19/03,Threat,SE,SE4,NBAC,138,Human,117.3588068
+456,2003,NT,Norman Wells,65.2811,-126.8316,666,2001 census,no,"Small (101 to 1,000)",7/24/2003, ,Smoke or Health,N,NO2,NBAC,202,Lightning,11899.12235
+457,2003,ON,Caramat,49.61816,-86.12786,125,2006 local estimate,no,"Small (101 to 1,000)",6/23/03,6/26/03,Threat,SE,SE6,NBAC,165,Lightning,26385.79548
+458,2003,ON,Hillsport,49.4525,-85.549444,68,2006 census,no,Very Small (1 to 100),6/24/03,6/26/03,Smoke or Health,SE,SE6,NBAC,171,Lightning,743.442135
+459,2003,ON,Ignace,49.264822,-91.241743,1709,2001 census,no,Very Small (1 to 100),6/22/2003, ,Threat,SC,SC2,NBAC,171,Human,704.4643858
+460,2003,ON,Kasabonika Lake,53.531212,-88.609963,700,2001 census,yes,"Small (101 to 1,000)",6/21/2003,6/29/2003,Smoke or Health,SC,SC4,NBAC,156,Lightning,53826.4436
+461,2003,ON,Minaki,49.9802,-94.673968,130,2011 census,no,"Small (101 to 1,000)",8/18/2003, ,Threat,SC,SC2,NBAC,229,Unknown,408.219248
+462,2003,ON,Sioux Lookout Area,50.216376,-91.882012,5336,2001 census,no,"Small (101 to 1,000)",6/22/2003, ,Threat,SC,SC2,NBAC,168,Lightning,31693.107
+463,2003,ON,Wawakapewin,53.451404,-89.142593,31,2001 census,yes,Very Small (1 to 100),6/21/2003,6/27/2003,Smoke or Health,SC,SC4,NBAC,156,Lightning,53826.4436
+464,2003,QC,Sept-Iles,50.218034,-66.357354,25392,2001 census,no,Very Small (1 to 100),6/29/03,6/29/03,Threat,SE,SE5,NBAC,184,Unknown,10.702622
+1174,2003,ON,Catherine Lake,49.855915,-94.789836,NA,seasonal residents,no,"Small (101 to 1,000)",8/18/2003, ,Threat,SC,SC2,NBAC,229,Unknown,408.219248
+1188,2003,SK,Timber Bay,54.168404,-105.675386,108,2001 census,no,"Small (101 to 1,000)",5/25/2003, ,Threat,SC,SC3,NBAC,144,Human,27177.39795
+1203,2003,BC,Chinook Cove,51.237457,-120.161532,237,2001 census,no,"Small (101 to 1,000)",8/2/2003, ,Threat,SW,SW3,NBAC,211,Human,26718.36947
+1205,2003,BC,Bonaparte Plateau,51.135076,-120.385528, ,No census information available,no,"Small (101 to 1,000)",8/18/2003,9/2/2003,Threat,SW,SW3,NBAC,211,Human,26718.36947
+466,2004,BC,Charlotte Lake,52.225,-125.3, ,No census information available,no,Very Small (1 to 100),7/26/2004,8/6/2004,Threat,SW,SW4,NBAC,173,Lightning,21151.91206
+467,2004,BC,Clearwater,51.603129,-119.916355,2331,2011 census,no,Very Small (1 to 100),4/6/2004,4/6/2004,Threat,SW,SW5,NFDB.pt,97,Human,17.1
+468,2004,BC,Crazy Bear Lake Lodge,52.144646,-125.506159,0,NA,no,Very Small (1 to 100),7/26/2004, ,Threat,SW,SW3,NBAC,173,Lightning,21151.91206
+469,2004,BC,Kluskus 1,53.086331,-124.493473,32,2006 census,yes,Very Small (1 to 100),6/25/2004, ,Threat,SW,SW3,NBAC,175,Lightning,1277.648914
+470,2004,BC,Lillooet,50.693889,-121.933611,2324,2006 census,no,Very Small (1 to 100),6/21/2004, ,Threat,SW,SW3,NBAC,170,Lightning,1170.844269
+471,2004,BC,Ulkatcho 14A,52.446442,-125.271489,219,2006 census,yes,Very Small (1 to 100),8/2/2004, ,Smoke or Health,SW,SW4,NBAC,173,Lightning,21151.91206
+472,2004,BC,Kenney Dam,53.584134,-124.951457,0,NA,no,Very Small (1 to 100),6/22/2004, ,Threat,SW,SW3,NBAC,172,Lightning,7880.29998
+473,2004,BC,Nuk Tessli Alpine Experience,52.037955,-125.54924,0,NA,no,Very Small (1 to 100),7/28/2004, ,Threat,SW,SW3,NBAC,173,Lightning,21151.91206
+474,2004,NB,Lower Coverdale,46.03536,-64.719198,1313, ,no,"Small (101 to 1,000)",6/14/04,6/14/04,Threat,SE,SE2,NFDB.pt,166,Human,53.3
+475,2004,SK,Black Lake,59.129797,-105.604208,1109,2006 census,yes,Very Small (1 to 100),7/12/2004,7/19/2004,Smoke or Health,SC,SC4,NBAC,190,Lightning,3906.447454
+476,2004,YT,Contact Creek,60,-127.725833,19, ,no,Very Small (1 to 100),6/27/2004,7/5/2004,Threat,N,NO2,NBAC,178,Lightning,45395.44314
+479,2005,AB,Fitzgerald,59.861667,-111.605556,4,2001 census,no,"Small (101 to 1,000)",6/8/2005, ,Threat,SC,SC3,NBAC,158,Lightning,300.219357
+480,2005,BC,Five Mile Point 3,59.5,-133.666667,97,2001 census,yes,Very Small (1 to 100),5/11/2005,5/11/2005,Threat,N,NO3,NFDB.pt,43,Human,8
+481,2005,BC,Oliver,49.1825,-119.550833,4370,2006 census,no,Very Small (1 to 100),8/9/2005,8/11/2005,Threat,SW,SW3,NFDB.pt,221,Human,539.3
+482,2005,BC,Thetis Lake,48.464754,-123.468032,0,NA,no,Very Small (1 to 100),7/17/2005,7/17/2005,Threat,SW,SW4,NFDB.pt,198,Human,0.25
+483,2005,BC,West Kelowna,49.892687,-119.554402,24660,2006 census,no,"Small (101 to 1,000)",8/27/2005,8/28/2005,Threat,SW,SW3,NFDB.pt,239,Human,18.4
+484,2005,NL,Badger,48.979533,-56.049382,813,2006 census,no,Very Small (1 to 100),6/28/05, ,Threat,SE,SE5,NFDB.pt,179,Human,3
+485,2005,NS,East Petpeswick,44.760601,-63.149332,471,2011 Regional Municipality Estimate,no,"Small (101 to 1,000)",6/27/05,6/27/05,Threat,SE,SE4,NFDB.pt,178,Human,4
+486,2005,ON,Foleyet,48.24396,-82.43959,216,2006 census,no,Very Small (1 to 100),5/26/05,5/27/05,Threat,SE,SE3,NBAC,146,Human,414.4898721
+487,2005,ON,Gibson Lake,48.45074,-80.809639,0,NA,no,Very Small (1 to 100),7/17/05,7/22/05,Threat,SE,SE4,NBAC,194,Lightning,2730.691286
+489,2005,ON,Luquer Lake,48.406932,-81.773035,0,NA,no,Very Small (1 to 100),7/17/05,7/21/05,Threat,SE,SE3,NBAC,198,Lightning,67.396455
+490,2005,ON,Timmichie Lake,48.275334,-80.696419,0,NA,no,Very Small (1 to 100),7/17/05,7/22/05,Threat,SE,SE3,NBAC,194,Lightning,2730.691286
+491,2005,ON,Big Water Campground,48.60369,-81.289638,0,NA,no,Very Small (1 to 100),8/8/05,8/10/05,Threat,SE,SE4,NBAC,220,Human,7.770616348
+492,2005,QC,Centrale de l'Eastmain-1,52.181667,-76.051389,0,NA,no,"Small (101 to 1,000)",6/4/2005, ,Smoke or Health,N,NO2,NBAC,149,Lightning,47623.93761
+493,2005,QC,Centrale de l'Eastmain-1,52.181667,-76.051389,0,NA,no,"Medium (1,001 to 5,000)",7/16/2005, ,Threat,N,NO2,NBAC,196,Lightning,8001.470212
+494,2005,QC,Chibougamau,49.916667,-74.366667,7563,2006 census,no,"Small (101 to 1,000)",6/4/05,6/5/05,Threat,SE,SE6,NBAC,154,Human,1134.535316
+496,2005,QC,Chisasibi,53.783199,-78.896256,3972,2006 census,yes,"Small (101 to 1,000)",5/28/2005,5/30/2005,Smoke or Health,N,NO2,NFDB.poly,148,Human,185.4153814
+497,2005,QC,Eastmain,52.24069,-78.504294,650,2006 census,yes,"Small (101 to 1,000)",6/4/2005,6/6/2005,Unknown,N,NO2,NBAC,150,Lightning,23685.24505
+498,2005,QC,Wemindji,53.005064,-78.809302,1215,2006 census,yes,Very Small (1 to 100),6/4/2005,6/6/2005,Unknown,N,NO2,NBAC,150,Lightning,53931.40222
+499,2005,SK,Pelican Narrows 184B,55.171802,-102.934851,1342,2006 census,yes,Very Small (1 to 100),7/14/2005, ,Smoke or Health,SC,SC4,NBAC,190,Lightning,4851.680001
+500,2006,AB,Alford Lake,52.061478,-115.091224,NA,NA,no,Very Small (1 to 100),5/16/2006,5/16/2006,Threat,SC,SC2,NBAC,135,Lightning,873.9975472
+503,2006,AB,Nordegg,52.467379,-116.089879,150,estimate (newspaper),no,"Small (101 to 1,000)",7/4/2006,7/7/2006,Threat,SC,SC3,NBAC,183,Lightning,130.821885
+504,2006,BC,Anahim's Flat 1,52.009744,-123.164228,526,2006 census,yes,Very Small (1 to 100),7/21/2006,7/22/2006,Threat,SW,SW3,NFDB.pt,201,Human,0.1
+505,2006,BC,Euchiniko Lakes,53.169768,-124.27007,0,NA,no,Very Small (1 to 100),7/5/2006, ,Threat,SW,SW3,NBAC,186,Lightning,9251.884463
+506,2006,BC,Galiano Island,48.911041,-123.417199,1258,2006 census,no,"Small (101 to 1,000)",7/23/2006,7/26/2006,Threat,SW,SW2,NFDB.pt,204,Human,32.5
+507,2006,BC,Lake Country,50.051207,-119.410599,9606,2006 census,no,Very Small (1 to 100),6/28/2006,6/28/2006,Threat,SW,SW3,NFDB.pt,179,Human,3
+509,2006,BC,Nazco 20,52.94231,-123.581711,117,2006 census,yes,"Small (101 to 1,000)",7/4/2006,7/10/2006,Access,SW,SW4,NBAC,184,Lightning,6520.987
+510,2006,BC,Nazko,53.006086,-123.616279,233,estimate (newspaper),no,"Small (101 to 1,000)",7/4/2006,7/6/2006,Access,SW,SW3,NBAC,184,Lightning,6520.987
+511,2006,BC,Tezla Lake,52.83701,-125.53395,0,NA,no,"Small (101 to 1,000)",7/5/2006,7/8/2006,Threat,SW,SW3,NBAC,183,Lightning,10125.62006
+512,2006,BC,Tumbler Ridge,55.133333,-121,2454,2006 census,no,"Medium (1,001 to 5,000)",7/3/2006,7/5/2006,Threat,SC,SC2,NBAC,180,Lightning,7186.076789
+513,2006,NS,Lower Onslow,45.3777473,-63.38089108,505,Real estate demographics,no,Very Small (1 to 100),5/14/06,5/14/06,Threat,SE,SE2,NFDB.pt,134,Human,29
+514,2006,NS,Upper Woods Harbour,43.55795,-65.736023, ,No census information available,no,Very Small (1 to 100),4/22/06,4/23/06,Threat,SE,SE4,NFDB.pt,113,Human,67
+515,2006,ON,Aroland 83,50.232057,-86.960019,325,2006 census,yes,"Small (101 to 1,000)",9/15/2006,9/18/2006,Smoke or Health,SC,SC2,NA,NA,NA,NA
+516,2006,ON,Deer Lake,52.632288,-94.061534,681,2006 census,yes,"Small (101 to 1,000)",9/6/2006,9/19/2006,Smoke or Health,SC,SC4,NBAC,236,Lightning,16122.81802
+517,2006,ON,Fort Hope 64,51.557717,-87.906958,1144,2006 census,yes,"Small (101 to 1,000)",6/11/2006,6/14/2006,Smoke or Health,SC,SC4,NBAC,160,Human,363.939637
+518,2006,ON,Ginoogaming First Nation,49.756696,-86.543799,175,2006 census,yes,Very Small (1 to 100),9/15/2006,9/19/2006,Smoke or Health,SC,SC2,NA,NA,NA,NA
+519,2006,ON,Gull River 55,49.804781,-89.106094,173,2006 census,yes,"Small (101 to 1,000)",9/14/2006,9/20/2006,Smoke or Health,SC,SC2,NBAC,251,Lightning,2468.709057
+520,2006,ON,Keewaywin,53.005,-92.7971,318,2006 census,yes,"Small (101 to 1,000)",9/11/2006,9/18/2006,Smoke or Health,SC,SC4,NA,NA,NA,NA
+521,2006,ON,Long Lake 58,49.787155,-86.573134,417,2006 census,yes,"Small (101 to 1,000)",9/15/2006,9/20/2006,Smoke or Health,SC,SC2,NA,NA,NA,NA
+522,2006,ON,North Spirit Lake,52.506486,-93.024679,259,2006 census,yes,"Small (101 to 1,000)",9/13/2006,9/17/2006,Smoke or Health,SC,SC4,NBAC,243,Lightning,7120.789563
+523,2006,ON,Pays Plat 51,48.886111,-87.556667,79,2006 census,yes,Very Small (1 to 100),9/13/2006,9/16/2006,Smoke or Health,SC,SC2,NFDB.pt,256,Lightning,7.6
+524,2006,ON,Sandy Lake 88,53.063683,-93.327387,1843,2006 census,yes,"Small (101 to 1,000)",9/11/2006,9/19/2006,Smoke or Health,SC,SC4,NA,NA,NA,NA
+525,2006,QC,Mistissini,50.418436,-73.866514,2897,2006 census,yes,"Medium (1,001 to 5,000)",6/7/06, ,Access,SE,SE6,NBAC,158,Lightning,2450.985342
+526,2006,QC,Mistissini,50.418436,-73.866514,2897,2006 census,yes,"Medium (1,001 to 5,000)",6/16/06, ,Threat,SE,SE6,NBAC,158,Lightning,2450.985342
+527,2006,SK,Beauval,55.146742,-107.611578,806,2006 census,no,"Small (101 to 1,000)",7/5/2006,7/9/2006,Smoke or Health,SC,SC3,NBAC,181,Lightning,9450.299767
+528,2006,SK,Black Lake,59.129797,-105.604208,1109,2006 census,yes,"Small (101 to 1,000)",6/26/2006,7/2/2006,Smoke or Health,SC,SC4,NBAC,154,Lightning,48343.0919
+529,2006,SK,Fond du Lac 227,59.326952,-107.190079,801,2006 census,yes,"Small (101 to 1,000)",6/27/2006,7/2/2006,Smoke or Health,N,NO2,NBAC,159,Lightning,84900.68025
+530,2006,SK,La Ronge,55.117886,-105.290525,2725,2006 census,no,Very Small (1 to 100),7/7/2006,7/10/2006,Smoke or Health,SC,SC3,NBAC,181,Lightning,964.742573
+531,2006,SK,Hall Lake,55.111113,-105.917848,406,2006 census,yes,Very Small (1 to 100),7/7/2006,7/10/2006,Smoke or Health,SC,SC3,NA,NA,NA,NA
+532,2006,SK,Stanley 157,55.409497,-104.57289,1467,2006 census,yes,"Medium (1,001 to 5,000)",7/1/2006,7/9/2006,Threat,SC,SC4,NBAC,181,Lightning,5511.793081
+533,2006,SK,Stony Rapids,59.254806,-105.838667,255,2006 census,no,"Small (101 to 1,000)",6/25/2006,7/2/2006,Threat,SC,SC4,NBAC,154,Lightning,48343.0919
+534,2006,SK,Uranium City,59.571056,-108.614356,105,2011 census,no,Very Small (1 to 100),6/29/2006,7/1/2006,Smoke or Health,N,NO2,NBAC,164,Unknown,143254.2726
+535,2006,YT,Fort Selkirk,62.774167,-137.385833,NA,No census information available,no,Very Small (1 to 100),6/28/2006, ,Threat,N,NO2,NBAC,174,Lightning,865.88127
+536,2007,BC,Pend d'Oreille,49.010333,-117.586641, ,No census information available,no,Very Small (1 to 100),8/16/2007, ,Threat,SW,SW5,NBAC,222,Lightning,1980.537443
+537,2007,BC,Memphis Creek,49.847357,-117.429395, ,No census information available,no,Very Small (1 to 100),8/3/2007,8/8/2007,Threat,SW,SW5,NBAC,204,Lightning,2118.751387
+538,2007,BC,Slocan,49.770556,-117.469444,314,2006 census,no,Very Small (1 to 100),8/1/2007,8/8/2007,Threat,SW,SW5,NBAC,211,Lightning,2118.751387
+539,2007,MB,Churchill 1,58.71596,-98.486405,313,2009 ISC,yes,"Small (101 to 1,000)",7/24/2007,8/2/2007,Threat,N,NO1,NBAC,204,Lightning,902.464064
+540,2007,MB,Shamattawa 1,55.859876,-92.0896,1259,2009 ISC,yes,"Small (101 to 1,000)",7/25/2007,7/30/2007,Smoke or Health,N,NO1,NA,NA,NA,NA
+541,2007,MB,South Indian Lake,56.780278,-98.930278,1003,2009 ISC,yes,"Small (101 to 1,000)",7/19/2007,7/27/2007,Smoke or Health,SC,SC4,NBAC,184,Lightning,63658.7792
+542,2007,MB,Split Lake 171,56.252402,-96.122043,2221,2009 ISC,yes,"Small (101 to 1,000)",7/24/2007, ,Smoke or Health,SC,SC4,NA,NA,NA,NA
+543,2007,NB,St. Stephen,45.2668835,-67.24821873,4780,2006 census,no,Very Small (1 to 100),5/8/07,5/9/07,Threat,SE,SE4,NFDB.pt,128,Unknown,150
+544,2007,NL,Happy Valley - Goose Bay,53.304832,-60.320161,7572,2006 census,no,"Small (101 to 1,000)",6/17/07,6/17/07,Threat,SE,SE6,NBAC,186,Human,64.502669
+545,2007,ON,Kettle Lakes Provincial Park,48.569167,-80.869445,0,NA,no,Very Small (1 to 100),5/23/07,5/23/07,Threat,SE,SE4,NBAC,143,Human,58.38733652
+546,2007,ON,Ojibway Nation of Saugeen,50.239178,-90.706593,98,2006 census,yes,Very Small (1 to 100),5/11/2007, ,Smoke or Health,SC,SC2,NBAC,129,Human,14115.03578
+547,2007,ON,Northern Light Lake,48.215483,-90.755256,NA,NA,no,"Small (101 to 1,000)",5/11/2007,5/22/2007,Threat,SC,SC2,NBAC,129,Human,13261.80202
+548,2007,ON,DeCourcey Lake,48.981228,-89.253667,NA,NA,no,Very Small (1 to 100),5/13/2007,5/14/2007,Threat,SC,SC2,NBAC,133,Unknown,481.5197198
+549,2007,QC,Abitibi,48.302359,-76.712828,24275,2006 census,no,Very Small (1 to 100),5/26/07,5/27/07,Threat,SE,SE4,NBAC,144,Human,60414.45528
+551,2007,QC,Pourvoirie Camp Cooper,49.001221,-74.410982,0,NA,no,Very Small (1 to 100),6/17/07,6/17/07,Threat,SE,SE6,NBAC,167,Lightning,8766.438999
+552,2007,QC,Malioténam 27A,50.214513,-66.195982,1123,2006 census,no,"Medium (1,001 to 5,000)",5/26/07,5/27/06,Threat,SE,SE5,NBAC,146,Human,246.7829018
+1207,2007,BC,Salmo River,49.106583,-117.266344, ,No census information available,no,Very Small (1 to 100),8/16/2007, ,Threat,SW,SW5,NBAC,224,Lightning,1980.537443
+553,2008,AB,Alexis 133,53.733333,-114.483333,980,2009 ISC,yes,"Small (101 to 1,000)",10/25/2008,10/26/2008,Threat,SC,SC1,NA,NA,NA,NA
+555,2008,AB,Lesser Slave River No. 124,55.333318,-114.917777,2820,2006 census,no,Very Small (1 to 100),5/15/2008, ,Threat,SC,SC2,NBAC,136,Human,125.5215417
+556,2008,AB,Newbrook,54.329722,-112.951944,116,2006 census,no,"Small (101 to 1,000)",5/16/2008, ,Threat,SC,SC1,NFDB.poly,NA,Unknown,998.7261467
+557,2008,MB,Norway House 17,53.949862,-97.862025,5265,2009 ISC,yes,"Small (101 to 1,000)",5/28/2008,5/31/2008,Threat,SC,SC2,NBAC,149,Human,66.66847256
+560,2008,MB,Sherridon,55.123889,-101.08667,150,estimate (newspaper),no,"Small (101 to 1,000)",5/28/2008,6/2/2008,Threat,SC,SC4,NBAC,148,Human,8939.104328
+561,2008,MB,St. Theresa Point,53.827287,-94.853494,3297,2009 ISC,yes,"Small (101 to 1,000)",5/28/2008, ,Threat,SC,SC4,NBAC,146,Human,2197.641341
+562,2008,MB,Wasagamack,53.895666,-94.934602,1612,2008 ISC,yes,"Small (101 to 1,000)",5/29/2008,6/5/2008,Smoke or Health,SC,SC4,NBAC,148,Human,539.261472
+563,2008,NS,Porters Lake,44.737684,-63.313075,3202,2011 provincial record,no,"Medium (1,001 to 5,000)",6/14/08,6/15/08,Threat,SE,SE4,NBAC,165,Human,1779.257265
+565,2008,NS,Tantallon,44.6541891,-63.90663134, , ,no,Very Small (1 to 100),6/14/08, ,Threat,SE,SE4,NBAC,165,Human,29.05098234
+566,2008,NT,Edzo,62.774116,-116.047278,1894,2006 census,no,Very Small (1 to 100),7/22/2008, ,Threat,N,NO2,NBAC,173,Lightning,55161.46053
+567,2008,NT,Sandy Lake,60.530883,-114.593844,0,NA,no,Very Small (1 to 100),7/25/2008, ,Threat,N,NO2,NBAC,201,Lightning,31706.73611
+568,2008,SK,Black Lake,59.129797,-105.604208,1527,2009 ISC,yes,"Small (101 to 1,000)",7/1/2008,7/5/2008,Smoke or Health,SC,SC4,NBAC,159,Lightning,47784.54991
+569,2008,SK,Deschambault Lake,54.911661,-103.380779,1194,2011 census,yes,"Small (101 to 1,000)",7/1/2008,7/6/2008,Threat,SC,SC4,NBAC,172,Lightning,22958.09206
+570,2008,SK,Fond du Lac 227,59.326952,-107.190079,996,2009 ISC,yes,Very Small (1 to 100),7/29/2008, ,Smoke or Health,N,NO2,NBAC,175,Lightning,9549.875159
+571,2008,SK,Pelican Narrows 184B,55.171802,-102.934851,1342,2006 census,yes,"Small (101 to 1,000)",7/2/2008,7/8/2008,Smoke or Health,SC,SC4,NBAC,174,Lightning,62669.99219
+572,2008,SK,Sandy Bay,55.526823,-102.313782,1175,2006 census,no,"Medium (1,001 to 5,000)",6/30/2008,7/7/2008,Smoke or Health,SC,SC4,NBAC,174,Lightning,62669.99219
+573,2008,SK,Stony Rapids,59.254806,-105.838667,255,2006 census,no,"Small (101 to 1,000)",6/29/2008,7/8/2008,Threat,SC,SC4,NBAC,159,Lightning,47784.54991
+574,2008,SK,Stony Rapids,59.254806,-105.838667,255,2006 census,no,Very Small (1 to 100),6/13/2008, ,Smoke or Health,SC,SC4,NBAC,159,Lightning,47784.54991
+576,2008,SK,Uranium City,59.571056,-108.614356,105,2011 census,no,Very Small (1 to 100),6/7/2008,7/9/2008,Threat,N,NO2,NBAC,159,Lightning,63192.3817
+577,2009,AB,Hommy Park Campground,55.271124,-119.513724,NA,NA,no,Very Small (1 to 100),6/13/2009,6/16/2009,Unknown,SC,SC1,NA,NA,NA,NA
+582,2009,AB,Niton Junction,53.621944,-115.769722,26,2011 census,no,Very Small (1 to 100),6/6/2009,6/6/2009,Threat,SC,SC3,NBAC,150,Human,26.783475
+583,2009,AB,Opportunity No. 17,56.962812,-114.694879,3074,2011 census,no,Very Small (1 to 100),6/18/2009, ,Threat,SC,SC3,NBAC,165,Lightning,4690.679701
+584,2009,AB,Phyllis Lake,52.099062,-114.964707,NA,NA,no,Very Small (1 to 100),5/18/2009, ,Threat,SC,SC2,NBAC,137,Human,8.699494
+585,2009,AB,Pigeon Lake 138A,52.988611,-113.955,485,2011 census,yes,Very Small (1 to 100),5/25/2009,5/30/2009,Threat,SC,SC1,NA,NA,NA,NA
+586,2009,AB,Pigeon Lake 138A,52.988611,-113.955,485,2011 census,yes,Very Small (1 to 100),5/3/2009,5/6/2009,Threat,SC,SC1,NA,NA,NA,NA
+587,2009,AB,Pigeon Lake 138A,52.988611,-113.955,485,2011 census,yes,Very Small (1 to 100),5/3/2009,5/13/2009,Threat,SC,SC1,NA,NA,NA,NA
+588,2009,AB,Pigeon Lake 138A,52.988611,-113.955,485,2011 census,yes,"Small (101 to 1,000)",5/3/2009,5/13/2009,Threat,SC,SC1,NA,NA,NA,NA
+593,2009,BC,70 Mile House,51.314688,-121.394276,1074,2011 census,no,"Small (101 to 1,000)",5/2/2009,5/4/2009,Threat,SW,SW4,NBAC,122,Human,977.348771
+594,2009,BC,Alexis Creek,52.084716,-123.27721,127,2006 census,no,"Small (101 to 1,000)",8/2/2009,8/4/2009,Threat,SW,SW3,NBAC,213,Lightning,131.1491871
+595,2009,BC,Anahim's Flat 1,52.009744,-123.164228,602,2009 ISC,yes,Very Small (1 to 100),5/2/2009,5/2/2009,Threat,SW,SW3,NBAC,122,Human,52.3458293
+596,2009,BC,Bella Coola,52.383333,-126.75,865,2009 ISC,yes,"Small (101 to 1,000)",8/3/2009,8/8/2009,Threat,SW,SW5,NBAC,213,Lightning,246.5390103
+599,2009,BC,Bridge River 1,50.774958,-121.970542,213,2009 ISC,yes,"Small (101 to 1,000)",8/3/2009,8/7/2009,Threat,SW,SW3,NBAC,212,Human,62.911149
+600,2009,BC,Brookmere,49.818056,-120.875,120,estimate (newspaper),no,"Small (101 to 1,000)",8/2/2009,8/5/2009,Threat,SW,SW3,NBAC,211,Lightning,2585.304021
+601,2009,BC,Buffalo Creek,51.728913,-121.154046,627,2011 census,no,Very Small (1 to 100),5/29/2009,5/31/2009,Unknown,SW,SW4,NBAC,149,Human,132.7823595
+602,2009,BC,Carol Lake,50.858694,-122.465296,0,No census information available,no,Very Small (1 to 100),6/4/2009,6/14/2009,Threat,SW,SW3,NBAC,149,Human,7505.829152
+603,2009,BC,Cayoosh Creek 1,50.666581,-121.924988,88,2009 ISC,yes,Very Small (1 to 100),8/5/2009,8/14/2009,Threat,SW,SW3,NBAC,203,Lightning,3051.724358
+605,2009,BC,Clinton,51.091667,-121.586667,636,2011 census,no,Very Small (1 to 100),8/21/2009, ,Unknown,SW,SW3,NBAC,216,Lightning,14805.50389
+607,2009,BC,Coal River,59.657923,-126.952396,15,estimate (newspaper),no,Very Small (1 to 100),6/4/2009,6/5/2009,Threat,N,NO2,NBAC,149,Lightning,18874.97854
+608,2009,BC,Fadear Creek,51.040354,-120.029446,0,No census information available,no,Very Small (1 to 100),8/21/2009,8/26/2009,Threat,SW,SW3,NBAC,232,Lightning,54.75185652
+609,2009,BC,Fintry,50.133333,-119.5, ,No census information available,no,"Medium (1,001 to 5,000)",7/22/2009,8/14/2009,Threat,SW,SW3,NBAC,196,Human,8258.989705
+610,2009,BC,Fireside,59.673897,-127.150796,30,estimate (newspaper),no,Very Small (1 to 100),6/4/2009,6/5/2009,Threat,N,NO2,NBAC,153,Lightning,18874.97854
+615,2009,BC,Gun Lake,50.8866,-122.854511,0,No census information available,no,Very Small (1 to 100),6/3/2009,6/14/2009,Threat,SW,SW3,NBAC,149,Human,7505.829152
+617,2009,BC,High Bar 1,51.102963,-121.972873,2,2011 ISC,yes,Very Small (1 to 100),8/21/2009,9/11/2009,Threat,SW,SW3,NBAC,213,Lightning,14805.50389
+618,2009,BC,Hihium Lake,51.047581,-121.188411,0,No census information available,no,Very Small (1 to 100),9/23/2009,9/27/2009,Threat,SW,SW4,NBAC,266,Human,554.9644273
+619,2009,BC,Kalamalka Lake Park,50.20265,-119.272202,0,NA,no,Very Small (1 to 100),8/3/2009,8/3/2009,Threat,SW,SW5,NFDB.pt,215,Human,0.7
+621,2009,BC,Kluskus 1,53.08633,-124.493474,47,2009 ISC,yes,Very Small (1 to 100),8/4/2009,8/11/2009,Threat,SW,SW3,NBAC,212,Lightning,3367.769033
+622,2009,BC,Lake Koocanusa,49.298927,-115.279861,0,NA,no,"Small (101 to 1,000)",7/5/2009,7/5/2009,Tactical,SW,SW3,NBAC,186,Human,1.299121383
+623,2009,BC,Lillooet,50.693889,-121.933611,2321,2011 census,no,"Medium (1,001 to 5,000)",8/2/2009,8/6/2009,Threat,SW,SW3,NBAC,203,Lightning,3051.724358
+626,2009,BC,Lillooet 1,50.682145,-121.939,194,2009 ISC,yes,"Small (101 to 1,000)",8/2/2009,8/7/2009,Threat,SW,SW3,NBAC,203,Lightning,3051.724358
+627,2009,BC,Liza Lake,50.957371,-122.635073,0,No census information available,no,Very Small (1 to 100),6/4/2009,6/20/2009,Threat,SW,SW3,NBAC,149,Human,7505.829152
+628,2009,BC,Lytton 4A,50.445349,-121.703778,22,estimate,yes,Very Small (1 to 100),8/7/2009,9/11/2009,Threat,SW,SW3,NBAC,207,Lightning,1913.014946
+630,2009,BC,Marshall Lake,50.923807,-122.587801,0,No census information available,no,Very Small (1 to 100),6/4/2009,6/20/2009,Threat,SW,SW3,NBAC,149,Human,7505.829152
+633,2009,BC,Muddy River 1,59.63909,-127.122823,0,"2009 ISC, 2011 census",yes,Very Small (1 to 100),6/4/2009,6/5/2009,Threat,N,NO2,NBAC,153,Lightning,18874.97854
+634,2009,BC,Notch Hill,50.85,-119.43333,675,2011 census,no,"Small (101 to 1,000)",8/24/2009,8/27/2009,Threat,SW,SW5,NBAC,232,Lightning,2226.12885
+635,2009,BC,Pemberton Meadows,50.442676,-122.913026, ,No census information available,no,Very Small (1 to 100),7/31/2009, ,Threat,SW,SW5,NBAC,207,Lightning,1248.401631
+636,2009,BC,Paxton Valley,50.623147,-119.674709, ,No census information available,no,"Small (101 to 1,000)",8/31/2009,9/4/2009,Threat,SW,SW3,NBAC,233,Lightning,1944.969193
+638,2009,BC,Pritchard,50.674459,-119.812842,2061,2001 census,no,"Small (101 to 1,000)",8/28/2009,9/4/2009,Threat,SW,SW3,NBAC,240,Unknown,1944.969193
+640,2009,BC,Philip Lakes,55.072815,-123.757406,0,NA,no,Very Small (1 to 100),8/3/2009,8/4/2009,Threat,SW,SW5,NBAC,212,Lightning,68.55167599
+642,2009,BC,Scum Lake,51.792456,-123.592689,0,NA,no,Very Small (1 to 100),8/21/2009, ,Threat,SW,SW3,NBAC,211,Lightning,57472.12542
+643,2009,BC,Shalalth,50.726397,-122.245459,354,2009 ISC,yes,Very Small (1 to 100),8/2/2009,8/21/2009,Threat,SW,SW3,NBAC,214,Human,1537.927107
+644,2009,BC,Tappen,50.782855,-119.313067,826,2011 census,no,Very Small (1 to 100),7/25/2009,7/28/2009,Threat,SW,SW5,NBAC,206,Human,10.28366178
+646,2009,BC,Tyaughton Lake,50.954985,-122.755715,0,No census information available,no,Very Small (1 to 100),6/4/2009,6/20/2009,Threat,SW,SW3,NBAC,149,Human,7505.829152
+648,2009,BC,West Kelowna,49.827732,-119.651314,30902,2011 census,no,"Very Large (>20,001)",7/18/2009,7/22/2009,Threat,SW,SW3,NBAC,199,Human,301.4719183
+649,2009,BC,Crystal Hut,50.107472,-122.892354,0,NA,no,"Small (101 to 1,000)",7/30/2009, ,Threat,SW,SW5,NBAC,211,Lightning,33.2931205
+650,2009,NB,Bathurst,47.604818,-65.600568,12714,2006 census,no,Very Small (1 to 100),5/15/09,5/15/09,Threat,SE,SE4,NFDB.pt,134,Human,7
+651,2009,NL,Ferryland,47.022837,-52.892949,529,2006 census,no,Very Small (1 to 100),5/15/09,5/15/09,Unknown,SE,SE5,NA,NA,NA,NA
+652,2009,NL,Gosling Lake,53.407141,-60.419132,0,No census information available,no,Very Small (1 to 100),6/28/09, ,Unknown,SE,SE6,NBAC,179,Human,63.625819
+653,2009,NL,Long Harbour,47.423227,-53.811074,298,2011 census,no,"Small (101 to 1,000)",7/13/09, ,Threat,SE,SE5,NFDB.pt,194,Human,65
+654,2009,NS,Fergusons Cove,44.599854,-63.559694,372679,2006 census,no,"Medium (1,001 to 5,000)",4/30/09,5/2/09,Unknown,SE,SE4,NBAC,119,Human,667.4441355
+655,2009,SK,Canwood,53.344271,-106.565642,348,2011 census,no,Very Small (1 to 100),5/30/2009,5/31/2009,Threat,SC,SC2,NBAC,150,Human,1831.197025
+656,2009,SK,One Arrow 95,52.742564,-106.037548,597,2009 ISC,yes,Very Small (1 to 100),4/24/2009,4/30/2009,Smoke or Health,SC,SC1,NFDB.pt,NA,Human,74
+1208,2009,BC,Coal River,59.657922,-126.952391,15,estimate (newspaper),no,Very Small (1 to 100),6/10/2009,6/11/2009,Threat,N,NO2,NBAC,149,Lightning,18874.97854
+1209,2009,BC,Seton Portage,50.707234,-122.287596,89,2006 census,no,"Small (101 to 1,000)",8/2/2009, ,Threat,SW,SW3,NBAC,215,Human,1537.927107
+658,2010,AB,Alexis Whitecourt 232,54.191738,-115.789411,1000,2010 ISC,yes,Very Small (1 to 100),4/19/2010,4/19/2010,Threat,SC,SC2,NBAC,108,Human,20.554723
+660,2010,AB,Opal,53.991389,-113.2225,NA,No census information available,no,Very Small (1 to 100),5/16/2010,5/18/2010,Smoke or Health,SC,SC1,NFDB.poly,NA,Unknown,2554.751992
+662,2010,AB,Wabamun 133A,53.54111167,-114.4193426,1069,2011 census,yes,"Small (101 to 1,000)",4/19/2010,5/3/2010,Threat,SC,SC1,NA,NA,NA,NA
+663,2010,AB,Wabamun 133A,53.53330903,-114.438224,1069,2011 census,yes,Very Small (1 to 100),5/19/2010, ,Threat,SC,SC1,NA,NA,NA,NA
+664,2010,BC,Alexandria 1,52.559184,-122.46231,54,2010 ISC,yes,Very Small (1 to 100),8/1/2010,8/27/2010,Threat,SW,SW4,NBAC,208,Lightning,3319.623368
+665,2010,BC,Alexis Creek,52.084716,-123.27721,73,2011 census,no,Very Small (1 to 100),8/19/2010,8/23/2010,Threat,SW,SW3,NBAC,196,Lightning,16121.01571
+666,2010,BC,Alkali Lake 1,51.787855,-122.23729,468,2010 ISC,yes,Very Small (1 to 100),8/6/2010,8/11/2010,Smoke or Health,SW,SW3,NBAC,208,Lightning,37.00574834
+667,2010,BC,Anahim Lake,52.464829,-125.304031,80,2011 census,no,"Small (101 to 1,000)",8/17/2010, ,Unknown,SW,SW4,NBAC,225,Lightning,2815.916666
+668,2010,BC,Anahim's Flat 1,52.009744,-123.164228,598,2010 ISC,yes,"Small (101 to 1,000)",8/4/2010,8/27/2010,Smoke or Health,SW,SW3,NBAC,195,Lightning,16121.01571
+669,2010,BC,Baptiste Meadow 2,52.006899,-122.5533,171,2010 ISC,yes,Very Small (1 to 100),8/11/2010,8/18/2010,Smoke or Health,SW,SW3,NBAC,210,Lightning,15408.85358
+671,2010,BC,Bonaparte Lake,51.239258,-120.522726,0,NA,no,"Small (101 to 1,000)",7/28/2010,7/29/2010,Threat,SW,SW3,NBAC,208,Lightning,128.2178795
+672,2010,BC,Bridge River 1,50.74857187,-121.9326082,219,2010 ISC,yes,Very Small (1 to 100),8/4/2010,8/11/2010,Threat,SW,SW3,NFDB.pt,216,Human,2
+673,2010,BC,Burnaby,49.26319372,-122.923637,"202,799",2006 census,no,Very Small (1 to 100),7/29/2010,7/29/2010,Threat,SW,SW1,NA,NA,NA,NA
+675,2010,BC,Chilco Lake 1A,51.425623,-124.136416,255,2010 ISC,yes,Very Small (1 to 100),8/6/2010,8/11/2010,Smoke or Health,SW,SW3,NA,NA,NA,NA
+676,2010,BC,Chisholm Lake,54.203341,-127.215535,0,NA,no,"Small (101 to 1,000)",8/18/2010, ,Threat,SW,SW4,NBAC,223,Lightning,410.0537857
+677,2010,BC,Kamloops Riverview RV Park,50.669039,-120.206564,150,estimate (newspaper),no,"Small (101 to 1,000)",7/28/2010,7/28/2010,Threat,SW,SW3,NFDB.pt,208,Human,50.7
+678,2010,BC,Dean River,52.755792,-126.532711,0,NA,no,Very Small (1 to 100),8/16/2010, ,Threat,SW,SW5,NBAC,214,Lightning,3615.672923
+680,2010,BC,Dog Creek 1,51.588503,-122.212071,80,2011 census,yes,Very Small (1 to 100),7/29/2010, ,Threat,SW,SW3,NBAC,209,Lightning,4099.181376
+681,2010,BC,Dog Creek 2,51.598262,-122.084626,30,2011 census,yes,Very Small (1 to 100),7/29/2010, ,Threat,SW,SW3,NBAC,209,Lightning,4099.181376
+682,2010,BC,Finger Lake,53.570578,-124.358205,0,NA,no,Very Small (1 to 100),8/13/2010,8/14/2010,Threat,SW,SW4,NBAC,217,Lightning,1.874690357
+684,2010,BC,Huckleberry Mine,53.676842,-127.163931,0,NA,no,"Small (101 to 1,000)",8/16/2010,8/24/2010,Access,SW,SW4,NBAC,225,Lightning,4472.057729
+685,2010,BC,Kluskus 1,53.086331,-124.493473,52,2010 ISC,yes,Very Small (1 to 100),8/18/2010,8/25/2010,Smoke or Health,SW,SW3,NBAC,216,Lightning,398.889115
+686,2010,BC,Meldrum Creek,52.11123,-122.324931, ,No census information available,no,"Small (101 to 1,000)",7/29/2010,8/9/2010,Threat,SW,SW4,NBAC,208,Lightning,15408.85358
+687,2010,BC,Okanagan Mountain Park,49.781434,-119.577605, , ,no,Very Small (1 to 100),7/15/2010, ,Threat,SW,SW3,NBAC,196,Human,9.709518673
+688,2010,BC,Palling 1,54.331354,-125.887121,121,2010 ISC,yes,Very Small (1 to 100),8/20/2010,8/25/2010,Smoke or Health,SW,SW3,NA,NA,NA,NA
+689,2010,BC,Seclusion Bay Resort,49.801526,-119.662358,0,NA,no,Very Small (1 to 100),7/12/2010,7/15/2010,Threat,SW,SW3,NBAC,193,Human,23.57961976
+690,2010,BC,Pelican Lake,53.33263177,-123.6465063,0,NA,no,"Small (101 to 1,000)",7/30/2010,8/22/2010,Threat,SW,SW3,NBAC,208,Lightning,32002.71053
+692,2010,BC,Precipice Creek,52.41297,-125.64703,5,estimate (newspaper),no,Very Small (1 to 100),8/17/2010, ,Unknown,SW,SW4,NBAC,212,Lightning,2815.916666
+693,2010,BC,Punchaw Lake,53.417653,-123.036221, ,No census information available,no,Very Small (1 to 100),8/20/2010, ,Unknown,SW,SW4,NBAC,209,Lightning,32002.71053
+694,2010,BC,Redstone Flat 1,52.140917,-123.952357,351,2010 ISC,yes,"Small (101 to 1,000)",8/6/2010,8/11/2010,Smoke or Health,SW,SW3,NBAC,196,Lightning,16121.01571
+695,2010,BC,Armstrong,50.390138,-119.220995,4830,2011 census,no,"Small (101 to 1,000)",7/11/2010,7/12/2010,Threat,SW,SW4,NFDB.pt,192,Human,5
+696,2010,BC,Riske Creek,51.968611,-122.528333,0,NA,no,Very Small (1 to 100),7/27/2010, ,Threat,SW,SW3,NBAC,208,Lightning,15408.85358
+697,2010,BC,Armstrong,50.4010761,-119.2800603,4830,2011 census,no,Very Small (1 to 100),7/18/2010,7/19/2010,Tactical,SW,SW5,NFDB.pt,199,Human,0.009
+698,2010,BC,Spotted Lake,49.074138,-119.571256, ,No census information available,no,Very Small (1 to 100),8/2/2010, ,Tactical,SW,SW3,NBAC,214,Human,35.49738161
+699,2010,BC,Squinas 2,52.474594,-125.29369,707,2010 ISC,yes,"Small (101 to 1,000)",8/18/2010,8/20/2010,Smoke or Health,SW,SW4,NBAC,225,Lightning,2815.916666
+700,2010,BC,Stone 1,51.924849,-123.137845,275,2010 ISC,yes,Very Small (1 to 100),8/6/2010,8/11/2010,Smoke or Health,SW,SW3,NBAC,196,Lightning,16121.01571
+703,2010,BC,Trail,49.041037,-117.60088,7681,2011 census,no,Very Small (1 to 100),8/26/2010,8/26/2010,Threat,SW,SW5,NBAC,238,Human,8.779752643
+704,2010,BC,Trout Lake Alec 16,53.183333,-123.533333,167,2010 ISC,yes,Very Small (1 to 100),7/28/2010,8/18/2010,Threat,SW,SW3,NBAC,208,Lightning,32002.71053
+705,2010,BC,Tsacha Lake,53.028118,-124.840326,0,NA,no,Very Small (1 to 100),8/17/2010, ,Threat,SW,SW3,NBAC,209,Lightning,10907.87578
+708,2010,BC,Williams Lake,52.12505837,-122.0785049,10832,2011 census,no,Very Small (1 to 100),8/14/2010,8/14/2010,Threat,SW,SW4,NBAC,210,Lightning,15408.85358
+711,2010,MB,Bakers Narrows,54.671111,-101.675,24,2011 SEDAC,no,"Small (101 to 1,000)",6/25/2010,7/1/2010,Smoke or Health,SC,SC3,NBAC,169,Lightning,61810.98488
+712,2010,MB,Berens River 13,52.379167,-96.988889,1846,2010 ISC,yes,"Small (101 to 1,000)",5/19/2010,5/28/2010,Smoke or Health,SC,SC4,NBAC,139,Human,17775.37814
+713,2010,MB,Cormorant,54.223889,-100.60028,346,2011 census,no,Very Small (1 to 100),6/23/2010, ,Smoke or Health,SC,SC2,NBAC,169,Lightning,61810.98488
+714,2010,MB,Cranberry Portage,54.586111,-101.37722,630,2011 census,no,"Small (101 to 1,000)",6/23/2010,7/6/2010,Smoke or Health,SC,SC3,NBAC,169,Lightning,61810.98488
+715,2010,MB,Garden Hill First Nation,53.871389,-94.640833,3591,2010 ISC,yes,Very Small (1 to 100),4/29/2010,5/2/2010,Threat,SC,SC4,NBAC,117,Human,57.144128
+716,2010,MB,Grass River Provincial Park,54.666389,-100.83083,NA,NA,no,Very Small (1 to 100),6/23/2010,7/1/2010,Threat,SC,SC3,NBAC,166,Lightning,61810.98488
+717,2010,MB,Lac Brochet 197A,58.618318,-101.490137,853,2010 ISC,yes,Very Small (1 to 100),7/24/2010,8/3/2010,Smoke or Health,N,NO1,NA,NA,NA,NA
+718,2010,MB,Nelson House 170,55.798425,-98.875821,2898,2010 ISC,yes,"Small (101 to 1,000)",6/7/2010,6/7/2010,Smoke or Health,SC,SC3,NBAC,158,Human,168.40307
+719,2010,MB,Sourdough Bay,54.774036,-101.605839,NA,No census information available,no,Very Small (1 to 100),6/25/2010,7/1/2010,Smoke or Health,SC,SC3,NBAC,169,Lightning,61810.98488
+720,2010,NS,Little Dover,45.289032,-61.050227,8143,2011 census,no,Very Small (1 to 100),3/21/10, ,Threat,SE,SE4,NFDB.pt,94,Unknown,4
+721,2010,NS,Middle Porters Lake,44.687964,-63.312626,105,2016 District profile,no,Very Small (1 to 100),6/15/10,6/15/10,Unknown,SE,SE4,NA,NA,NA,NA
+722,2010,ON,Brunswick House,47.835301,-83.332456,186,2010 ISC,yes,"Small (101 to 1,000)",5/27/10,6/1/10,Other,SE,SE3,NBAC,147,Unknown,2068.515853
+723,2010,QC,Communauté Atikamekw de Manawan,47.216667,-74.383333,2117,2010 ISC,yes,"Small (101 to 1,000)",5/27/10,6/2/10,Smoke or Health,SE,SE3,NBAC,144,Human,5949.984186
+724,2010,QC,Réserve indienne Obedjiwan 28,48.659183,-74.940563,2169,2010 ISC,yes,"Small (101 to 1,000)",5/27/10,6/2/10,Smoke or Health,SE,SE6,NBAC,146,Lightning,101.181488
+725,2010,QC,Parent,47.920556,-74.616944,232,2016 SEDAC,no,Very Small (1 to 100),5/27/10, ,Smoke or Health,SE,SE6,NBAC,145,Lightning,4242.784015
+727,2010,QC,Wemotaci,47.9025,-73.783889,1362,2010 ISC,yes,"Medium (1,001 to 5,000)",5/26/10,6/7/10,Threat,SE,SE6,NBAC,145,Lightning,18489.94328
+728,2010,SK,Black Lake,59.129797,-105.604208,1563,2010 ISC,yes,"Small (101 to 1,000)",7/14/2010,7/18/2010,Smoke or Health,SC,SC4,NBAC,155,Lightning,403660.3309
+729,2010,SK,Redwing,53.248964,-105.723382,NA,No census information available,no,"Small (101 to 1,000)",5/17/2010,5/19/2010,Threat,SC,SC2,NBAC,137,Human,289.3935552
+730,2010,SK,Stony Rapids,59.254806,-105.838667,243,2011 census,no,"Small (101 to 1,000)",7/14/2010,7/18/2010,Smoke or Health,SC,SC4,NBAC,155,Lightning,403660.3309
+731,2010,YT,Minto,62.583472,-136.851066,0,NA,no,Very Small (1 to 100),6/4/2010, ,Threat,N,NO2,NBAC,152,Human,1170.442621
+734,2011,AB,Crimson Lake Provincial Park,52.458415,-115.050831,NA,NA,no,Very Small (1 to 100),5/14/2011,5/14/2011,Threat,SC,SC2,NBAC,134,Human,41.761405
+735,2011,AB,Drift Pile River 150,55.345363,-115.793543,899,2011 ISC,yes,Very Small (1 to 100),5/25/2011,6/10/2011,Threat,SC,SC2,NBAC,131,Human,133.59526
+736,2011,AB,Fort Mckay 174,57.184147,-111.642151,372,2011 ISC,yes,Very Small (1 to 100),5/13/2011,6/3/2011,Smoke or Health,SC,SC3,NBAC,130,Unknown,439351.3074
+737,2011,AB,Gift Lake Metis Settlement,55.882258,-115.81388,662,2011 census,no,"Small (101 to 1,000)",5/15/2011,5/28/2011,Threat,SC,SC3,NBAC,135,Human,1786.555473
+739,2011,AB,Little Buffalo,56.4375,-116.1075,387,2011 census,yes,"Small (101 to 1,000)",5/17/2011,5/25/2011,Smoke or Health,SC,SC3,NBAC,135,Human,653.894038
+741,2011,AB,Loon Lake 235,56.539324,-115.393933,430,2011 ISC,yes,"Small (101 to 1,000)",15-May-11,25-May-11,Threat,SC,SC3,NBAC,135,Human,16699.997
+743,2011,AB,Lesser Slave River No. 124,55.36926,-115.098224,2929,2011 census,no,"Small (101 to 1,000)",5/14/2011, ,Threat,SC,SC3,NBAC,134,Unknown,15395.85835
+744,2011,AB,Peerless Trout 238,56.679602,-114.580657,502,2011 ISC,yes,Very Small (1 to 100),5/27/2011,6/10/2011,Smoke or Health,SC,SC3,NBAC,134,Human,70903.6564
+745,2011,AB,Red Earth Creek,56.540556,-115.285278,337,2011 census,no,"Small (101 to 1,000)",5/18/2011,5/26/2011,Threat,SC,SC3,NBAC,135,Human,302.795197
+746,2011,AB,Sawridge 150G,55.287778,-114.750325,47,2011 ISC,yes,Very Small (1 to 100),5/15/2011,5/27/2011,Threat,SC,SC3,NBAC,134,Unknown,3441.551801
+747,2011,AB,Slave Lake,55.282222,-114.770278,6517,2011 census,no,"Large (5,001 to 20,000)",5/15/2011,5/27/2011,Threat,SC,SC3,NBAC,134,Unknown,3441.551801
+748,2011,AB,Swan River 150E,55.333415,-115.437768,387,2011 ISC,yes,Very Small (1 to 100),5/18/2011,5/30/2011,Smoke or Health,SC,SC3,NBAC,134,Unknown,15395.85835
+749,2011,AB,Atikameg,55.907441,-115.642779,1460,2011 ISC,yes,"Medium (1,001 to 5,000)",5/16/2011,6/3/2011,Threat,SC,SC3,NBAC,134,Human,70903.6564
+750,2011,AB,Wabasca 166,55.905316,-113.492643,152,2011 census,yes,Very Small (1 to 100),5/27/2011,6/10/2011,Smoke or Health,SC,SC3,NA,NA,NA,NA
+751,2011,AB,Marten Beach,55.504003,-114.925008,2803,2016 census,no,"Medium (1,001 to 5,000)",5/14/2011, ,Threat,SC,SC3,NBAC,134,Unknown,15395.85835
+752,2011,AB,Richardson Lake,58.395108,-111.328616,NA,NA,no,Very Small (1 to 100),5/15/2011, ,Threat,SC,SC4,NBAC,134,Human,562078.45
+753,2011,AB,Cadotte Lake,56.471227,-116.389616,775,2011 ISC,yes,"Small (101 to 1,000)",5/17/2011,5/25/2011,Threat,SC,SC3,NBAC,135,Human,653.894038
+754,2011,BC,Bear Creek Park,49.929783,-119.517779,0,NA,no,"Small (101 to 1,000)",9/6/2011,9/6/2011,Threat,SW,SW3,NBAC,248,Human,38.49531987
+755,2011,MB,Berens River 13,52.349167,-96.988889,1872,2011 ISC,yes,Very Small (1 to 100),7/19/2011,7/20/2011,Smoke or Health,SC,SC4,NA,NA,NA,NA
+756,2011,MB,Caliento,49.133611,-96.415,NA,No census information available,no,Very Small (1 to 100),10/7/2011,10/9/2011,Threat,SC,SC3,NBAC,279,Human,15120.31159
+757,2011,MB,Lonesand,49.223056,-96.305,NA,No census information available,no,Very Small (1 to 100),10/7/2011,10/9/2011,Unknown,SC,SC2,NBAC,279,Human,15120.31159
+758,2011,MB,Marchand,49.444444,-96.386111,350,estimate (newspaper),no,"Small (101 to 1,000)",10/7/2011,10/8/2011,Threat,SC,SC2,NBAC,279,Human,15120.31159
+759,2011,MB,Sandilands,49.324444,-96.296389,37,2011 SEDAC,no,"Small (101 to 1,000)",10/7/2011,10/9/2011,Unknown,SC,SC2,NBAC,279,Human,15120.31159
+760,2011,MB,Stuartburn,49.133611,-96.763056,1535,2011 census,no,"Small (101 to 1,000)",10/7/2011,10/9/2011,Unknown,SC,SC2,NBAC,280,Human,1882.704286
+761,2011,MB,Whiteshell Provincial Park,50.143859,-95.662986,NA,NA,no,Very Small (1 to 100),8/1/2011,8/1/2011,Threat,SC,SC2,NFDB.poly,213,Human,0.19724898
+762,2011,MB,Woodridge,49.283889,-96.147778,NA,No census information available,no,"Small (101 to 1,000)",10/7/2011,10/9/2011,Unknown,SC,SC2,NBAC,274,Human,15120.31159
+763,2011,NT,Délîne,65.1897,-123.4244,827,2011 ISC,yes,Very Small (1 to 100),7/10/2011,7/11/2011,Threat,N,NO2,NBAC,191,Lightning,164.1119984
+764,2011,ON,Cat Lake 63C,51.721233,-91.82192,559,2011 ISC,yes,"Small (101 to 1,000)",7/11/2011,7/26/2011,Threat,SC,SC4,NBAC,187,Lightning,16475.09936
+765,2011,ON,Deer Lake,52.632253,-94.061594,763,2011 census,yes,"Small (101 to 1,000)",7/7/2011,7/15/2011,Smoke or Health,SC,SC4,NBAC,186,Lightning,21830.28541
+766,2011,ON,Deer Lake,52.632253,-94.061594,763,2011 census,yes,"Small (101 to 1,000)",7/21/2011,8/3/2011,Threat,SC,SC4,NBAC,186,Lightning,21830.28541
+767,2011,ON,Fort Hope 64,51.557717,-87.906958,1414,2011 ISC,yes,"Small (101 to 1,000)",7/17/2011,7/29/2011,Smoke or Health,SC,SC4,NA,NA,NA,NA
+768,2011,ON,Kasabonika Lake,53.531212,-88.609963,975,2011 ISC,yes,"Small (101 to 1,000)",7/20/2011,7/31/2011,Threat,SC,SC4,NA,NA,NA,NA
+769,2011,ON,Keewaywin,53.005006,-92.797096,522,2011 ISC,yes,"Small (101 to 1,000)",7/20/2011,8/1/2011,Threat,SC,SC4,NBAC,191,Lightning,9716.711938
+770,2011,ON,Kingfisher Lake 1,53.028525,-89.82312,474,2011 ISC,yes,"Small (101 to 1,000)",7/20/2011,8/1/2011,Smoke or Health,SC,SC4,NBAC,194,Lightning,104626.6749
+771,2011,ON,North Spirit Lake,52.506486,-93.024679,427,2011 ISC,yes,"Small (101 to 1,000)",7/20/2011,8/3/2011,Smoke or Health,SC,SC4,NBAC,185,Lightning,887.005422
+772,2011,ON,Osnaburgh 63A,51.09278,-90.228477,1113,2011 ISC,yes,Very Small (1 to 100),7/20/2011,7/26/2011,Other,SC,SC3,NBAC,157,Lightning,58914.61692
+774,2011,ON,Osnaburgh 63A,51.09278,-90.228477,1113,2011 ISC,yes,"Small (101 to 1,000)",6/22/2011,7/2/2011,Threat,SC,SC3,NBAC,157,Lightning,58914.61692
+775,2011,ON,Sandy Lake 88,53.063683,-93.327387,2457,2011 ISC,yes,"Medium (1,001 to 5,000)",7/20/2011,8/3/2011,Threat,SC,SC4,NBAC,185,Lightning,2757.647494
+776,2011,MB,St. Theresa Point,53.827287,-94.853494,3515,2011 ISC,yes,"Small (101 to 1,000)",7/20/2011,7/23/2011,Smoke or Health,SC,SC4,NA,NA,NA,NA
+777,2011,ON,Wawakapewin,53.451404,-89.142593,50,2011 ISC,yes,Very Small (1 to 100),7/22/2011,8/1/2011,Threat,SC,SC4,NBAC,183,Lightning,4399.98928
+778,2011,QC,Village-des-Hurons,46.868634,-71.361403,1382,2011 ISC,yes,Very Small (1 to 100),9/27/11,9/28/11,Threat,SE,SE1,NA,NA,NA,NA
+779,2011,SK,Descharme Lake,57.108411,-109.218529,10,2011 census,no,Very Small (1 to 100),6/10/2011, ,Smoke or Health,SC,SC4,NBAC,155,Lightning,80247.90225
+780,2011,SK,Lac La Hache 220,58.110335,-103.157326,1281,2011 ISC,yes,"Medium (1,001 to 5,000)",5/31/2011,6/8/2011,Threat,SC,SC4,NBAC,150,Human,24816.37116
+781,2011,SK,Hall Lake,55.111113,-105.917848,618,2011 census,yes,"Small (101 to 1,000)",6/12/2011,6/14/2011,Threat,SC,SC3,NBAC,163,Unknown,46.968883
+1195,2011,AB,Mitsue,55.269347,-114.59508,NA,No census information available,no,"Small (101 to 1,000)",5/15/2011, ,Threat,SC,SC3,NBAC,135,Human,3820.542788
+1206,2011,BC,Trader's Cove,49.936968,-119.502877,300,social media,no,"Small (101 to 1,000)",9/6/2011, ,Threat,SW,SW3,NBAC,248,Human,38.49531987
+783,2012,AB,Coleman,49.6449424,-114.4865731,597,2011 census,no,Very Small (1 to 100),5/9/2012,5/9/2011,Threat,SW,SW3,NBAC,130,Human,2.892140841
+784,2012,AB,Forsyth Lake,54.318128,-110.917853,NA,No census information available,no,Very Small (1 to 100),5/15/2012,5/17/2012,Threat,SC,SC1,NBAC,134,Human,711.78783
+785,2012,AB,Fox Lake 162,58.466852,-114.53369,2032,2016 census,yes,Very Small (1 to 100),5/12/2012,5/14/2012,Threat,SC,SC3,NBAC,133,Human,1.340742142
+786,2012,AB,Grassland,54.922151,-112.780662,94,2011 census,no,Very Small (1 to 100),5/13/2012, ,Threat,SC,SC3,NBAC,134,Human,893.603191
+789,2012,AB,Meander River,59.043991,-117.713119,292,2011 census,yes,"Small (101 to 1,000)",7/10/2012,7/17/2012,Smoke or Health,N,NO2,NBAC,174,Lightning,179461.757
+790,2012,AB,Wabasca 166B,55.947314,-113.915719,250,2011 census,yes,Very Small (1 to 100),5/13/2012,5/13/2012,Threat,SC,SC3,NBAC,134,Human,417.9886061
+791,2012,BC,Big Bar Creek,51.238763,-122.04536,0,NA,no,Very Small (1 to 100),8/21/2012,8/22/2012,Threat,SW,SW3,NBAC,234,Human,414.0038268
+792,2012,BC,Knight Inlet,50.676785,-125.725204,0,NA,no,Very Small (1 to 100),9/25/2012, ,Threat,SW,SW2,NFDB.pt,269,Human,0.02
+793,2012,BC,Lennard Creek,57.36401,-120.025061,NA,NA,no,Very Small (1 to 100),8/23/2012, ,Unknown,SC,SC4,NBAC,230,Lightning,9778.222046
+794,2012,BC,Marble Canyon 3,50.824783,-121.677478,84,2016 census,yes,Very Small (1 to 100),5/13/2012,5/16/2012,Smoke or Health,SW,SW3,NBAC,133,Human,84.49395096
+795,2012,BC,Nicklen Lake,50.135834,-118.997734,0,NA,no,Very Small (1 to 100),8/27/2012, ,Threat,SW,SW5,NBAC,239,Human,46.35453304
+798,2012,BC,Peachland,49.773889,-119.736389,4698,2016 census,no,"Medium (1,001 to 5,000)",9/9/2012,9/12/2012,Threat,SW,SW3,NFDB.pt,253,Human,214
+799,2012,BC,Tomslake,55.541281,-120.074169,25,2020 community website,no,Very Small (1 to 100),9/17/2012, ,Threat,SC,SC2,NBAC,261,Human,23.2448182
+800,2012,BC,Vernon,50.257029,-119.35227,40116,2016 census,no,Very Small (1 to 100),9/14/2012,9/14/2012,Threat,SW,SW4,NBAC,266,Human,35.976943
+801,2012,BC,Weaver Lake,49.346514,-121.869283,0,NA,no,Very Small (1 to 100),8/25/2012,8/26/2012,Threat,SW,SW4,NFDB.pt,238,Human,0.009
+803,2012,MB,Badger,49.190278,-95.959167,61,estimate (wikipedia),no,Very Small (1 to 100),5/14/2012,5/18/2012,Threat,SC,SC2,NBAC,133,Human,5981.703308
+804,2012,MB,Garden Hill First Nation,53.871389,-94.640833,3728,2012 ISC,yes,"Small (101 to 1,000)",7/22/2012,8/8/2012,Smoke or Health,SC,SC4,NBAC,196,Lightning,4937.408352
+805,2012,MB,Island Lake,53.863611,-94.665833,62,2011 census,no,Very Small (1 to 100),7/24/2012,8/8/2012,Smoke or Health,SC,SC4,NBAC,196,Lightning,4937.408352
+806,2012,MB,Poplar River 16,52.993958,-97.266702,1190,2012 ISC,yes,Very Small (1 to 100),7/16/2012,7/20/2012,Smoke or Health,SC,SC4,NA,NA,NA,NA
+807,2012,MB,Pukatawagan 198,55.744638,-101.316369,2236,2012 ISC,yes,Very Small (1 to 100),7/17/2012,7/26/2012,Smoke or Health,SC,SC4,NA,NA,NA,NA
+808,2012,MB,Red Sucker Lake 1976,54.160833,-93.569444,899,2012 ISC,yes,"Small (101 to 1,000)",7/19/2012,7/31/2012,Smoke or Health,SC,SC4,NA,NA,NA,NA
+809,2012,MB,Ross,49.760556,-96.433056,NA,No census information available,no,"Small (101 to 1,000)",10/2/2012,10/3/2012,Threat,SC,SC2,NBAC,276,Human,6350.103744
+810,2012,MB,St. Theresa Point,53.827287,-94.853494,3605,2012 ISC,yes,"Small (101 to 1,000)",7/26/2012,8/8/2012,Smoke or Health,SC,SC4,NBAC,196,Lightning,4937.408352
+811,2012,MB,Vita,49.133889,-96.561389,415,2011 census,no,"Small (101 to 1,000)",10/2/2012,10/3/2012,Threat,SC,SC3,NBAC,133,Lightning,4024.964906
+812,2012,MB,Wasagamack,53.895666,-94.934602,1752,2012 ISC,yes,"Small (101 to 1,000)",7/22/2012,8/8/2012,Smoke or Health,SC,SC4,NBAC,196,Lightning,4937.408352
+814,2012,NL,Canadian Forces Base Goose Bay,53.306389,-60.410556, , ,no,Very Small (1 to 100),5/25/12, ,Threat,SE,SE6,NBAC,146,Unknown,677.230784
+815,2012,NL,North West River,53.53545,-60.144006,1103,2011 SEDAC,no,"Small (101 to 1,000)",6/23/12,6/25/12,Threat,SE,SE6,NBAC,165,Unknown,40254.65674
+816,2012,NL,Sheshatshiu 3,53.515278,-60.1425,1302,2012 ISC,yes,"Small (101 to 1,000)",6/23/12,6/25/12,Threat,SE,SE6,NBAC,165,Unknown,40254.65674
+817,2012,NS,Spryfield,44.608544,-63.615516,390086,2011 census,no,"Small (101 to 1,000)",5/21/12,5/21/12,Threat,SE,SE4,NFDB.pt,142,Unknown,2.77
+818,2012,ON,Algonquin Provincial Park,45.868334,-77.757221,0,NA,no,"Small (101 to 1,000)",7/20/12,7/27/12,Threat,SE,SE5,NBAC,201,Unknown,212.4228023
+822,2012,ON,Kamiskotia,48.58238,-81.63618,380,2012 SEDAC,no,"Small (101 to 1,000)",5/24/12,5/25/12,Smoke or Health,SE,SE3,NBAC,141,Human,32860.86695
+823,2012,ON,Kenogamissi Lake,48.224039,-81.554496,0,NA,no,Very Small (1 to 100),5/25/12,6/4/12,Threat,SE,SE4,NBAC,141,Human,32860.86695
+824,2012,ON,Kirkland Lake,48.15,-80.033056,8133,2011 census,no,"Small (101 to 1,000)",5/20/12,5/26/12,Threat,SE,SE3,NBAC,141,Human,1139.019729
+825,2012,ON,Mattagami 71,47.798738,-81.52799,178,2012 ISC,yes,"Small (101 to 1,000)",5/23/12,5/28/12,Threat,SE,SE6,NBAC,141,Human,32860.86695
+826,2012,ON,Milford Bay,45.07577,-79.47877, , ,no,"Small (101 to 1,000)",7/24/12,7/25/12,Unknown,SE,SE4,NFDB.pt,206,Unknown,6
+827,2012,ON,Nettie Lake,48.222788,-79.989192,0,NA,no,"Small (101 to 1,000)",5/21/12,5/27/12,Threat,SE,SE3,NBAC,141,Human,1139.019729
+829,2012,ON,Sandy Lake 88,53.063683,-93.327387,2498,2012 ISC,yes,"Small (101 to 1,000)",7/29/2012,8/9/2012,Threat,SC,SC4,NBAC,201,Lightning,1535.57831
+830,2012,ON,Sewell Township,48.249438,-81.9464,0,NA,no,Very Small (1 to 100),5/25/12,5/27/12,Threat,SE,SE1,NBAC,141,Human,32860.86695
+831,2012,ON,Shawanaga 17,45.513897,-80.284819,186,2012 ISC,yes,"Small (101 to 1,000)",7/24/12,7/25/12,Threat,SE,SE3,NFDB.pt,206,Human,1.5
+833,2012,QC,Réserve indienne Obedjiwan 28,48.659179,-74.94056,2254,2012 ISC,yes,Very Small (1 to 100),5/21/12,5/22/12,Threat,SE,SE6,NBAC,142,Lightning,139.7457457
+834,2012,SK,Makaoo 120,53.716677,-110.005071,3456,2012 ISC,yes,Very Small (1 to 100),5/16/2012,5/17/2012,Smoke or Health,SC,SC2,NBAC,134,Human,1030.349274
+839,2012,SK,Rabbit Lake Mine,58.197861,-103.714319,NA,NA,no,"Small (101 to 1,000)",7/27/2012,7/28/2012,Threat,SC,SC4,NBAC,198,Lightning,1133.86166
+1200,2012,AB,Zama City,59.15487,-118.695203,93,2011 census,no,"Small (101 to 1,000)",7/10/2012,7/20/2012,Smoke or Health,N,NO4,NBAC,174,Lightning,179461.757
+842,2013,AB,Lindale,53.260932,-114.708666,NA,No census information available,no,"Small (101 to 1,000)",5/22/2013,5/24/2013,Threat,SC,SC1,NA,NA,NA,NA
+843,2013,AB,Lodgepole,53.100556,-115.313611,125,2011 census,no,"Small (101 to 1,000)",5/12/2013,5/16/2013,Threat,SC,SC3,NBAC,132,Human,559.991781
+845,2013,AB,Nordegg,52.467379,-116.089879,107,estimate,no,"Small (101 to 1,000)",5/12/2013,5/17/2013,Threat,SC,SC3,NBAC,125,Human,238.665778
+847,2013,AB,Atikameg,55.907441,-115.642779,1526,2013 ISC,yes,"Small (101 to 1,000)",15-May-13,20-May-13,Smoke or Health,SC,SC3,NA,NA,NA,NA
+848,2013,AB,White Fish Lake 128,54.299696,-111.808926,1188,2011 census,yes,Very Small (1 to 100),5/7/2013,5/7/2013,Threat,SC,SC3,NA,NA,NA,NA
+849,2013,BC,Ashcroft,50.716152,-121.297203,1558,2016 census,no,"Small (101 to 1,000)",5/12/2013, ,Threat,SW,SW3,NBAC,205,Human,14.79025073
+850,2013,BC,West Kelowna,49.846217,-119.548517,32655,2016 census,no,Very Small (1 to 100),7/21/2013,7/21/2013,Threat,SW,SW3,NFDB.pt,201,Human,0.6
+851,2013,BC,Ellison Park,50.176543,-119.440694,0,NA,no,"Small (101 to 1,000)",7/14/2013,7/14/2013,Threat,SW,SW3,NBAC,195,Human,1.980946
+854,2013,BC,Paska Island 3,50.619447,-121.318912,20,2013 ISC,yes,Very Small (1 to 100),5/12/2013,5/15/2013,Threat,SW,SW3,NBAC,117,Human,258.553466
+856,2013,BC,Prince George,53.771084,-122.645921,74003,2016 census,no,Very Small (1 to 100),5/11/2013, ,Threat,SW,SW4,NBAC,130,Human,12.83771279
+857,2013,BC,Spotted Lake,49.078056,-119.566667,0,NA,no,Very Small (1 to 100),8/19/2013,8/20/2013,Threat,SW,SW3,NBAC,231,Human,15.36119728
+860,2013,MB,Gillam,56.347222,-94.707778,1332,2011 census,no,Very Small (1 to 100),7/1/2013,7/2/2013,Smoke or Health,SC,SC4,NBAC,183,Lightning,85313.11225
+861,2013,MB,Gillam,56.347222,-94.707778,235,2013 ISC,yes,"Small (101 to 1,000)",7/3/2013,7/5/2013,Smoke or Health,SC,SC4,NBAC,183,Lightning,85313.11225
+862,2013,MB,Keeyask Camp,56.354475,-95.211774,NA,NA,no,"Small (101 to 1,000)",6/7/2013, ,Threat,SC,SC4,NBAC,157,Lightning,55738.99255
+863,2013,MB,Ilford,56.064712,-95.606963,127,2013 ISC,yes,"Small (101 to 1,000)",6/8/2013,6/21/2013,Smoke or Health,SC,SC4,NBAC,157,Lightning,85313.11225
+864,2013,MB,Split Lake 171,56.252402,-96.122043,2370,2013 ISC,yes,"Small (101 to 1,000)",7/17/2013,7/26/2013,Threat,SC,SC4,NBAC,184,Lightning,28307.71069
+865,2013,MB,York Landing,56.086705,-96.095222,438,2013 ISC,yes,"Small (101 to 1,000)",6/11/2013,6/21/2013,Smoke or Health,SC,SC4,NBAC,157,Lightning,85312.06451
+866,2013,NB,Florenceville-Bristol,46.452132,-67.606442,1639,2011 census,no,Very Small (1 to 100),5/10/13, ,Threat,SE,SE3,NA,NA,NA,NA
+868,2013,NB,Perth-Andover,46.771868,-67.694559,2911,2011 census,no,"Small (101 to 1,000)",5/8/13,5/10/13,Threat,SE,SE3,NFDB.poly,128,Human,107.2859826
+869,2013,NB,Tobique Narrows,46.788304,-67.688987,1480,2013 ISC,yes,Very Small (1 to 100),5/8/13,5/9/13,Threat,SE,SE3,NFDB.poly,128,Human,107.2859826
+870,2013,NL,Wabush,52.908847,-66.872752,1861,2011 census,no,"Medium (1,001 to 5,000)",6/28/13,6/30/13,Smoke or Health,SE,SE6,NBAC,184,Human,15034.06037
+871,2013,ON,Wawakapewin,53.451404,-89.142593,48,2013 ISC,yes,Very Small (1 to 100),6/10/2013,6/17/2013,Threat,SC,SC4,NBAC,159,Lightning,811.1577485
+872,2013,QC,Eastmain,52.24069,-78.504294,866,2016 census,yes,"Small (101 to 1,000)",7/5/2013,7/7/2013,Threat,N,NO2,NBAC,183,Lightning,490072.502
+873,2013,QC,Némaska,51.685238,-76.255976,709,2013 ISC,yes,Very Small (1 to 100),7/5/13,7/11/13,Smoke or Health,SE,SE6,NBAC,183,Lightning,278623.7367
+874,2013,SK,Fond du Lac 227,59.326952,-107.190079,1071,2013 ISC,yes,"Small (101 to 1,000)",7/27/2013,7/30/2013,Smoke or Health,N,NO2,NBAC,187,Lightning,33600.25403
+875,2013,SK,Makaoo 120,53.716677,-110.005071,3497,2013 ISC,yes,Very Small (1 to 100),5/7/2013,5/10/2013,Smoke or Health,SC,SC2,NBAC,126,Human,91.808617
+1175,2013,NB,Middlesex,45.970782,-65.007562,0,No census information available,no,Very Small (1 to 100),5/8/13, ,Threat,SE,SE1,NFDB.pt,127,Human,140
+877,2014,AB,Greenview No. 16,54.653588,-119.814471,5583,2016 census,no,Very Small (1 to 100),7/15/2014,7/21/2014,Threat,SC,SC4,NBAC,187,Lightning,25832.93816
+878,2014,AB,Nose Creek Settlement,54.610548,-119.838141,30,estimate (newspaper),no,Very Small (1 to 100),15-Jul-14,21-Jul-14,Threat,SC,SC4,NBAC,187,Lightning,25832.93816
+880,2014,BC,Botanie Creek,50.255736,-121.560464, ,No census information available,no,"Small (101 to 1,000)",7/17/2014, ,Threat,SW,SW3,NBAC,196,Human,1241.588352
+881,2014,BC,Bridge River 1,50.787474,-121.977565,234,2015 ISC,yes,Very Small (1 to 100),4/14/2014,4/16/2014,Threat,SW,SW3,NBAC,102,Human,17.01836147
+882,2014,BC,Peachland,49.807109,-119.717922,4698,2016 census,no,Very Small (1 to 100),8/7/2014, ,Threat,SW,SW3,NBAC,219,Human,25.40840895
+883,2014,BC,Entiako Park,53.25,-125.55,0,NA,no,"Small (101 to 1,000)",8/6/2014,9/25/2014,Threat,SW,SW4,NBAC,189,Lightning,120932.559
+884,2014,BC,Euchiniko Lake Ranch,53.170132,-124.270813,0,NA,no,Very Small (1 to 100),7/14/2014,7/21/2014,Threat,SW,SW3,NBAC,189,Lightning,17483.20034
+886,2014,BC,Houston,54.409187,-126.304434,2993,2016 census,no,"Small (101 to 1,000)",8/13/2014,8/18/2014,Threat,SW,SW4,NBAC,223,Lightning,3500.120778
+887,2014,BC,Hudson's Hope,56.025833,-121.913611,1015,2016 census,no,"Medium (1,001 to 5,000)",7/16/2014,7/17/2014,Threat,SC,SC2,NBAC,194,Lightning,22325.5187
+889,2014,BC,Kitimat,54.026778,-128.649953,6394,2016 census,no,Very Small (1 to 100),7/17/2014, ,Threat,SW,SW2,NFDB.pt,197,Human,0.9
+890,2014,BC,Kluskus 1,53.086329,-124.493479,73,2016 census,yes,Very Small (1 to 100),7/9/2014,7/24/2014,Threat,SW,SW3,NBAC,189,Lightning,17483.20034
+891,2014,BC,Kragmont,49.174755,-115.214618,158,estimate (wikipedia),no,Very Small (1 to 100),8/11/2014,8/11/2014,Threat,SW,SW5,NBAC,215,Human,18.247187
+892,2014,BC,Nuuautin 2,50.25891,-121.591743,139,2016 census,yes,Very Small (1 to 100),7/17/2014,7/24/2014,Threat,SW,SW3,NBAC,196,Human,1241.588352
+893,2014,BC,Palling 1,54.331891,-125.887304,96,2014 ISC,yes,Very Small (1 to 100),8/13/2014,8/29/2014,Threat,SW,SW3,NBAC,223,Lightning,3500.120778
+894,2014,BC,Peace River Regional District,54.675073,-120.380485,NA,NA,no,"Small (101 to 1,000)",7/8/2014,8/11/2014,Threat,SC,SC4,NBAC,187,Lightning,25832.93816
+897,2014,BC,Slocan Park,49.504552,-117.59515,272,2016 census,no,"Small (101 to 1,000)",8/12/2014, ,Threat,SW,SW5,NBAC,214,Lightning,89.38962585
+899,2014,BC,Sooke,48.367597,-123.783572,9269,2016 census,no,Very Small (1 to 100),9/11/2014,9/11/2014,Threat,SW,SW2,NFDB.pt,255,Human,6.5
+900,2014,BC,Thetis Lake,48.464754,-123.468032,0,NA,no,Very Small (1 to 100),8/11/2014,8/11/2014,Tactical,SW,SW4,NFDB.pt,223,Human,0.009
+901,2014,BC,West Kelowna,49.852945,-119.636719,32655,2016 census,no,"Medium (1,001 to 5,000)",7/17/2014,7/20/2014,Threat,SW,SW3,NBAC,198,Human,244.0251914
+902,2014,BC,Whiteswan Lake Park,50.155556,-115.465278,0,NA,no,"Small (101 to 1,000)",7/30/2014, ,Threat,SW,SW5,NBAC,208,Lightning,1210.896541
+903,2014,MB,Split Lake 171,56.252402,-96.122043,2405,2014 ISC,yes,Very Small (1 to 100),6/19/2014,6/27/2014,Threat,SC,SC4,NBAC,170,Human,2.226743
+904,2014,NT,Kakisa,60.9407,-117.4159,54,2012 provincial record,no,Very Small (1 to 100),27-Jun-14,4-Jul-14,Smoke or Health,N,NO2,NBAC,146,Lightning,64729.22859
+905,2014,QC,Kawawachikamach,54.861605,-66.761956,688,2014 ISC,yes,"Small (101 to 1,000)",6/22/2014,6/23/2014,Smoke or Health,N,NO2,NBAC,173,Human,631.5030487
+906,2014,SK,Stanley 157,55.409497,-104.57289,1840,2016 census,yes,"Medium (1,001 to 5,000)",5/24/2014,5/27/2014,Threat,SC,SC4,NBAC,143,Human,8621.401522
+1218,2014,BC,Murray Lake,49.789867,-121.003776,0,NA,no,Very Small (1 to 100),7/16/2014, ,Threat,SW,SW3,NBAC,195,Lightning,392.7506761
+907,2015,AB,Aylmer Provincial Recreation Area,52.396196,-116.072942,NA,NA,no,Very Small (1 to 100),7/10/2015, ,Threat,SC,SC3,NBAC,189,Lightning,15.99877909
+908,2015,AB,Christina Lake,55.579936,-110.888545,NA,NA,no,Very Small (1 to 100),5/26/2015,6/3/2015,Unknown,SC,SC4,NBAC,145,Human,2044.474091
+909,2015,AB,Jasper National Park of Canada,52.880041,-117.8342,0,NA,no,"Small (101 to 1,000)",7/9/2015, ,Threat,SW,SW3,NBAC,190,Lightning,758.7425705
+910,2015,AB,Statoil Leismer,55.815277,-111.447578,NA,NA,no,"Small (101 to 1,000)",5/26/2015,6/3/2015,Threat,SC,SC4,NBAC,146,Human,2044.474091
+911,2015,AB,Lesser Slave River No. 124,55.273516,-114.384265,2803,2016 census,no,"Small (101 to 1,000)",5/25/2015,5/26/2015,Threat,SC,SC3,NBAC,145,Lightning,118.8363599
+913,2015,AB,CNRL Primrose,54.876895,-110.581553,NA,NA,no,"Small (101 to 1,000)",5/23/2015,6/3/2015,Threat,SC,SC3,NBAC,142,Human,25471.89396
+915,2015,AB,Tall Cree 173A,58.063725,-115.617892,553,2015 ISC,yes,"Small (101 to 1,000)",7/2/2015,7/7/2015,Threat,SC,SC3,NBAC,178,Lightning,4717.013034
+917,2015,AB,Meander River,59.043991,-117.713119,294,2016 census,yes,"Small (101 to 1,000)",7/2/2015,7/8/2015,Threat,N,NO2,NBAC,177,Lightning,13839.82815
+918,2015,AB,Wabasca-Desmarais,55.966667,-113.85,3291,2015 ISC,yes,"Medium (1,001 to 5,000)",5/24/2015,5/28/2015,Threat,SC,SC3,NBAC,143,Human,199.603571
+921,2015,BC,Kragmont,49.178029,-115.21864,200,estimate (newspaper),no,"Small (101 to 1,000)",7/4/2015,7/5/2015,Threat,SW,SW5,NBAC,185,Human,94.71011155
+923,2015,BC,Shelter Cove,50.054759,-119.498167, ,No census information available,no,"Small (101 to 1,000)",7/20/2015,7/24/2015,Threat,SW,SW3,NBAC,200,Lightning,514.5183809
+924,2015,BC,Harrison Lake,49.456748,-121.856254,0,NA,no,"Small (101 to 1,000)",8/2/2015, ,Threat,SW,SW4,NBAC,214,Human,1380.023476
+925,2015,BC,Lake Cowichan,48.828318,-124.048043,2974,2011 census,no,Very Small (1 to 100),7/11/2015, ,Threat,SW,SW2,NBAC,210,Human,15.559452
+927,2015,BC,Lower Similkameen 2,49.113736,-119.724132,288,2015 ISC,yes,Very Small (1 to 100),8/8/2015,8/16/2015,Threat,SW,SW3,NBAC,229,Lightning,3768.69125
+928,2015,BC,Lytton 26A,50.191408,-121.59108,945,2015 ISC,yes,Very Small (1 to 100),6/11/2015,6/23/2015,Threat,SW,SW3,NBAC,162,Human,2540.781063
+930,2015,BC,Ladysmith,49.058458,-123.835393,7921,2011 census,no,Very Small (1 to 100),7/2/2015,7/2/2015,Threat,SW,SW2,NBAC,183,Human,14.80600323
+931,2015,BC,Norman Lake,53.782031,-123.391408, ,No census information available,no,Very Small (1 to 100),5/10/2015,5/24/2015,Threat,SW,SW4,NBAC,128,Human,19935.89739
+933,2015,BC,Oliver,49.185397,-119.557748,4928,2016 census,no,"Small (101 to 1,000)",8/14/2015,8/19/2015,Threat,SW,SW3,NBAC,226,Human,495.9370779
+934,2015,BC,Nine Mile Creek,49.003625,-119.276023,0,NA,no,Very Small (1 to 100),8/14/2015,8/14/2015,Threat,SW,SW3,NBAC,225,Lightning,46.62527303
+937,2015,BC,Port Hardy,50.727537,-127.510627,3643,2016 census,no,"Small (101 to 1,000)",7/3/2015,7/5/2015,Threat,SW,SW2,NBAC,184,Lightning,15.87979821
+939,2015,BC,Puntzi Lake,52.21021,-124.060525, ,No census information available,no,"Small (101 to 1,000)",7/9/2015, ,Threat,SW,SW3,NBAC,189,Human,7701.907938
+940,2015,BC,Redstone Flat 1,52.140961,-123.952372,196,2016 census,yes,Very Small (1 to 100),7/9/2015,7/31/2015,Unknown,SW,SW3,NBAC,189,Human,7701.907938
+944,2015,BC,Rock Creek,49.058312,-118.997563,181,2016 census,no,"Small (101 to 1,000)",8/16/2015,8/31/2015,Threat,SW,SW5,NBAC,225,Human,3572.754469
+948,2015,BC,Spillimacheen,50.958866,-116.416326,0,NA,no,Very Small (1 to 100),7/4/2015,7/7/2015,Threat,SW,SW5,NBAC,185,Human,55.823064
+949,2015,BC,Sproat Lake,49.259136,-124.97405,1492,2016 census,no,Very Small (1 to 100),7/4/2015, ,Threat,SW,SW2,NBAC,185,Human,447.2771942
+952,2015,BC,Venables Valley,50.583277,-121.360903,0,NA,no,Very Small (1 to 100),7/4/2015, ,Threat,SW,SW3,NBAC,185,Human,39.06893726
+955,2015,MB,Red Sucker Lake 1976,54.160833,-93.569444,948,2015 ISC,yes,"Small (101 to 1,000)",6/26/2015,6/30/2015,Smoke or health,SC,SC4,NBAC,177,Human,21.225102
+956,2015,NB,Maugerville,45.911329,-66.551961,1831,2016 census,no,Very Small (1 to 100),9/7/15,9/7/15,Threat,SE,SE2,NBAC,250,Unknown,1.996688
+957,2015,NB,Petitcodiac,45.937,-65.17991,1383,2016 census,no,Very Small (1 to 100),7/12/15, ,Smoke or Health,SE,SE3,NA,NA,NA,NA
+958,2015,SK,Air Ronge,55.084295,-105.320329,1043,2011 census,no,"Medium (1,001 to 5,000)",7/4/2015,7/17/2015,Threat,SC,SC3,NBAC,157,Lightning,120781.9239
+959,2015,SK,Canoe Narrows,55.161822,-108.161133,1029,2015 ISC,yes,"Medium (1,001 to 5,000)",7/3/2015,7/20/2015,Threat,SC,SC3,NBAC,179,Lightning,4845.817511
+961,2015,SK,Clearwater River,56.532483,-109.492222,836,2015 ISC,yes,"Small (101 to 1,000)",6/8/2015,7/1/2015,Threat,SC,SC4,NBAC,157,Lightning,79.434484
+962,2015,SK,Clearwater River,56.532483,-109.492222,836,2015 ISC,yes,"Small (101 to 1,000)",6/26/2015,7/22/2015,Smoke or Health,SC,SC4,NBAC,177,Lightning,3522.522747
+963,2015,SK,Dillon,55.925113,-108.920046,783,2016 census,no,"Small (101 to 1,000)",7/6/2015,7/17/2015,Smoke or health,SC,SC3,NBAC,179,Lightning,8519.565391
+964,2015,SK,La Loche,56.486146,-109.438864,2372,2016 census,no,"Medium (1,001 to 5,000)",6/28/2015,7/16/2015,Smoke or Health,SC,SC4,NBAC,177,Lightning,33493.86121
+965,2015,SK,La Ronge,55.117886,-105.290525,2688,2011 census,no,"Medium (1,001 to 5,000)",7/4/2015,7/17/2015,Threat,SC,SC3,NBAC,157,Lightning,120781.9239
+966,2015,SK,Laonil Lake,55.68713,-103.615698,NA,NA,no,"Small (101 to 1,000)",7/15/2017,5/25/2017,Threat,SC,SC4,NBAC,192,Lightning,2497.998026
+967,2015,SK,Little Red River 106C,53.51058,-105.938345,354,2016 census,yes,"Small (101 to 1,000)",7/3/2015, ,Smoke or Health,SC,SC2,NBAC,112,Human,178.964448
+968,2015,SK,Michel Village,56.013615,-109.112965,66,2011 census,no,Very Small (1 to 100), ,7/13/2015,Unknown,SC,SC4,NBAC,178,Lightning,53655.90674
+969,2015,SK,Missinipe,55.60228,-104.7717,39,2011 census,no,Very Small (1 to 100),7/4/2015,7/11/2015,Access,SC,SC4,NBAC,180,Lightning,120781.9239
+970,2015,SK,Montreal Lake 106,54.052766,-105.78744,1113,2016 census,yes,"Medium (1,001 to 5,000)",6/29/2015,7/16/2015,Threat,SC,SC3,NBAC,176,Lightning,3597.613907
+971,2015,SK,Hall Lake,55.111113,-105.917848,577,2016 census,yes,Very Small (1 to 100),6/6/2015,7/1/2015,Smoke or health,SC,SC3,NBAC,157,Lightning,120781.9239
+972,2015,SK,Hall Lake,55.111113,-105.917848,577,2016 census,yes,"Small (101 to 1,000)",7/4/2015,7/25/2015,Threat,SC,SC3,NBAC,157,Lightning,120781.9239
+973,2015,SK,Nemeiben Lake,55.260003,-105.372202,NA,No census information available,no,"Small (101 to 1,000)",6/26/2015,7/18/2015,Threat,SC,SC4,NBAC,157,Lightning,120781.9239
+974,2015,SK,Peter Pond Lake 193,55.927279,-108.939029,734,2015 ISC,yes,"Small (101 to 1,000)",7/9/2015,7/22/2015,Threat,SC,SC3,NBAC,179,Lightning,8519.565391
+975,2015,SK,Pinehouse,55.520742,-106.578003,1052,2016 census,no,"Medium (1,001 to 5,000)",6/28/2015,7/15/2015,Threat,SC,SC3,NBAC,177,Lightning,109610.7879
+976,2015,SK,Red Earth 29,53.457704,-102.871399,1502,2015 ISC,yes,"Small (101 to 1,000)",6/29/2015,7/15/2015,Threat,SC,SC2,NFDB.pt,142,Human,80
+977,2015,SK,Southend 200,56.326999,-103.240946,917,2016 census,yes,"Small (101 to 1,000)",7/5/2015,7/20/2015,Smoke or Health,SC,SC4,NBAC,179,Lightning,9644.954943
+978,2015,SK,St. George's Hill,55.880359,-108.953445,131,2016 census,no,"Small (101 to 1,000)",7/6/2015,7/16/2015,Access,SC,SC4,NBAC,179,Lightning,8519.565391
+979,2015,SK,Stanley 157,55.409497,-104.57289,1840,2016 census,yes,"Small (101 to 1,000)",6/7/2015,6/11/2015,Smoke or health,SC,SC4,NBAC,157,Lightning,120781.9239
+980,2015,SK,Sturgeon Lake 101,53.414229,-106.003339,1174,2016 census,yes,Very Small (1 to 100),7/5/2015,7/9/2015,Threat,SC,SC2,NBAC,131,Human,239.155062
+981,2015,SK,Timber Bay,54.168404,-105.675386,82,2016 census,no,Very Small (1 to 100),7/9/2015,7/17/2015,Smoke or health,SC,SC3,NBAC,178,Lightning,3597.613907
+982,2015,SK,Turnor Lake 193B,56.473668,-108.688263,435,2015 ISC,yes,"Small (101 to 1,000)",6/26/2015,7/22/2015,Smoke or Health,SC,SC4,NBAC,177,Lightning,33493.8612
+983,2015,SK,Wadin Bay,55.266735,-105.200459,73,unknown,no,Very Small (1 to 100),6/26/2015, ,Threat,SC,SC4,NBAC,157,Lightning,120781.9239
+984,2015,SK,Wahpeton 94A,53.27365,-105.900141,315,2011 ISC,yes,Very Small (1 to 100),7/2/2015,7/9/2015,Smoke or Health,SC,SC2,NA,NA,NA,NA
+985,2015,SK,Wapachewunak 192D,55.914478,-107.722722,788,2015 ISC,yes,"Small (101 to 1,000)",6/28/2015,7/21/2015,Threat,SC,SC4,NBAC,174,Lightning,150891.8659
+986,2015,SK,Weyakwin,54.43011,-105.799949,135,2011 census,no,"Small (101 to 1,000)",6/27/2015,7/16/2015,Threat,SC,SC3,NBAC,176,Lightning,88762.58472
+987,2015,SK,Weyakwin Lake (Ramsey Bay) Recreation Site,54.44715,-105.974806,NA,NA,no,Very Small (1 to 100),6/8/2015,17-Jun-15,Threat,SC,SC3,NBAC,176,Lightning,88762.58472
+1180,2015,SK,Black Lake,59.129798,-105.604185,1604,2015 ISC,yes,Very Small (1 to 100),5/15/2015,5/16/2015,Smoke or Health,SC,SC4,NBAC,135,Human,617.5774101
+1190,2015,SK,Sucker River 156C,55.287043,-105.169087,416,2016 census,yes,"Small (101 to 1,000)",6/26/2015, ,Threat,SC,SC3,NBAC,157,Lightning,120781.9239
+1210,2015,BC,Nanaimo,49.159108,-123.9569,90504,2016 census,no,Very Small (1 to 100),8/14/2015,8/14/2015,Threat,SW,SW2,NA,NA,NA,NA
+1211,2015,BC,Nanaimo,49.212238,-123.969859,90504,2016 census,no,Very Small (1 to 100),8/3/2015,8/3/2015,Threat,SW,SW2,NA,NA,NA,NA
+1212,2015,BC,Kettle River Provincial Park,49.110572,-118.986052,0,NA,no,"Small (101 to 1,000)",8/14/2015, ,Threat,SW,SW5,NBAC,225,Human,3572.754469
+989,2016,AB,Alexis 133,53.733333,-114.483333,1216,2016 ISC,yes,"Small (101 to 1,000)",5/4/2016,5/4/2016,Threat,SC,SC1,NA,NA,NA,NA
+990,2016,AB,Anzac,56.447179,-111.046392,548,2016 census,no,"Small (101 to 1,000)",5/4/2016,6/1/2016,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+991,2016,AB,Fort McMurray,56.75917152,-111.4184409,NA,NA,yes,"Small (101 to 1,000)",5/4/2016, ,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+992,2016,AB,Fort McMurray,56.74771845,-111.440499,NA,NA,yes,"Small (101 to 1,000)",5/4/2016, ,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+993,2016,AB,Duffield,53.526241,-114.344722,67,2016 census,no,"Small (101 to 1,000)",4/18/2016,4/19/2016,Threat,SC,SC1,NBAC,175,Unknown,363.571393
+994,2016,AB,Fort Mckay 174,57.184147,-111.642151,425,2016 ISC,yes,"Small (101 to 1,000)",5/8/2016,6/23/2016,Smoke or Health,SC,SC3,NBAC,122,Unknown,469037.3239
+995,2016,AB,Fort McMurray,56.726472,-111.380361,66573,2016 census,no,"Very large (>20,001)",5/3/2016,6/1/2016,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+996,2016,AB,Gregoire Lake 176,56.436939,-111.167987,287,2016 ISC,yes,"Small (101 to 1,000)",5/5/2016,6/23/2016,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+997,2016,AB,Heart Lake 167,55.033071,-111.542435,212,2016 ISC,yes,"Small (101 to 1,000)",5/4/2016,5/4/2016,Threat,SC,SC3,NBAC,125,Human,2.371925
+1000,2016,AB,Pigeon Lake 138A,52.988611,-113.955,429,2016 census,yes,Very Small (1 to 100),4/18/2016,4/18/2016,Threat,SC,SC1,NA,NA,NA,NA
+1001,2016,AB,Tar Island,56.983333,-111.45,NA,NA,no,"Large (5,001 to 20,000)",5/16/2016,5/21/2016,Threat,SC,SC3,NBAC,122,Unknown,469037.3239
+1002,2016,AB,Paul,53.519633,-114.372478,1439,2016 ISC,yes,"Small (101 to 1,000)",4/18/2016,4/20/2016,Threat,SC,SC1,NBAC,175,Unknown,363.571393
+1003,2016,BC,Blueberry River 205,56.704068,-121.104358,231,2016 ISC,yes,"Small (101 to 1,000)",4/18/2016,4/20/2016,Threat,SC,SC2,NBAC,108,Human,5223.126044
+1004,2016,BC,Blueberry River 205,56.704068,-121.104358,231,2016 ISC,yes,"Small (101 to 1,000)",5/3/2016,5/19/2016,Threat,SC,SC2,NBAC,108,Human,5223.126044
+1005,2016,BC,Lytton 26A,50.191442,-121.591027,945,2016 ISC,yes,Very Small (1 to 100),8/31/2016,9/6/2016,Threat,SW,SW3,NBAC,244,Human,543.511831
+1006,2016,BC,Siphon Creek,56.552106,-120.357061,NA,No census information available,no,Very Small (1 to 100),5/6/2016,5/20/2016,Threat,SC,SC3,NBAC,109,Human,69293.52183
+1007,2016,BC,West Kelowna,49.928253,-119.510582,32655,2016 census,no,"Small (101 to 1,000)",8/21/2016,8/25/2016,Threat,SW,SW3,NBAC,234,Human,59.50757775
+1008,2016,BC,Stoddart Creek,56.524278,-121.232829,NA,No census information available,no,"Small (101 to 1,000)",5/6/2016,5/18/2016,Threat,SC,SC2,NBAC,108,Human,5223.126044
+1009,2016,MB,Chemawawin 2,53.103889,-99.798889,1510,2016 ISC,yes,"Medium (1,001 to 5,000)",6/24/2016,7/1/2016,Threat,SC,SC2,NBAC,174,Human,628.952663
+1010,2016,MB,Easterville,53.1075,-99.812778,44,2016 census,no,Very Small (1 to 100),6/23/2016,6/27/2016,Threat,SC,SC2,NBAC,174,Human,628.952663
+1011,2016,MB,Caddy Lake,49.817645,-95.226872,150,estimate,no,"Small (101 to 1,000)",5/7/2016,5/17/2016,Threat,SC,SC2,NBAC,126,Human,5201.871728
+1012,2016,ON,Ingolf,49.796147,-95.12567,100,estimate - no census,no,Very Small (1 to 100),5/5/2016,5/17/2016,Threat,SC,SC2,NBAC,126,Human,5201.871728
+1016,2017,AB,Cardston County,49.133949,-113.800751,4481,2016 census,no,"Small (101 to 1,000)",9/12/2017, ,Threat,SW,SW1,NBAC,243,Lightning,33850.14525
+1017,2017,AB,Coleman,49.634224,-114.531977,1475,2016 census,no,"Small (101 to 1,000)",10/17/2017, ,Threat,SW,SW3,NBAC,290,Unknown,98.80998803
+1020,2017,AB,Pincher Creek No. 9,49.136134,-113.848785,2965,2016 census,no,"Small (101 to 1,000)",9/11/2017, ,Threat,SW,SW3,NBAC,243,Lightning,33850.14525
+1023,2017,AB,Waterton Lakes National Park,49.050509,-113.912202,105,2016 census,no,"Small (101 to 1,000)",9/8/2017,9/20/2017,Threat,SW,SW5,NBAC,243,Lightning,33850.14525
+1024,2017,BC,100 Mile House,51.642778,-121.295556,1811,2016 census,no,"Medium (1,001 to 5,000)",7/9/2009,7/22/2009,Threat,SW,SW4,NBAC,187,Human,4868.403873
+1025,2017,BC,103 Mile,51.690047,-121.308945,576,2016 census,no,"Small (101 to 1,000)",7/7/2017,7/22/2017,Threat,SW,SW4,NBAC,187,Human,4868.403873
+1026,2017,BC,105 Mile House,51.708975,-121.327868,519,2016 SEDAC,no,"Small (101 to 1,000)",7/7/2017, ,Threat,SW,SW4,NBAC,187,Human,4868.403873
+1027,2017,BC,108 Mile House,51.728082,-121.350532,1537,2016 SEDAC,no,"Medium (1,001 to 5,000)",7/7/2017, ,Threat,SW,SW4,NBAC,187,Human,4868.403873
+1028,2017,BC,150 Mile House,52.111339,-121.929846,1138,2016 census,no,"Medium (1,001 to 5,000)",7/8/2017, ,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1029,2017,BC,Alexis Creek,52.084716,-123.27721,101,2016 census,no,"Small (101 to 1,000)",7/8/2017, ,Threat,SW,SW3,NBAC,170,Human,214293.384
+1030,2017,BC,Anahim's Flat 1,52.009744,-123.164228,342,2016 census,yes,Very Small (1 to 100),7/9/2017,9/15/2017,Threat,SW,SW3,NBAC,170,Human,214293.384
+1031,2017,BC,Ashcroft 4,50.719794,-121.318795,77,2017 ISC,yes,Very Small (1 to 100),7/9/2017,8/29/2017,Threat,SW,SW3,NBAC,187,Human,178120.4113
+1033,2017,BC,Boston Flats,50.768973,-121.303264, ,No census information available,no,"Small (101 to 1,000)", , ,Threat,SW,SW3,NBAC,187,Human,178120.4113
+1034,2017,BC,Cache Creek,50.811944,-121.323334,963,2016 census,no,"Small (101 to 1,000)",7/7/2017,7/18/2017,Threat,SW,SW3,NBAC,187,Human,178120.4113
+1035,2017,BC,Clinton,51.091667,-121.586667,641,2016 census,no,"Small (101 to 1,000)",7/29/2017, ,Threat,SW,SW3,NBAC,187,Human,178120.4113
+1036,2017,BC,Deep creek 2,52.267342,-122.098356,91,2016 census,yes,Very Small (1 to 100),7/13/2017,8/9/2017,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1037,2017,BC,Fox Mountain,52.146022,-122.086954,597,2016 census,no,"Small (101 to 1,000)",7/9/2017, ,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1039,2017,BC,Hanceville,51.919651,-123.04404,68,bcadventurecom,no,Very Small (1 to 100),7/9/2017, ,Threat,SW,SW3,NBAC,188,Lightning,209919.1142
+1040,2017,BC,Kaleden,49.379596,-119.581788,1203,2016 census,no,Very Small (1 to 100),7/4/2017,7/5/2017,Threat,SW,SW3,NBAC,185,Human,8.063568
+1041,2017,BC,Kleena Kleene,51.936409,-124.800426,20,chilcotinorg,no,Very Small (1 to 100),8/18/2017, ,Threat,SW,SW3,NBAC,188,Human,24246.26041
+1042,2017,BC,Lac la Hache,51.797694,-121.486453,258,2016 census,no,Very Small (1 to 100),7/7/2017, ,Threat,SW,SW4,NBAC,187,Human,4868.403873
+1043,2017,BC,Lake Country,50.034843,-119.432105,12922,2016 census,no,"Small (101 to 1,000)",7/15/2017,7/19/2017,Threat,SW,SW3,NBAC,196,Human,50.080079
+1045,2017,BC,Little Fort,51.42394,-120.205901,350,britishcolumbiacom,no,"Small (101 to 1,000)",7/7/2017,7/11/2017,Threat,SW,SW3,NBAC,188,Lightning,2636.100951
+1046,2017,BC,Loon Lake,51.078571,-121.312673,200,estimate (newspaper),no,"Small (101 to 1,000)",7/14/2017,8/20/2017,Threat,SW,SW4,NBAC,187,Human,178120.4113
+1048,2017,BC,Miocene,52.243056,-121.77222, ,No census information available,no,Very Small (1 to 100),7/7/2017, ,Threat,SW,SW4,NBAC,188,Human,2769.327974
+1049,2017,BC,Pine Valley,52.176218,-122.089532,204,2016 census,no,"Small (101 to 1,000)",7/15/2017,7/27/2017,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1050,2017,BC,Pressy Lake,51.372933,-121.037643,120,2014 official community plan,no,"Small (101 to 1,000)",7/29/2017, ,Threat,SW,SW4,NBAC,187,Human,178120.4113
+1051,2017,BC,Riske Creek,51.968611,-122.528333,165,britishcolumbiacom,no,"Small (101 to 1,000)",7/9/2017, ,Threat,SW,SW3,NBAC,188,Lightning,209919.1142
+1052,2017,BC,Soda creek 1,52.330027,-122.273114,59,2016 census,yes,Very Small (1 to 100),7/13/2017,8/9/2017,Threat,SW,SW4,NBAC,188,Lightning,167.7376703
+1053,2017,BC,Stone 1,51.924854,-123.137939,270,2016 ISC,yes,"Small (101 to 1,000)",7/8/2017, ,Threat,SW,SW3,NBAC,188,Lightning,209919.1142
+1054,2017,BC,Sugarcane,52.109197,-121.994492,276,2016 ISC,yes,"Small (101 to 1,000)",7/9/2017,8/16/2017,Threat,SW,SW4,NBAC,188,Human,9307.17861
+1055,2017,BC,Williams Lake,52.129167,-122.14,10753,2016 census,no,"Very large (>20,001)",7/15/2017, ,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1057,2017,BC,Princeton,49.537468,-120.518177,2745,2016 census,no,"Medium (1,001 to 5,000)",7/7/2017,7/22/2017,Threat,SW,SW5,NBAC,188,Human,3089.706876
+1058,2017,MB,Garden Hill First Nation,53.871389,-94.640833,4072,2017 ISC,yes,"Medium (1,001 to 5,000)",8/29/2017,9/19/2017,Smoke or Health,SC,SC4,NBAC,231,Lightning,28016.25225
+1059,2017,MB,Poplar River 16,52.993958,-97.266702,1354,2018 ISC,yes,"Small (101 to 1,000)",8/22/2017,9/7/2017,Threat,SC,SC4,NBAC,217,Lightning,4504.188398
+1060,2017,MB,Red Sucker Lake 1976,54.160833,-93.569444,981,2017 ISC,yes,"Small (101 to 1,000)",5/25/2017,6/1/2017,Smoke or health,SC,SC4,NBAC,137,Human,568.7529541
+1062,2017,MB,St. Theresa Point,53.827287,-94.853494,4046,2017 ISC,yes,"Medium (1,001 to 5,000)",8/29/2017,9/8/2017,Smoke or Health,SC,SC4,NBAC,231,Lightning,28016.25225
+1063,2017,MB,Wasagamack,53.895666,-94.934602,1974,2017 ISC,yes,"Medium (1,001 to 5,000)",8/29/2017,9/20/2017,Threat,SC,SC4,NBAC,231,Lightning,28016.25225
+1064,2017,NB,Miscou Island,47.945983,-64.556027,530,2016 census,no,Very Small (1 to 100),7/29/17,8/1/17,Threat,SE,SE1,NFDB.pt,210,Human,40
+1065,2017,ON,Summer Beaver,52.74593,-88.51401,394,2017 ISC,yes,"Small (101 to 1,000)",8/12/2017,8/22/2017,Smoke or Health,SC,SC4,NBAC,208,Lightning,6147.710407
+1213,2017,BC,Tatla Lake,51.904106,-124.605071,20,estimate (newspaper),no,Very Small (1 to 100),8/18/2017, ,Threat,SW,SW3,NBAC,188,Lightning,24246.26041
+1219,2017,BC,Wildwood,52.211939,-122.088026,537,2016 census,no,"Small (101 to 1,000)",7/7/2017, ,Threat,SW,SW4,NBAC,188,Lightning,9307.17861
+1220,2017,BC,Canim Lake,51.771326,-120.953867,439,2016 ISC,yes,"Small (101 to 1,000)",8/12/2017,8/14/2017,Threat,SW,SW4,NBAC,224,Lightning,170.1403727
+1069,2018,BC,Deadman Valley,51.157001,-120.877034,0,NA,no,Very Small (1 to 100),5/25/2018,5/29/2018,Threat,SW,SW4,NBAC,143,Human,2426.557813
+1071,2018,BC,Babine River Corridor Park,55.616667,-127.1125,0,NA,no,Very Small (1 to 100),8/14/2018,9/8/2018,Threat,SW,SW4,NBAC,213,Lightning,7484.875372
+1072,2018,BC,Gotchen Lake,52.136819,-120.691404,0,NA,no,Very Small (1 to 100),8/22/2018,8/28/2018,Threat,SW,SW5,NBAC,223,Lightning,359.212683
+1073,2018,BC,McGillivray,50.618147,-122.430449, ,No census information available,no,Very Small (1 to 100),8/23/2018,8/26/2018,Threat,SW,SW3,NBAC,218,Lightning,1328.533949
+1074,2018,BC,Cathedral Lakes Lodge,49.0655,-120.196715,0,NA,no,Very Small (1 to 100),8/24/2018,9/12/2018,Threat,SW,SW4,NBAC,227,Lightning,16883.83955
+1075,2018,BC,Dean River North,52.835336,-125.560537,0,NA,no,"Small (101 to 1,000)",8/8/2018,9/13/2018,Threat,SW,SW3,NBAC,212,Lightning,33002.6585
+1076,2018,BC,Elbow Lake,58.911889,-130.015225,0,NA,no,Very Small (1 to 100),8/1/2018,8/17/2018,Threat,N,NO4,NBAC,209,Lightning,129.7839022
+1077,2018,BC,Spencha Lake,53.869976,-125.892461,0,NA,no,Very Small (1 to 100),8/7/2018, ,Threat,SW,SW4,NBAC,212,Lightning,50867.07875
+1078,2018,BC,Germanson Landing,55.787205,-124.699618,42,Provincial Records,no,Very Small (1 to 100),8/17/2018,9/1/2018,Threat,SW,SW5,NBAC,219,Lightning,747.605252
+1079,2018,BC,Sunset Lake,54.48495,-126.344145,0,NA,no,Very Small (1 to 100),8/7/2018,8/15/2018,Threat,SW,SW3,NBAC,219,Human,209.0211744
+1080,2018,BC,François Lake,53.982039,-124.978207,0,NA,no,"Small (101 to 1,000)",8/7/2018,8/21/2018,Threat,SW,SW3,NBAC,213,Lightning,18253.38794
+1081,2018,BC,St. Mary Lake,49.616292,-116.194378,64,Provincial Records,no,Very Small (1 to 100),8/16/2018,9/4/2018,Threat,SW,SW3,NBAC,208,Lightning,10151.41264
+1082,2018,BC,Corbin,49.517006,-114.67591, ,No census information available,no,Very Small (1 to 100),8/14/2018,8/14/2018,Threat,SW,SW3,NBAC,222,Human,952.130127
+1083,2018,BC,Broadwater Bay,49.47531,-118.088004,27,Provincial Records,no,Very Small (1 to 100),8/21/2018,9/1/2018,Threat,SW,SW5,NBAC,223,Lightning,3834.822956
+1084,2018,BC,Eagle (Murphy) Lake,52.019303,-121.157292,0,NA,no,Very Small (1 to 100),8/10/2018,8/17/2018,Threat,SW,SW4,NBAC,212,Lightning,339.197149
+1086,2018,BC,Lower Post,59.924743,-128.491568,81,2016 census,yes,Very Small (1 to 100),8/20/2018,9/5/2018,Threat,N,NO2,NBAC,211,Lightning,51918.74687
+1087,2018,BC,Sheep Creek,49.145245,-117.136935,0,NA,no,Very Small (1 to 100),8/10/2018,9/4/2018,Threat,SW,SW5,NBAC,210,Lightning,671.154069
+1088,2018,BC,Peachland,49.714663,-119.757405,5428,2016 census,no,"Small (101 to 1,000)",7/18/2018,7/21/2018,Threat,SW,SW3,NBAC,198,Lightning,1318.860302
+1089,2018,BC,Summerland,49.650657,-119.723508,11615,2016 census,no,"Small (101 to 1,000)",7/19/2018,7/26/2018,Threat,SW,SW3,NBAC,198,Lightning,1318.860302
+1090,2018,BC,Murray Lake,49.789865,-121.003794,0,NA,no,Very Small (1 to 100),8/11/2018,9/4/2018,Threat,SW,SW3,NBAC,220,Lightning,2123.499797
+1091,2018,BC,Nadina Lake,53.907938,-126.977514,0,NA,no,Very Small (1 to 100),8/1/2018,9/12/2018,Threat,SW,SW4,NBAC,212,Lightning,67929.87672
+1092,2018,BC,Nanaimo Lakes,49.100781,-124.200831,0,NA,no,Very Small (1 to 100),8/6/2018,8/11/2018,Threat,SW,SW2,NBAC,217,Human,185.1968969
+1093,2018,BC,Narcosli Creek,52.838133,-122.929964,0,NA,no,Very Small (1 to 100),8/11/2018,8/25/2018,Threat,SW,SW4,NBAC,219,Lightning,4516.385189
+1094,2018,BC,Cathedral Provincial Park,49.076563,-120.179088,0,NA,no,Very Small (1 to 100),7/31/2018,8/28/2018,Threat,SW,SW4,NBAC,199,Lightning,16883.83955
+1095,2018,BC,Tchentlo Lake,55.231494,-125.269248,0,NA,no,Very Small (1 to 100),8/5/2018,8/28/2018,Threat,SW,SW5,NBAC,211,Lightning,2042.28757
+1096,2018,BC,Cheslatta Lake,53.738108,-125.028234,0,NA,no,Very Small (1 to 100),8/14/2018,9/12/2018,Threat,SW,SW3,NBAC,214,Human,50867.07876
+1097,2018,BC,Shag Creek,52.986244,-124.935454,0,NA,no,Very Small (1 to 100),8/8/2018, ,Threat,SW,SW3,NBAC,213,Lightning,8537.404782
+1099,2018,BC,Fraser Lake,54.090424,-124.737779, ,No census information available,no,"Small (101 to 1,000)",7/29/2018,9/2/2018,Threat,SW,SW4,NBAC,208,Human,69746.91486
+1100,2018,BC,Lower Similkameen 2,49.092216,-119.741723,285,2018 ISC,yes,Very Small (1 to 100),8/1/2018,8/4/2018,Threat,SW,SW3,NBAC,198,Lightning,16708.56312
+1101,2018,BC,Spences Bridge,50.427572,-121.326177,99,2016 census,no,Very Small (1 to 100),7/23/2018,7/23/2018,Threat,SW,SW3,NBAC,204,Human,74.8902985
+1102,2018,BC,D'arcy,50.65156,-122.419534,43,2016 census,no,Very Small (1 to 100),5/24/2018,5/30/2018,Threat,SW,SW3,NBAC,143,Lightning,1328.533949
+1103,2018,BC,Wycliffe,49.597269,-115.857045,230,2016 census,no,Very Small (1 to 100),7/19/2018,7/20/2018,Threat,SW,SW3,NBAC,200,Human,8.474703455
+1104,2018,BC,Takysie Lake,53.889237,-125.868947,60,estimate (newspaper),no,Very Small (1 to 100),8/11/2018,9/12/2018,Threat,SW,SW4,NBAC,212,Lightning,50867.07875
+1105,2018,BC,Tatelkus Lake 28,53.30835,-124.71876,59,2018 ISC,yes,Very Small (1 to 100),8/11/2018,9/10/2018,Access,SW,SW4,NBAC,211,Human,14820.31844
+1106,2018,BC,Tatelkuz Lake,53.323871,-124.559439,0,NA,no,"Small (101 to 1,000)",8/10/2018,9/10/2018,Threat,SW,SW4,NBAC,211,Human,14820.31844
+1107,2018,BC,Telegraph Creek,57.90484,-131.170808,335,2018 ISC,yes,"Small (101 to 1,000)",8/2/2018,11/13/2018,Threat,N,NO3,NBAC,213,Lightning,96784.1925
+1108,2018,BC,Tezzeron Lake,54.745997,-124.557542,0,NA,no,Very Small (1 to 100),8/23/2018,9/3/2018,Threat,SW,SW4,NBAC,211,Lightning,6836.695184
+1109,2018,BC,Nig,57.112653,-121.421956,NA,No census information available,no,Very Small (1 to 100),5/9/2018,5/31/2018,Threat,SC,SC4,NBAC,142,Lightning,16381.56549
+1110,2018,BC,Smithers Landing,55.059448,-126.522408, ,No census information available,no,Very Small (1 to 100),8/6/2018,9/5/2018,Threat,SW,SW3,NBAC,217,Lightning,2044.563233
+1111,2018,BC,Tweedsmuir Park,53.099438,-126.067093,0,NA,no,Very Small (1 to 100),8/14/2018,9/14/2018,Threat,SW,SW3,NBAC,219,Lightning,62466.07398
+1113,2018,BC,Wild Goose Lakes,51.454791,-121.845741,0,NA,no,Very Small (1 to 100),8/11/2018,9/4/2018,Threat,SW,SW4,NBAC,212,Lightning,6722.239628
+1114,2018,BC,Zeballos,49.988005,-126.84472,107,2016 census,no,Very Small (1 to 100),8/18/2018,8/29/2018,Threat,SW,SW2,NBAC,223,Lightning,134.8764477
+1115,2018,MB,Jackhead 43,51.913331,-97.308885,364,2018 ISC,yes,"Small (101 to 1,000)",5/21/2018,5/25/2018,Threat,SC,SC3,NBAC,141,Human,269.692432
+1116,2018,MB,Little Grand Rapids 14,52.021739,-95.451588,1359,2018 ISC,yes,"Medium (1,001 to 5,000)",5/22/2018,6/25/2018,Threat,SC,SC4,NBAC,141,Human,25957.39709
+1117,2018,MB,Pauingassi,52.155111,-95.374749,610,2018 ISC,yes,"Small (101 to 1,000)",5/22/2018,6/28/2018,Threat,SC,SC4,NBAC,141,Human,25957.39709
+1118,2018,MB,Shoal River,52.741658,-100.689556,1006,2018 ISC,yes,"Small (101 to 1,000)",5/22/2018,6/6/2018,Threat,SC,SC2,NBAC,140,Human,8881.270986
+1119,2018,NL,St. John`s,47.544996,-52.79363,197672,2016 census,no,Very Small (1 to 100),7/9/18,7/9/18,Threat,SE,SE6,NFDB.pt,190,Human,6.7
+1120,2018,NS,Cole Harbour,44.671599,-63.490062,92301,2016 Census,no,Very Small (1 to 100),6/10/18,6/11/18,Threat,SE,SE4,NBAC,161,Human,10.00366237
+1121,2018,SK,Flotten Lake,54.59903,-108.502407,NA,NA,no,Very Small (1 to 100),5/18/2018,5/22/2018,Threat,SC,SC3,NBAC,133,Human,6235.877884
+1122,2018,SK,Waterhen 130,54.515759,-108.405772,866,2018 ISC,yes,"Small (101 to 1,000)",5/15/2018,5/17/2018,Threat,SC,SC3,NBAC,133,Human,6235.877884
+1181,2018,SK,Crutwell,53.218733,-106.068327,57,2016 census,no,Very Small (1 to 100),5/14/2018,5/14/2018,Threat,SC,SC2,NBAC,132,Human,2365.935384
+1182,2018,SK,Crutwell,53.218727,-106.068325,57,2016 census,no,Very Small (1 to 100),5/15/2018,5/15/2018,Threat,SC,SC2,NBAC,132,Human,2365.935384
+1183,2018,SK,Kiskaciwan 208,53.200855,-106.06057,60,estimate (ISC),yes,Very Small (1 to 100),5/15/2018,5/17/2018,Threat,SC,SC2,NBAC,132,Human,2365.935384
+1184,2018,SK,Southend 200,56.326999,-103.240946,917,2016 census,yes,"Medium (1,001 to 5,000)",6/19/2018,6/25/2018,Threat,SC,SC4,NBAC,169,Lightning,8986.366439
+1221,2018,BC,Cathedral Lakes Lodge,49.065506,-120.196707,0,NA,no,Very Small (1 to 100),8/1/2018, ,Threat,SW,SW4,NBAC,199,Lightning,16883.83955
+1225,2018,BC,Glenora,57.846498,-131.3879,NA,No census information available,no,Very Small (1 to 100),8/2/2018, ,Threat,N,NO3,NBAC,213,Lightning,96784.1925
+1226,2018,BC,Kamloops 1,50.680022,-120.234758,665,2018 ISC,yes,Very Small (1 to 100),7/12/2018,7/14/2018,Threat,SW,SW3,NBAC,193,Human,542.2503036
+1227,2018,BC,Whitton Lake,52.023882,-125.555152,0,NA,no,Very Small (1 to 100),8/22/2018, ,Threat,SW,SW3,NBAC,226,Lightning,887.8038738
+1228,2018,BC,Cheslatta Carrier Nation,53.971298,-125.786645,164,2018 ISC,yes,"Small (101 to 1,000)",8/9/2018,9/4/2018,Threat,SW,SW4,NBAC,214,Human,50867.07876
+1229,2018,BC,Skins Lake 16B,53.946004,-125.652012,59,2018 ISC,yes,Very Small (1 to 100),8/12/2018,9/10/2018,Threat,SW,SW4,NBAC,212,Lightning,50867.07875
+1230,2018,BC,Cathedral Provincial Park,49.076564,-120.179087,0,NA,no,Very Small (1 to 100),8/24/2018,9/12/2018,Threat,SW,SW4,NBAC,227,Lightning,16883.83955
+1231,2018,BC,Cross River,50.617707,-115.791698,0,NA,no,Very Small (1 to 100),8/10/2018,8/28/2018,Threat,SW,SW5,NBAC,213,Lightning,2575.197105
+1232,2018,BC,Ponderosa,50.602324,-122.431773, ,No census information available,no,Very Small (1 to 100),8/23/2018,8/26/2018,Threat,SW,SW3,NBAC,218,Lightning,1328.533949
+1233,2018,BC,Klinaklini Lake,51.801921,-125.337267,0,NA,no,Very Small (1 to 100),8/20/2018, ,Threat,SW,SW3,NBAC,213,Lightning,17531.05119
+1234,2018,BC,Lang Lake,51.941655,-120.929587,0,NA,no,Very Small (1 to 100),8/10/2018,8/17/2018,Threat,SW,SW4,NBAC,212,Lightning,575.6865592
+1235,2018,BC,Bedingfield Lake,51.916655,-121.159952,0,NA,no,Very Small (1 to 100),8/10/2018,8/17/2018,Threat,SW,SW4,NBAC,212,Lightning,339.197149
+1236,2018,BC,Okanagan Lake Provincial Park,49.690539,-119.73048,0,NA,no,"Small (101 to 1,000)",7/19/2018,7/26/2018,Threat,SW,SW3,NBAC,198,Lightning,1318.860302
+1237,2018,BC,Okanagan Similkameen,49.669475,-119.705571,40,Provincial Records,no,"Small (101 to 1,000)",7/19/2018,7/26/2018,Threat,SW,SW3,NBAC,198,Lightning,1318.860302
+1238,2018,BC,Maple Springs Bible Camp,49.750332,-119.782857,0,NA,no,Very Small (1 to 100),7/19/2018, ,Threat,SW,SW3,NBAC,198,Lightning,1318.860302
+1239,2018,BC,François Lake,53.969684,-126.423422,88,Provincial Records,no,Very Small (1 to 100),8/9/2018,9/12/2018,Threat,SW,SW4,NBAC,212,Lightning,67929.87672
+1240,2018,BC,Similkameen River,49.087406,-119.737044,0,NA,no,Very Small (1 to 100),8/3/2018,8/6/2018,Threat,SW,SW3,NBAC,198,Lightning,16708.56312
+1241,2018,BC,Chopaka 7 & 8,49.052172,-119.723249,81,2016 census,yes,Very Small (1 to 100),8/3/2018,8/13/2018,Threat,SW,SW3,NBAC,198,Lightning,16708.56312
+1242,2018,BC,Buffalo Lake,51.668776,-121.112866,0,NA,no,"Small (101 to 1,000)",8/9/2018,8/14/2018,Threat,SW,SW4,NBAC,212,Lightning,15.43339399
+1243,2018,BC,Cahoose 8,52.877853,-125.682981, ,No census information available,yes,Very Small (1 to 100),8/17/2018,9/21/2018,Threat,SW,SW3,NBAC,212,Lightning,33002.6585
+1244,2018,BC,70 Mile House,51.310654,-121.292404, ,No census information available,no,Very Small (1 to 100),8/11/2018,8/12/2018,Threat,SW,SW4,NBAC,213,Lightning,635.8167975
+1245,2018,BC,Nadleh Whuten,54.087443,-124.598359,274,2018 ISC,yes,"Small (101 to 1,000)",8/14/2018,9/13/2018,Threat,SW,SW4,NBAC,208,Human,69746.91486
+1246,2018,BC,Southbank,54.020001,-125.770676,110,2016 census,no,"Small (101 to 1,000)",8/14/2018,9/12/2018,Threat,SW,SW4,NBAC,214,Human,50867.07876
+1247,2018,BC,Southside,53.811193,-125.840833, ,No census information available,no,"Small (101 to 1,000)",8/14/2018,9/12/2018,Threat,SW,SW4,NBAC,212,Lightning,50867.07875
+1248,2018,BC,Titetown Lake,53.320207,-123.809516, ,No census information available,no,Very Small (1 to 100),8/11/2018, ,Threat,SW,SW3,NBAC,211,Human,2179.230485
+1249,2018,BC,Yekooche,54.598119,-125.078858,111,2018 ISC,yes,Very Small (1 to 100),8/13/2018,9/12/2018,Access,SW,SW4,NBAC,208,Human,69746.91486
+1250,2018,BC,Francois Lake 7,54.010214,-125.941361,54,2018 ISC,yes,Very Small (1 to 100),8/10/2018,9/6/2018,Threat,SW,SW4,NBAC,214,Human,50867.07876
+1251,2018,BC,Tatla West 11,53.98502,-126.50006,95,2018 ISC,yes,Very Small (1 to 100),8/10/2018,9/12/2018,Threat,SW,SW4,NBAC,212,Lightning,67929.87672
+1252,2018,BC,Euchinico Creek 17,53.218513,-123.501869,130,2018 ISC,yes,Very Small (1 to 100),8/9/2018,8/27/2018,Tactical,SW,SW3,NBAC,220,Lightning,6688.983788
+1253,2018,BC,Nahlquonate 2,53.30107,-123.166891,130,2018 ISC,yes,Very Small (1 to 100),8/13/2018,9/5/2018,Threat,SW,SW4,NBAC,221,Lightning,6688.983788
+1254,2018,BC,Oclucje 7,49.990018,-126.942434,32,2018 ISC,yes,Very Small (1 to 100),8/17/2018,9/10/2018,Threat,SW,SW2,NBAC,223,Lightning,71.70662734
+1255,2018,BC,Ehatis 11,49.985115,-126.859037,165,2018 ISC,yes,Very Small (1 to 100),8/17/2018,9/21/2018,Threat,SW,SW2,NBAC,223,Lightning,134.8764477
+1256,2018,BC,Chenahkint 12,49.874003,-126.978663,165,2018 ISC,yes,Very Small (1 to 100),8/21/2018,9/21/2018,Threat,SW,SW2,NBAC,223,Lightning,647.659852
+1257,2018,BC,Tache 1,54.654472,-124.738238,401,2016 Census,yes,"Small (101 to 1,000)",8/14/2018,8/27/2018,Smoke or Health,SW,SW4,NBAC,211,Lightning,6836.695184
+1258,2018,BC,Williams Prairie Meadow 1A,54.469974,-124.194862,15,2016 Census,yes,Very Small (1 to 100),8/14/2018,9/7/2018,Threat,SW,SW4,NBAC,199,Human,69746.91486
+1259,2018,BC,Nak'azdli,54.434199,-124.254073,765,2018 ISC,yes,"Small (101 to 1,000)",8/14/2018,9/7/2018,Threat,SW,SW4,NBAC,208,Human,69746.91486
+1260,2018,BC,Stellaquo (Stella) 1,54.059715,-124.903951,226,2018 ISC,yes,Very Small (1 to 100),8/17/2018,9/3/2018,Threat,SW,SW4,NBAC,208,Human,69746.91486
+1261,2018,BC,Takla Landing,55.483009,-125.975695,219,2018 ISC,yes,Very Small (1 to 100),8/7/2018,8/28/2018,Access,SW,SW5,NBAC,217,Lightning,1439.718248
+1262,2018,BC,Fort Babine,55.32235,-126.62546,86,2016 Census,yes,Very Small (1 to 100),8/8/2018,8/30/2018,Smoke or Health,SW,SW5,NBAC,217,Lightning,2044.563233
+1263,2018,BC,Batnuni Lake,53.377944,-124.026464,0,NA,no,Very Small (1 to 100), , , ,SW,SW3,NBAC,211,Human,14820.31844
+1123,2019,AB,Boyer 164,58.445643,-116.264508,483,2018 ISC,yes,"Small (101 to 1,000)",6/17/2019,6/26/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.0799
+1124,2019,AB,Bushe River 207,58.515279,-117.065362,2162,2018 ISC,yes,"Small (101 to 1,000)",5/21/2019,6/6/2019,Smoke or Health,SC,SC3,NBAC,132,Unknown,318139.081
+1125,2019,AB,Bushe River 207,58.515279,-117.065362,2162,2018 ISC,yes,"Small (101 to 1,000)",6/17/2019,6/25/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1126,2019,AB,Chipewyan Lake,56.940278,-113.473333,38,2011 census,no,Very Small (1 to 100),5/29/2019,6/12/2019,Access,SC,SC4,NBAC,138,Unknown,213504.2418
+1128,2019,AB,Surette Lake,58.360811,-116.679782,NA,NA,no,Very Small (1 to 100),7/21/2019, ,Threat,SC,SC3,NBAC,132,Unknown,318139.0799
+1129,2019,AB,High Level,58.518056,-117.128889,3159,2016 census,no,"Medium (1,001 to 5,000)",5/20/2019,6/3/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1131,2019,AB,Indian Cabins,59.8675,-117.034722,10,estimate (newspaper),no,Very Small (1 to 100),6/17/2019, ,Threat,N,NO4,NBAC,147,Unknown,61190.14081
+1132,2019,AB,Keg River,57.7444088,-117.6300654,280,estimate,no,"Small (101 to 1,000)",5/29/2019,6/5/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1133,2019,AB,La Crete,58.186389,-116.410278,1860,2016 census,no,"Medium (1,001 to 5,000)",6/17/2019, ,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1134,2019,AB,La Crete Ferry Campground,57.977935,-117.125609,NA,NA,no,Very Small (1 to 100),5/29/2019, ,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1136,2019,AB,Marlboro,53.555556,-116.796111,90,2016 census,no,Very Small (1 to 100),5/19/2019,5/21/2019,Threat,SC,SC2,NBAC,132,Human,22.441026
+1137,2019,AB,Marten Beach,55.504,-114.925,2803,2016 census,no,"Small (101 to 1,000)",5/30/2019,6/12/2019,Threat,SC,SC3,NBAC,138,Unknown,213504.2418
+1139,2019,AB,Paddle Prairie Metis Settlements,57.948173,-117.472878,544,2016 census,no,"Small (101 to 1,000)",5/27/2019,6/20/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+1140,2019,AB,Peerless Lake,56.495702,-114.556876,845,2018 ISC,yes,"Small (101 to 1,000)",5/26/2019,6/8/2019,Smoke or Health,SC,SC3,NBAC,138,Unknown,213504.2437
+1141,2019,AB,Peerless Lake,56.495704,-114.556888,845,2018 ISC,yes,"Small (101 to 1,000)",6/18/2019,6/21/2019,Threat,SC,SC3,NBAC,138,Unknown,213504.2437
+1143,2019,AB,Mackenzie County,58.456944,-116.274722,11171,2016 census,no,"Medium (1,001 to 5,000)",6/17/2019, ,Threat,SC,SC3,NBAC,132,Unknown,318139.0799
+1144,2019,AB,Sandy Lake,55.814444,-113.416111,52,2016 census,no,Very Small (1 to 100),5/29/2019,6/12/2019,Threat,SC,SC3,NBAC,138,Unknown,213504.2437
+1145,2019,AB,Steen River,59.6275,-117.167222,12,Alta Roads,no,Very Small (1 to 100),5/29/2019,6/19/2019,Threat,N,NO4,NBAC,147,Unknown,61190.14081
+1146,2019,AB,Wabasca 166,55.943886,-113.763509,3499,2018 ISC,yes,"Medium (1,001 to 5,000)",5/29/2019,6/12/2019,Threat,SC,SC3,NBAC,138,Unknown,213504.2437
+1147,2019,AB,Wabasca-Desmarais,55.96766237,-113.8310341,3181,2016 census,no,"Medium (1,001 to 5,000)",5/29/2019,6/12/2019,Threat,SC,SC3,NBAC,138,Unknown,213504.2437
+1148,2019,BC,Fraser Lake,54.038142,-124.768371,988,2016 census,no,Very Small (1 to 100),5/11/2019,5/12/2019,Threat,SW,SW4,NBAC,131,Human,228.2716198
+1149,2019,BC,Tagish Lake,59.444772,-134.350842,0,NA,no,Very Small (1 to 100),8/21/2019,8/24/2019,Threat,N,NO3,NBAC,215,Lightning,1132.57458
+1150,2019,MB,Little Grand Rapids 14,52.021633,-95.451694,1359,2018 ISC,yes,"Small (101 to 1,000)",7/5/2019, ,Smoke or Health,SC,SC4,NBAC,182,Lightning,3111.547753
+1151,2019,MB,Pauingassi,52.155111,-95.374749,610,2018 ISC,yes,Very Small (1 to 100),7/7/2019,7/14/2019,Smoke or Health,SC,SC4,NBAC,182,Lightning,3111.547753
+1152,2019,ON,Pikangikum 14,51.805997,-93.986133,2862,2018 ISC,yes,"Medium (1,001 to 5,000)",6/4/2019,6/14/2019,Threat,SC,SC4,NBAC,149,Human,3801.40466
+1153,2019,ON,Pikangikum 14,51.805997,-93.986133,2862,2018 ISC,yes,"Medium (1,001 to 5,000)",7/5/2019, ,Threat,SC,SC4,NBAC,181,Lightning,42159.11986
+1154,2019,ON,Kee-Way-Win,53.004929,-92.797139,590,2018 ISC,yes,"Small (101 to 1,000)",7/5/2019, ,Smoke or Health,SC,SC4,NBAC,166,Lightning,95430.32244
+1172,2019,ON,Keewaywin,53.005006,-92.797096,590,2018 ISC,yes,"Small (101 to 1,000)",7/1/2019,7/17/2019,Threat,SC,SC4,NBAC,166,Lightning,95430.32244
+1173,2019,ON,Mattagami 71,47.798738,-81.527988,181,2018 ISC,yes,Very Small (1 to 100),7/9/19,7/9/19,Smoke or Health,SE,SE6,NBAC,193,Human,4675.970969
+1177,2019,MB,Poplar River 16,52.993958,-97.2667,1354,2018 ISC,yes,"Small (101 to 1,000)",7/1/2019,7/1/2019,Threat,SC,SC4,NBAC,181,Lightning,21.55268624
+1217,2019,AB,Millers Lake,53.556322,-116.764064,NA,No census information available,no,"Small (101 to 1,000)",5/19/2019,5/21/2019,Threat,SC,SC2,NBAC,139,Human,22.441026
+1264,2019,AB,Carcajou,57.7590984,-117.0488277,20,estimate (encyclopedia),no,Very Small (1 to 100),5/29/2019,6/5/2019,Threat,SC,SC3,NBAC,132,Unknown,318139.081
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
