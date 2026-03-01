@@ -24,3 +24,6 @@ The CLD diagram shows us how climate change has the ability to increase coastal 
 
 ## Visualization 3
 ![DamageofFloods](img/damage_by_floods.png)
+
+## Visualization 4
+![CostofFiresIn1999and2022](img/fires_1990_2022.png)
