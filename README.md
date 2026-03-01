@@ -18,6 +18,7 @@ The CLD diagram shows us how climate change has the ability to increase coastal 
 
 ## Visualization 1
 ![NetClaims](img/Net_claims.png)
+The graph shows a clear upward trend in flood-related costs across auto insurance claims, property and casualty (P&C) claims, and P&C insurance premiums from 1999 to 2022. While claim levels fluctuate in the early 2000s, both auto and P&C net claims increase significantly after the mid-2010s, with particularly sharp growth between 2018 and 2021. Net premiums for property and casualty insurance also rise steadily over time, suggesting insurers are adjusting pricing in response to growing flood-related losses. Overall, the data indicates that flood damage costs have escalated substantially in recent years, increasing financial pressure on insurers and policyholders alike.
 
 ## Visulaization 2
 ![CostFires](img/cost_fires.png)
