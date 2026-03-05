@@ -6,6 +6,8 @@ National Forestry Database - Canadian Council of Forest Ministers (CCFM). (n.d.)
 #2.
 Canada, N. R. (n.d.). CWFIS Datamart. Canadian Wildland Fire Information System. (02/26/2026) https://cwfis.cfs.nrcan.gc.ca/datamart 
 
-#3 Published by Statista Research Department, & 24, N. (2025, November 24). P&C Insurance Premiums in Canada 2022. Statista.(02/26/2026) https://www.statista.com/statistics/470384/net-premiums-written-property-casualty-insurance-canada/?srsltid=AfmBOopM70gIxHnFjSZDgELVrZ-Ci-q9tGsusM4lwSU_51twh2CaLUue 
+#3 
+Published by Statista Research Department, & 24, N. (2025, November 24). P&C Insurance Premiums in Canada 2022. Statista.(02/26/2026) https://www.statista.com/statistics/470384/net-premiums-written-property-casualty-insurance-canada/?srsltid=AfmBOopM70gIxHnFjSZDgELVrZ-Ci-q9tGsusM4lwSU_51twh2CaLUue 
 
-#3 Published by Jenny Yang, & 24, N. (2025, November 24). P&C Insurance claims in Canada 1990-2022. Statista. (02/26/2026) https://www.statista.com/statistics/470861/net-claims-incurred-property-casualty-insurance-canada/?srsltid=AfmBOooPSqVCnsRJ6RqHa-AYEJEHi9Gmwob_sDLS9cC8hISecKIbO77W 
+#4 
+Published by Jenny Yang, & 24, N. (2025, November 24). P&C Insurance claims in Canada 1990-2022. Statista. (02/26/2026) https://www.statista.com/statistics/470861/net-claims-incurred-property-casualty-insurance-canada/?srsltid=AfmBOooPSqVCnsRJ6RqHa-AYEJEHi9Gmwob_sDLS9cC8hISecKIbO77W 
