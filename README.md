@@ -87,6 +87,51 @@ Over the next 5-10 years, this option would produce significant short-term resul
 
 ************Do not forget to do****************
 
+## Leverage Point Analysis 
+
+The most effective leveragebpoint in this system is: increasing investment in forest-based resilience and long-term climate adaptation capacity. 
+
+This leverage point would have a high impact because it would directly effect the deep roots of the structure compared to only reacting to the visibile damages that occur. If we improve long-term climate resilience then we can reduce the vulnerability to major wildfire damage and the broader slimate related issues/losses over time. 
+
+This intervention would help to affect multiple variabes:
+
+* Increases long-term climate resilience
+* Reduces future climate impacts
+* Lowers wildfire housing damage
+* Reduces pressure for repeated reactive spending
+* Weakens dependence on short-term symptom-focused adaptation
+
+  It would also help to strengthen the balancing resilience loop and indirectly reduces pressure in the reinforcing damage cost loop.
+
+Potential risk that could occur include: 
+
+* Political resistance due to delayed visible benefits
+* Public demand for immediate coastal protection
+* Difficulty measuring short-term success
+* Uncertainty around how quickly benefits will appear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
