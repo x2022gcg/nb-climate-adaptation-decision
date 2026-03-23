@@ -29,3 +29,37 @@ This visualization presents flood-related auto claims, property and casualty cla
 ## Visualization 4
 ![CostofFiresIn1999and2022](img/fires_1990_2022.png)
 This visualization compares the total housing damage costs from forest fires in 1999 and 2020, highlighting a substantial increase between the two years. The clear upward difference suggests that wildfire-related damages have intensified over time, indicating greater financial exposure in more recent years. This matters for the Minister’s decision because it signals that wildfire risk is not only episodic but potentially growing in severity, increasing the long-term cost burden on communities and government disaster spending. The comparison strengthens the case for investing in forest-based resilience and wildfire mitigation programs, as preventative measures may reduce the likelihood of future high-cost fire seasons.
+
+## Milestone 3: Path A Foundational (System Focus) 
+
+System Archetype Identification: 
+The system schetypes I chose was "Shifting the Burden". Shifting the burden is when a quick fix undermindes the capacity for fundamental solutions. New Brunswick's climate adaptation funding decision fits perfectly within this archetype. Within this system, the rising climate related cost associated with damages help create a pressure for the Minister to take immediate action. Investing in a coastal flood protection infastrucutre/program would act as the quick and visible response to the flooding across Canada. The forest based carbon sequestration and wild-fire resilience programs would represent a program that goes deeper and is more of a long-term solution to address the broader climate issue. 
+
+As the cost for flooding goes up the public and political pressure will also go up for the investments that would show us short-term results. Examples of this coould be dikes and seawalls. These solutions for the costal flooding would reduce the damage of flooding in some areas but they do not help to 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
