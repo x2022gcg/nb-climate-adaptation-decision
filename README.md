@@ -67,7 +67,14 @@ This system reflects a short-term response to the visible damage can have an aff
 
 This diagram shows the shifting the burden archetype applied to the New Brunswick climate adaption system. The increasing climate impacts would cause pressure to make immediate flood damage protection, while investing in forest based resilience would offer a more long-term but way less visible solution to a slower moving issue. 
 
+##Scenario Narratives
 
+#Scenario 1: Status Quo
+If New Brunswick continues its current approach without a major shift in adaptation funding, climate-related damages are likely to continue increasing over the next 5–10 years. Flood-related insurance claims and premiums would likely keep rising as coastal flooding remains a recurring source of loss, while wildfire-related housing damage would continue to produce periodic spike years. In this scenario, the system remains reactive, with government attention focused on responding to visible damage after major events rather than reducing long-term vulnerability before damage occurs.
+
+The reinforcing loop of climate damage, insurance claims, premiums, and public pressure would remain dominant. As damage rises, pressure for action would increase, but without a clear reallocation of resources, spending would likely continue to be fragmented and event-driven. Public expenditure pressure would also continue to build, reducing flexibility for more strategic long-term investment.
+
+Over time, this may lead to higher recovery costs, growing insurance burdens on households and businesses, and continued exposure to both coastal flood and wildfire risks. A key uncertainty is how quickly climate impacts intensify, but under this scenario, the overall system is expected to become more costly and less resilient.
 
 
 
