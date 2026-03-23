@@ -1,18 +1,18 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from pathlib import Path
 
 st.set_page_config(page_title="NB Climate Adaptation Dashboard", layout="wide")
 
-st.title("New Brunswick Climate Adaptation Dashboard")
-st.write(
-    "Decision support tool comparing coastal flood-protection infrastructure "
-    "and forest-based resilience investments."
-)
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_DIR = BASE_DIR / "data"
+IMG_DIR = BASE_DIR / "img"
+
 @st.cache_data
 def load_data():
-    flood_df = pd.read_csv("data/flood_data.csv")
-    wildfire_df = pd.read_csv("data/wildfire_data.csv")
+    flood_df = pd.read_csv(DATA_DIR / "flood_data.csv")
+    wildfire_df = pd.read_csv(DATA_DIR / "wildfire_data.csv")
     return flood_df, wildfire_df
 
 flood_df, wildfire_df = load_data()
