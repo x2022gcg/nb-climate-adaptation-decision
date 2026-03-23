@@ -11,8 +11,8 @@ IMG_DIR = BASE_DIR / "img"
 
 @st.cache_data
 def load_data():
-    flood_df = pd.read_csv(DATA_DIR / "flood_data.csv")
-    wildfire_df = pd.read_csv(DATA_DIR / "wildfire_data.csv")
+    flood_df = pd.read_csv(DATA_DIR / "Data.csv")
+wildfire_df = pd.read_csv(DATA_DIR / "Canadian_Wildfire_Evacuation_Data.csv")
     return flood_df, wildfire_df
 
 flood_df, wildfire_df = load_data()
