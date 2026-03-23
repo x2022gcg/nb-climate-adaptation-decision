@@ -60,6 +60,12 @@ Evidence from Milestone 2 that supports the structure:
 
 This system reflects a short-term response to the visible damage can have an affect and weaken the long-term climate resilience.
 
+## Systems Archetype Diagram 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/be9260b4-7252-4e55-81ee-4fb1e5929c11" />
+
+This diagram shows the shifting the burden archetype applied to the New Brunswick climate adaption system. The increasing climate impacts would cause pressure to make immediate flood damage protection, while investing in forest based resilience would offer a more long-term but way less visible solution to a slower moving issue. 
+
 
 
 
