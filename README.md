@@ -67,14 +67,27 @@ This system reflects a short-term response to the visible damage can have an aff
 
 This diagram shows the shifting the burden archetype applied to the New Brunswick climate adaption system. The increasing climate impacts would cause pressure to make immediate flood damage protection, while investing in forest based resilience would offer a more long-term but way less visible solution to a slower moving issue. 
 
-##Scenario Narratives
+## Scenario Narratives
 
-#Scenario 1: Status Quo
-If New Brunswick continues its current approach without a major shift in adaptation funding, climate-related damages are likely to continue increasing over the next 5–10 years. Flood-related insurance claims and premiums would likely keep rising as coastal flooding remains a recurring source of loss, while wildfire-related housing damage would continue to produce periodic spike years. In this scenario, the system remains reactive, with government attention focused on responding to visible damage after major events rather than reducing long-term vulnerability before damage occurs.
+# Scenario 1: Status Quo
+If New Brunswick continues to stay within its current approach without making the required shift to adapt funding, the next 5-10 years the climate realated damages are expected to keep increasing. The flood related insurance claims and the premiums would most likely keep increasing as the coastal flooding will remain a continuous lose throughout each year. Wildfire related housing damage will continue to spike within certain years that are hard to predict. In this scenario, the system would still remain reactive. Meaning the goverment attention would be focused on responding to the visible/quantitative damage that occur after a major event rather then aiming to reduce the long-term vulnerability before the damages happen. 
 
-The reinforcing loop of climate damage, insurance claims, premiums, and public pressure would remain dominant. As damage rises, pressure for action would increase, but without a clear reallocation of resources, spending would likely continue to be fragmented and event-driven. Public expenditure pressure would also continue to build, reducing flexibility for more strategic long-term investment.
+The reinforcing loop of the climae change, insurance, claims, premiums, and public pressure would stay strong. While the damages continue to rise, the pressure from society would also increase. However, without a clear plan to allocate the required resources, the money spent would most likley keep going towards events that happen rather then planning for the future. Pressure from the public to allocate resources towards more long-term planning would hep greatly to make sure the required actin is taken. 
 
-Over time, this may lead to higher recovery costs, growing insurance burdens on households and businesses, and continued exposure to both coastal flood and wildfire risks. A key uncertainty is how quickly climate impacts intensify, but under this scenario, the overall system is expected to become more costly and less resilient.
+Over time, this could lead to the cost of recovery to increase, growig insurance on households and businesses, and exposure to both coastal flood and wildfire risks. One main uncertainty is that we are unsure of how quickly climate change can cause dramatic impacts, but in this scenario, the system is expected to become way more costly and way less resilient. 
+
+# Scenario 2: Coastal Flooding Protection (Intervention A)
+In this scenario, New Brunswick prioritizes coastal flooding protection infrastructure such as dikes and seawalls. These could reduce the damage caused caused right away and the flood losses in the higher risk coastal areas. Certain communities that are facing repeated flood threats could benefit from the stronger short term protection. 
+
+This scenario will directly target the flood risk side of the system and show immediate results regarding the rising insurance and damage trends that are shown in the selected data. However, it only covers the short-term solution within the shifting the burdens archetype. While flood protection may cause immediate results, it still does not address the long-term/deeper causes of climate vulnerability such as wildfire risk. 
+
+Over the next 5-10 years, this option would produce significant short-term results for the communities at risk, but it could also increase the dependence on engineered protection. It would increase public funding in general if the dikes or seawalls need to be maintain or upgraded throughout the years. One key uncertainty is if the future flood conditions will exceed the capacity of the protective measures. 
+
+# Scenario 3 
+
+************Do not forget to do****************
+
+
 
 
 
