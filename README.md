@@ -35,7 +35,30 @@ This visualization compares the total housing damage costs from forest fires in 
 System Archetype Identification: 
 The system schetypes I chose was "Shifting the Burden". Shifting the burden is when a quick fix undermindes the capacity for fundamental solutions. New Brunswick's climate adaptation funding decision fits perfectly within this archetype. Within this system, the rising climate related cost associated with damages help create a pressure for the Minister to take immediate action. Investing in a coastal flood protection infastrucutre/program would act as the quick and visible response to the flooding across Canada. The forest based carbon sequestration and wild-fire resilience programs would represent a program that goes deeper and is more of a long-term solution to address the broader climate issue. 
 
-As the cost for flooding goes up the public and political pressure will also go up for the investments that would show us short-term results. Examples of this coould be dikes and seawalls. These solutions for the costal flooding would reduce the damage of flooding in some areas but they do not help to 
+As the cost for flooding goes up the public and political pressure will also go up for the investments that would show us short-term results. Examples of this coould be dikes and seawalls. These solutions for the costal flooding would reduce the damage of flooding in some areas but they do not help to address the ecological and climate drivers that make wildfires and resiliance risks long-term. This would create a system that decision makers will most likely rely on what ever solution appears to be more short-term, which leads to underinvesting in the long-term solution. 
+
+Key Variables Within the Archetype: 
+
+* Climate Change Impacts
+* Costal Flood Risk
+* Infrastructure Damage
+* Insurande Claims
+* Insurance Premiums
+* Forest Based Resilience Investments
+* Costal Flood Protection Investment
+* Wildfire Housing Damage
+* Long Term Climate Resilience
+
+The reinforcing loop of the rising climate damage increases claims, premiums, and pressure for the short-term soultion, while the balancing of forest resilience loop would work much more slowly to help to reduce the long-term vulnerability. 
+
+Evidence from Milestone 2 that supports the structure:
+
+* Flood-related insurance claims and premiums increased from 1990-2022. Especially in the later years, showing how the financial pressure will grow because of the flood damage
+* Looking at the combined data of flood claims and premiums shows us that the increased losses usually are related to the premiums being higher.
+* Wildfire housing damage increased rapidly in different years. This shows that the climate related risk is not only limited to the costal flooding.
+* Comparing the wildfire damage in 1999 to 2020 shows the housing loss due to fires has increased over time.
+
+This system reflects a short-term response to the visible damage can have an affect and weaken the long-term climate resilience.
 
 
 
