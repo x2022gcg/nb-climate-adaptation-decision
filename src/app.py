@@ -8,7 +8,7 @@ DATA_DIR = BASE_DIR / "data"
 
 @st.cache_data
 def load_data():
-    flood_df = pd.read_csv(DATA_DIR / "Data.csv")
+    flood_df = pd.read_csv(DATA_DIR / "Data.csv", encoding="latin1")
     wildfire_df = pd.read_csv(DATA_DIR / "Canadian_Wildfire_Evacuation_Data.csv")
     return flood_df, wildfire_df
 
