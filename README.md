@@ -110,8 +110,8 @@ Potential risk that could occur include:
 * Difficulty measuring short-term success
 * Uncertainty around how quickly benefits will appear
 
-
-
+## Implications for the Decision 
+After analyzing the decision, it indicates that New Brunswick's climate adaptation system is being shaped by rising climate related damages and pressure for action right away. People want action they can see. After viewing the scanrios, it becomes clear the forest-based resilience investment stands out as the long-term strategy that will produce the best results. This is because it 
 
 
 
