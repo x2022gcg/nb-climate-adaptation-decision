@@ -111,7 +111,11 @@ Potential risk that could occur include:
 * Uncertainty around how quickly benefits will appear
 
 ## Implications for the Decision 
-After analyzing the decision, it indicates that New Brunswick's climate adaptation system is being shaped by rising climate related damages and pressure for action right away. People want action they can see. After viewing the scanrios, it becomes clear the forest-based resilience investment stands out as the long-term strategy that will produce the best results. This is because it 
+After analyzing the decision, it indicates that New Brunswick's climate adaptation system is being shaped by rising climate related damages and pressure for action right away. People want action they can see. After viewing the scanrios, it becomes clear the forest-based resilience investment stands out as the long-term strategy that will produce the best results. This is because it directly addresses the sources of how vulnerable we are to climate change and would improve Canada's ability to adapt over time. On the other hand, coastal flood protection infrastructure can help to minimize the danagers in the high-risk areas, but it would be responding to the flooding in a reactive way which could heavily increase infrastructure spending. 
+
+If Canada continues with their current approach, it would most likely continue to place strain on their system. This would lead to higher losses throughout the goverment and increase pressure on the already high public spending. While coastal protection would deliver short-term relief in high-risk areas, forest-based resilience provides stronger long-term benefits by lowering the wildfire and climate related issues in the future by reducing wildfires and climate related risks in the future while also directly improving ecosystem health and supporting carbon sequestration. The main risks/doubts are how quickly climate impacts could increase, how long will the resilience investments take to produce results, and whether specific high-risk coastal communities will need immediate short-term protection. 
+
+Overall, my analysis of the alternatives shows that if we prioritize forest-based resilience, while also using coastal protection in the high-risk areas would be the most productive and promising approach for strengthening the goverments performances. This will help me to make my final recommendation in Milestone 4.
 
 
 
