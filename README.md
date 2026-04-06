@@ -1,4 +1,4 @@
-![nb_climate_adaptation_cld](https://github.com/user-attachments/assets/f392a8d7-6fc2-492a-b5a1-5f7e4813628c)# nb-climate-adaptation-decision 
+# nb-climate-adaptation-decision 
 Policy backgrounder analyzing a climate adaptation funding decision in New Brunswick, examining trade-offs between coastal flood-protection infrastructure and long-term forest-based resilience strategies.
 
 ## Decision Statement 
@@ -43,6 +43,8 @@ This visualization presents flood-related auto claims, property and casualty cla
 This visualization compares the total housing damage costs from forest fires in 1999 and 2020, highlighting a substantial increase between the two years. The clear upward difference suggests that wildfire-related damages have intensified over time, indicating greater financial exposure in more recent years. This matters for the Minister’s decision because it signals that wildfire risk is not only episodic but potentially growing in severity, increasing the long-term cost burden on communities and government disaster spending. The comparison strengthens the case for investing in forest-based resilience and wildfire mitigation programs, as preventative measures may reduce the likelihood of future high-cost fire seasons.
 
 ## Final Refined CLD
+
+![nb_climate_adaptation_cld](https://github.com/user-attachments/assets/f392a8d7-6fc2-492a-b5a1-5f7e4813628c)
  
 New Brunswick's climate adaptation system is structured around three interlocking feedback loops that together create a persistent bias toward reactive, short-term spending over long-term resilience investment.
 
