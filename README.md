@@ -1,4 +1,4 @@
-# nb-climate-adaptation-decision 
+![nb_climate_adaptation_cld](https://github.com/user-attachments/assets/f392a8d7-6fc2-492a-b5a1-5f7e4813628c)# nb-climate-adaptation-decision 
 Policy backgrounder analyzing a climate adaptation funding decision in New Brunswick, examining trade-offs between coastal flood-protection infrastructure and long-term forest-based resilience strategies.
 
 ## Decision Statement 
@@ -10,11 +10,23 @@ The main choice this project looks at is whether public funding should go toward
 Investments in coastal infrastructure can offer those in danger quick and visible protection, but they are expensive and may have negative ecological effects. Even if they take longer to provide verifiable protection, forest-based strategies have longer-term advantages like reducing emissions, increasing ecosystem health, and lowering the risk of disasters in both rural and inland areas.
 
 The two choices of unbalanced distribution of costs and benefits across stakeholder groups and geographical areas, as well as the unpredictable nature of climate change, make this decision extremely difficult but critical. Selecting one strategy over another could limit the future flexibility and influence New Brunswick's adaptation to climate change strategy for years. Making an effective and effective policy decision consequently demands an understanding of the feedback they receive, delays, and unintended consequences related to each choice.
-## Initial CLD:
-![394C95ED-70CA-4CC3-9D69-0DB0B7BA0295_1_105_c](https://github.com/user-attachments/assets/4157a328-f31a-4d83-b961-84e0c0a6de86)
 
-## Initial CLD Diagram Description
-The CLD diagram shows us how climate change has the ability to increase coastal flood risk and infrastructure damage, driving investmentin flood-protection infrastructure that could encourage further coastal development and support long-term risk (R1). The balamcing loop has thr ability to capture how rising adaptation  spending creates fiscal pressure that constrains additional investment (B1). The second balancing loop illustrates how investment in forest-based resilience strengths long-term climate resilience, reducing future climate impacts and stabilizing the system over time 
+## Table of Contents 
+1. [Background](#background)
+2. [Data Sources](#data-sources)
+3. [Exploratory Findings](#exploratory-findings)
+4. [System Dynamics — Final CLD](#system-dynamics--final-cld)
+5. [Analysis — System Archetype](#analysis--system-archetype)
+6. [Scenario Analysis](#scenario-analysis)
+7. [Recommendations](#recommendations)
+8. [Limitations and Future Work](#limitations-and-future-work)
+9. [References](#references)
+
+## Background
+
+See [Background.md](Background.md) for full context on New Brunswick's climate exposure, the policy environment, and stakeholder landscape.
+
+New Brunswick is one of Canada's most climate-exposed provinces. It has 2,500 km of coastline vulnerable to storm surge and sea-level rise, while its interior forests face increasing fire risk due to warming temperatures and shifting precipitation patterns. Provincial decision-makers must allocate limited adaptation dollars across both threats — a trade-off with significant consequences for public safety, insurance affordability, and long-term economic resilience.
 
 ## Visualization 1
 ![NetClaims](img/Net_claims.png)
@@ -30,9 +42,24 @@ This visualization presents flood-related auto claims, property and casualty cla
 ![CostofFiresIn1999and2022](img/fires_1990_2022.png)
 This visualization compares the total housing damage costs from forest fires in 1999 and 2020, highlighting a substantial increase between the two years. The clear upward difference suggests that wildfire-related damages have intensified over time, indicating greater financial exposure in more recent years. This matters for the Minister’s decision because it signals that wildfire risk is not only episodic but potentially growing in severity, increasing the long-term cost burden on communities and government disaster spending. The comparison strengthens the case for investing in forest-based resilience and wildfire mitigation programs, as preventative measures may reduce the likelihood of future high-cost fire seasons.
 
-## Milestone 3: Path A Foundational (System Focus) 
+## Final Refined CLD
+ 
+New Brunswick's climate adaptation system is structured around three interlocking feedback loops that together create a persistent bias toward reactive, short-term spending over long-term resilience investment.
 
-System Archetype Identification: 
+**Reinforcing Loop R1 — The Damage-Cost Spiral:** 
+Climate change intensifies both coastal flood risk and wildfire conditions, leading to increased infrastructure damage and property losses. These losses drive up insurance claims, which in turn push premiums higher across the property and casualty system. Rising premiums increase financial pressure on households and businesses, generating public and political demand for immediate, visible government action. This demand feeds back into pressure for short-term infrastructure spending — such as dike construction — which can temporarily reduce local flood damage but does nothing to slow the underlying climate trajectory. As climate impacts continue to grow, the loop reinforces itself, producing escalating costs over time.
+
+**Balancing Loop B1 — Fiscal Constraint:** 
+As adaptation spending grows, it creates fiscal pressure on the provincial budget. This pressure acts as a brake, constraining the total amount of public investment available for climate programs. The balancing effect is important because it means the province cannot simply invest in both coastal protection and forest resilience at scale simultaneously — choices and trade-offs are unavoidable. Without a deliberate strategy, fiscal pressure tends to favour projects that deliver measurable near-term results, disadvantaging longer-horizon programs.
+
+**Balancing Loop B2 — Forest Resilience:** 
+Investment in forest-based programs — improved forest management, prescribed burns, wildfire risk reduction, and carbon sequestration — strengthens long-term climate resilience over time. As resilience improves, the system becomes less vulnerable to the kind of extreme wildfire events that cause sudden, large-scale housing damage and trigger costly emergency response. This loop operates on a longer time horizon than the damage-cost spiral, meaning its benefits are slower to appear and harder to measure politically — but its stabilizing effect is more durable.
+
+The structure as a whole creates the conditions for the "Shifting the Burden" archetype (see Analysis section below). The reinforcing damage loop creates urgency; fiscal constraints limit total investment; and the slower forest resilience loop is systematically underweighted because its payoff is delayed. The leverage point — where an intervention could most effectively shift system behaviour — lies in **committing sustained, protected funding to forest-based resilience programs**, insulating them from the short-term political pressure that the reinforcing loop generates.
+
+
+##System Archetype Identification: 
+
 The system schetypes I chose was "Shifting the Burden". Shifting the burden is when a quick fix undermindes the capacity for fundamental solutions. New Brunswick's climate adaptation funding decision fits perfectly within this archetype. Within this system, the rising climate related cost associated with damages help create a pressure for the Minister to take immediate action. Investing in a coastal flood protection infastrucutre/program would act as the quick and visible response to the flooding across Canada. The forest based carbon sequestration and wild-fire resilience programs would represent a program that goes deeper and is more of a long-term solution to address the broader climate issue. 
 
 As the cost for flooding goes up the public and political pressure will also go up for the investments that would show us short-term results. Examples of this coould be dikes and seawalls. These solutions for the costal flooding would reduce the damage of flooding in some areas but they do not help to address the ecological and climate drivers that make wildfires and resiliance risks long-term. This would create a system that decision makers will most likely rely on what ever solution appears to be more short-term, which leads to underinvesting in the long-term solution. 
@@ -83,9 +110,8 @@ This scenario will directly target the flood risk side of the system and show im
 
 Over the next 5-10 years, this option would produce significant short-term results for the communities at risk, but it could also increase the dependence on engineered protection. It would increase public funding in general if the dikes or seawalls need to be maintain or upgraded throughout the years. One key uncertainty is if the future flood conditions will exceed the capacity of the protective measures. 
 
-# Scenario 3 
-
-************Do not forget to do****************
+## Scenario 3 
+Prioritizing investment in forest management, prescribed fire programs, wildfire risk reduction, and carbon sequestration addresses the deeper structural drivers of climate vulnerability. Over 5–10 years, this approach would reduce the frequency and severity of extreme wildfire damage events, improve ecosystem health, and support carbon sequestration goals. It does not, however, provide immediate relief to coastal communities facing near-term flood risk — meaning it may face political resistance in the absence of complementary short-term measures.
 
 ## Leverage Point Analysis 
 
@@ -116,6 +142,20 @@ After analyzing the decision, it indicates that New Brunswick's climate adaptati
 If Canada continues with their current approach, it would most likely continue to place strain on their system. This would lead to higher losses throughout the goverment and increase pressure on the already high public spending. While coastal protection would deliver short-term relief in high-risk areas, forest-based resilience provides stronger long-term benefits by lowering the wildfire and climate related issues in the future by reducing wildfires and climate related risks in the future while also directly improving ecosystem health and supporting carbon sequestration. The main risks/doubts are how quickly climate impacts could increase, how long will the resilience investments take to produce results, and whether specific high-risk coastal communities will need immediate short-term protection. 
 
 Overall, my analysis of the alternatives shows that if we prioritize forest-based resilience, while also using coastal protection in the high-risk areas would be the most productive and promising approach for strengthening the goverments performances. This will help me to make my final recommendation in Milestone 4.
+
+## Recomendations
+
+The evidence from this analysis supports a **dual-track adaptation strategy**: prioritize sustained, long-term investment in forest-based resilience and wildfire mitigation as the foundation of New Brunswick's climate adaptation approach, while directing targeted coastal protection infrastructure spending to the highest-risk communities where near-term flood exposure is acute and growing.
+
+The data is clear that both risks are real and escalating. Flood-related insurance claims and premiums have risen significantly since the late 1990s, and the correlation between rising claims and rising premiums shows that these costs are being transferred directly to New Brunswick residents. At the same time, wildfire housing damage has produced extreme-loss years that dwarf average-year losses — and the comparison between damage levels in the late 1990s and the 2016–2020 period shows that peak severity is increasing over time. Neither risk can be responsibly ignored.
+
+However, the systems analysis reveals a structural trap that New Brunswick must consciously avoid. Coastal infrastructure addresses visible, politically salient damage but does not reduce the underlying climate vulnerability that drives wildfire risk, ecosystem stress, and long-term exposure. If the province responds primarily to short-term pressure by concentrating resources in coastal protection, it risks chronically underfunding the forest-based programs that would reduce vulnerability across a broader geographic and temporal horizon. This is the "Shifting the Burden" dynamic: the symptomatic fix displaces the fundamental solution, leaving the system more exposed over time.
+
+The recommended approach breaks this pattern in two ways. First, forest-based resilience investment — including improved forest management practices, wildfire risk reduction programs, and carbon sequestration initiatives — should be established as a protected budget line that is not subject to reallocation after major flood events. This insulates the long-term strategy from short-term political pressure. Second, a structured risk-tiering process should identify the coastal communities with the highest near-term flood exposure and prioritize engineered protection in those specific areas, rather than funding large-scale coastal infrastructure programs province-wide.
+
+There are important uncertainties that could affect this recommendation. The timeline for forest resilience benefits to materialize is not precisely known, and some coastal communities may face immediate risks that require action before long-term programs produce measurable results. If climate change accelerates faster than current models project, engineered coastal protection may need to be scaled up more quickly. Conversely, if fiscal constraints tighten, the province may need to make harder choices between the two tracks.
+
+As concrete next steps, the Minister should commission a coastal risk-tiering assessment to identify the communities with the greatest near-term flood exposure; establish a dedicated forest resilience funding envelope in the next provincial budget cycle; and develop measurable targets for both tracks so that progress can be reported publicly and investment decisions can be adjusted as new data emerges.
 
 
 
