@@ -159,6 +159,13 @@ There are important uncertainties that could affect this recommendation. The tim
 
 As concrete next steps, the Minister should commission a coastal risk-tiering assessment to identify the communities with the greatest near-term flood exposure; establish a dedicated forest resilience funding envelope in the next provincial budget cycle; and develop measurable targets for both tracks so that progress can be reported publicly and investment decisions can be adjusted as new data emerges.
 
+## Limitations and Future Work
+
+- Insurance data is national (Canada-wide), not New Brunswick-specific. Provincial-level claims data would strengthen the flood risk analysis.
+- The CLD is a qualitative model. A quantitative system dynamics model (e.g., Vensim simulation) could test whether the leverage point recommendations hold under different parameter assumptions.
+- Wildfire data covers all of Canada. A New Brunswick-specific fire risk analysis would improve local relevance.
+- Future work could incorporate sea-level rise projections specific to New Brunswick's coastline to better quantify the trade-off between coastal infrastructure urgency and resilience investment.
+
 
 
 
